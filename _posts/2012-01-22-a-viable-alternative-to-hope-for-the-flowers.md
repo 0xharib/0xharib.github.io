@@ -17,12 +17,7 @@ meta:
   _thumbnail_id: '64'
   _edit_last: '77721598'
   geo_public: '0'
-author:
-  login: 8u1x0
-  email: hari.balaji@gmail.com
-  display_name: Hari Balaji
-  first_name: Hari
-  last_name: Balaji
+
 permalink: "/2012/01/22/a-viable-alternative-to-hope-for-the-flowers/"
 ---
 From [Orbiting the Giant Hairball : A Corporate Fool's Guide to Surviving with Grace](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)

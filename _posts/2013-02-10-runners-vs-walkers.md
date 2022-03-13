@@ -17,12 +17,7 @@ meta:
   _publicize_job_id: '20478318460'
   _edit_last: '77721598'
   geo_public: '0'
-author:
-  login: 8u1x0
-  email: hari.balaji@gmail.com
-  display_name: Hari Balaji
-  first_name: Hari
-  last_name: Balaji
+
 permalink: "/2013/02/10/runners-vs-walkers/"
 ---
 This was originally posted on Facebook on 10th February 2013

@@ -16,12 +16,7 @@ meta:
   _rest_api_client_id: "-1"
   _publicize_job_id: '20479664188'
   geo_public: '0'
-author:
-  login: 8u1x0
-  email: hari.balaji@gmail.com
-  display_name: Hari Balaji
-  first_name: Hari
-  last_name: Balaji
+
 permalink: "/2012/11/25/line-monarch-refuses-to-believe-in-flatland/"
 ---
 [Suhas Mathur](http://suhasmathur.com) introduced me to [Flatland](http://www.geom.uiuc.edu/~banchoff/Flatland/).
