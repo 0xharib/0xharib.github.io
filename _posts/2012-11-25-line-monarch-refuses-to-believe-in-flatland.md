@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Line Monarch refuses to believe in Flatland
 date: 2012-11-25 15:14:07.000000000 +05:30
 type: post

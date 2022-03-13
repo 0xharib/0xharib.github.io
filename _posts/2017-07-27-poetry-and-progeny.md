@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Poetry and Progeny
 date: 2017-07-27 00:19:10.000000000 +05:30
 type: post

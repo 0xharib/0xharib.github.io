@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Why you should read John Brunner if you care about the future
 date: 2016-03-14 19:54:48.000000000 +05:30
 type: post

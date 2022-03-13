@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Collapse - Jared Diamond
 date: 2013-10-01 16:47:37.000000000 +05:30
 type: post

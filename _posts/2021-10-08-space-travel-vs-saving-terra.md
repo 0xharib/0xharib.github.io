@@ -1,27 +1,11 @@
 ---
-layout: post
+layout: article
 title: Space Travel vs Saving Terra
-date: 2021-10-08 23:10:28.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
+mathjax: true
 status: publish
 categories:
 - books
 - life
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1331'
-  _publicize_job_id: '63928115082'
-  timeline_notification: '1633714830'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:27023605;s:54:"https://twitter.com/_HariB_/status/1446530962138046476";}}
-  _publicize_done_23987778: '1'
-  _wpas_done_27023605: '1'
-  publicize_twitter_user: _HariB_
-
-permalink: "/2021/10/08/space-travel-vs-saving-terra/"
 excerpt: TLDR; Aurora by Kim Stanley Robinson provides valuable perspective on how difficult it is for us to colonize other planets
 ---
 _TLDR; [Aurora](https://www.amazon.in/Aurora-42467-Kim-Stanley-Robinson/dp/0356500489) by Kim Stanley Robinson provides valuable perspective on how difficult it is for us to colonize other planets_

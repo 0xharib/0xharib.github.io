@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: NPR's Sci-Fi and Fantasy Books Navigational Map
 date: 2016-04-10 19:33:29.000000000 +05:30
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Why everyone should download Overdrive and switch to Audiobooks
 date: 2016-03-09 00:10:05.000000000 +05:30
 type: post

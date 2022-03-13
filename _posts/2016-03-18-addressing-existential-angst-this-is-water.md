@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Addressing Existential Angst - This is Water
 date: 2016-03-18 00:15:03.000000000 +05:30
 type: post

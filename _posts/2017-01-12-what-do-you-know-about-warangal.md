@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: What do you know about Warangal?
 date: 2017-01-12 23:17:38.000000000 +05:30
 type: post

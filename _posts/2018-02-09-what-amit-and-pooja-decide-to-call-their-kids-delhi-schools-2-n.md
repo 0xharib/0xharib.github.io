@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: What Amit and Pooja decide to call their kids (Delhi Schools - 2/n)
 date: 2018-02-09 20:30:52.000000000 +05:30
 type: post

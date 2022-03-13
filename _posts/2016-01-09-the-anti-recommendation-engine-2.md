@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: the anti-recommendation engine - 2
 date: 2016-01-09 05:35:39.000000000 +05:30
 type: post

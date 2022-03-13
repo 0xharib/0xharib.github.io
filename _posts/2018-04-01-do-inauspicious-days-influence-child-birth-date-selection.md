@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Do inauspicious days influence child birth date selection?
 date: 2018-04-01 00:35:27.000000000 +05:30
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: A viable alternative to "Hope for the Flowers" ?
 date: 2012-01-22 06:24:17.000000000 +05:30
 type: post

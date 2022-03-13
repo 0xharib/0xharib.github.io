@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Maps & Mondrian
 date: 2021-08-20 19:25:00.000000000 +05:30
 type: post

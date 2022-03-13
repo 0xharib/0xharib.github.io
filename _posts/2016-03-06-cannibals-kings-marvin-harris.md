@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Cannibals & Kings - Marvin Harris
 date: 2016-03-06 15:20:58.000000000 +05:30
 type: post

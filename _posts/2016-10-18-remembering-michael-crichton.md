@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Remembering Michael Crichton
 date: 2016-10-18 22:00:00.000000000 +05:30
 type: post

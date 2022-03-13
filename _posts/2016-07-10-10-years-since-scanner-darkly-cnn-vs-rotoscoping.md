@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 10 years since Scanner Darkly - CNN vs Rotoscoping
 date: 2016-07-10 12:34:52.000000000 +05:30
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Data Mining Hong Kong Property Prices
 date: 2016-03-20 13:52:23.000000000 +05:30
 type: post

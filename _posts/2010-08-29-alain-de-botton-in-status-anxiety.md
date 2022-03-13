@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Alain de Botton in "Status Anxiety"
 date: 2010-08-29 06:20:42.000000000 +05:30
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Runners vs Walkers
 date: 2013-02-10 05:52:45.000000000 +05:30
 type: post

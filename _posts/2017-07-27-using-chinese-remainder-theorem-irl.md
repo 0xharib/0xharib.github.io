@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Using Chinese Remainder Theorem IRL
 date: 2017-07-27 20:57:57.000000000 +05:30
 type: post

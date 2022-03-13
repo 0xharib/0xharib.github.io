@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Delhi Schools - 1/n
 date: 2018-02-02 21:25:16.000000000 +05:30
 type: post

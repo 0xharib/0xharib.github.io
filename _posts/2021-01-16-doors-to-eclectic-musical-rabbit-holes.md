@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Doors to Eclectic Musical Rabbit Holes
 date: 2021-01-16 21:36:00.000000000 +05:30
 type: post
