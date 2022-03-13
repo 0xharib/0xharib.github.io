@@ -34,4 +34,4 @@ Armed with Marc Andreesen’s hairstyle & Warren Buffet’s fondness for cherry 
 
 Thanks for dropping by!!
 
-![]({{ site.baseurl }}/assets/images/img_5161.webp)
+![]({{ site.baseurl }}/assets/images/img_5161.png)
