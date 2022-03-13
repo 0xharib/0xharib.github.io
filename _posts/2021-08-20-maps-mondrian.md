@@ -57,7 +57,7 @@ _Composition II - Courtesy: Wikimedia_
 
 I also recently encountered this wonderful piece of work which you can buy from Amazon which sets up the world map in a wonderful nod to Mondrian. The artist Michael Tompsett does some amazing map work and you can see his work here: [https://michael-tompsett.pixels.com/](https://michael-tompsett.pixels.com/)
 
-![Mondrian - Michael Tompsett](https://www.amazon.com/Mondrian-Michael-Tompsett-30x47-Inch-Art/dp/B009VXJW6A)
+![Mondrian - Michael Tompsett](https://m.media-amazon.com/images/I/61tmJs2yL-L._AC_SL1000_.jpg)
 
 This picture really bothered me and it took me a while to place a finger on it.
 
