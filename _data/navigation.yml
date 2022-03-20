@@ -54,7 +54,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Books
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -76,4 +76,4 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about2.html
+    url: /archive.html?tag=books
