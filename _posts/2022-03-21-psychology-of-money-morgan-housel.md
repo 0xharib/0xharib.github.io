@@ -13,6 +13,7 @@ categories:
 - money
 - life
 tags: []
+excerpt: Key takeaways from Psychology of Money
 ---
 # The Psychology of Money - [[Morgan Housel]]
 
