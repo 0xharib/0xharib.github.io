@@ -1,6 +1,6 @@
 ---
 layout: article
-title:
+title: The Psychology of Money by Morgan Housel
 date: 2022-03-21 00:00:00
 type: post
 parent_id: '0'
@@ -15,9 +15,6 @@ categories:
 tags: []
 excerpt: Key takeaways from Psychology of Money
 ---
-# The Psychology of Money
-### by Morgan Housel
-
 ### Wisdom
 
 - Over-indexing on your personal experience is to be avoided
