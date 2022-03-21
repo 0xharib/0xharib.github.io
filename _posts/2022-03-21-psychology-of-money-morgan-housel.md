@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Psychology of Money - Morgan Housel
+title:
 date: 2022-03-21 00:00:00
 type: post
 parent_id: '0'
