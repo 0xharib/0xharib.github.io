@@ -6,7 +6,7 @@ type: post
 parent_id: '0'
 published: true
 password: ''
-status: publish
+status: drafts
 categories:
 - life
 tags: []
