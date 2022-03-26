@@ -13,30 +13,33 @@ categories:
 tags: []
 excerpt: Key takeaways from The Order of Time
 ---
-## Entropy and Time
+# Entropy and Time
 - all physics phenomena are reversible except those that involve **heat transfer**
 - heat cannot be transferred from a cold object to a hot object in forward time
 - heat transfer is integral to processes that are time constrained including things like growing old
 - causality also comes into being because of entropy
 
-## The idea of now is a myth
+# The idea of now is a myth
 - **"Now"** doesn't exist. 
 - The present is a myth we create in our heads to connect past and future
 - the world can be understood only as a sequence of Events and not just as States
 - there is no "absolute" reality. There is no absolute anything - time or space. even if such a thing exists it cannot be sensed by us.
 
-## Thought experiments
-### "Where" is relative and not absolute
+# Thought experiments
+
+## "Where" is relative and not absolute
 - Iterative Q&A
   - Where are you? I am in Mumbai.
   - Where is Mumbai? Mumbai is in India.
   - Where is India? India is a country on planet Earth
   - *continuing this thread of reasoning we end with ...*
   - Where is the Universe? To which we can't have a meaningful answer
+
 ### "When" is relative and not absolute
 - A moment in time can be only defined as before or after another moment at **THAT PARTICULAR PLACE**
 - *HB: this part is not clear or convincing*
-### Entropy is relative to the OBSERVER and not absolute
+
+## Entropy is relative to the OBSERVER and not absolute
 - take a pack of cards that is arranged by suit and by number
 - shuffle it
 - entropy as gone up would you say?
@@ -44,7 +47,7 @@ excerpt: Key takeaways from The Order of Time
 - Well, you DEFINED the initial state of cards ordered in a certain manner important to YOU as being a state of low entropy
 - in the larger scheme of things how would you know entropy is going up and not down?
    
-## Entropy
+# Entropy
 - the world is a collection of events not ordered in time
 - the arrow of time is created by us to make sense of causal relationships between these events or increases in entropy
 - in order to understand this world we need to constantly connect prior causes to post effects
@@ -68,7 +71,7 @@ excerpt: Key takeaways from The Order of Time
 - Gravity - if you think about a dispersed state of many molecules spread about vs gravitational collapse that is causing them all to fuse to a point - the latter has MUCH lower entropy
 - *HB: CR says this is a theory and not confirmed*
 
-## Causality and Time and Free Will
+# Causality, Time & Free Will
 - movement from lower to higher entropy leaves perceptible traces
 - these traces convey to us a sense of "fixedness" and "unchangeability" which we perceive as past
 - we do not see similar traces from the future which we take to imply free will
@@ -79,19 +82,22 @@ excerpt: Key takeaways from The Order of Time
 ## Who am I?
 - how are we different from say an instance of a sufficiently complex software program that starts, runs and terminates? Which can be programmed to make copies of itself etc?
 
-### Three Ingredients of Human Identity
-#### Point of View
+# Three Ingredients of Human Identity
+
+## Point of View
 - each of us represents a unique view on the world
     - strawberries are tasty or bittergourd is bitter
     - god exists or doesn't exist
     - my particular religion
     - my opinions and my morality
-#### Empathetic Reflection
+
+## Empathetic Reflection
 - all animals need to be able to use their senses to process their environment. 
 - they have some sense of where their bodies end and the external world begins. 
 - Our minds are sufficiently developed to go one level higher and to understand how **others** perceive the world => how others perceive **US**.
 - Being able to contemplate how others perceive us leads to the reinforcement of Identity
-#### String of Memories
+
+## String of Memories
 - we have a string of memories in our head both long term and short term and we need a story or a way of making sense of it all. 
 - This evokes the question: Whose memories are these? What is the common thread behind these recordings in my brain?
 - Identity or self is a useful mental response to make sense of this.
