@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Truchet Tiling - Diverse Pattens from simple building blocks
+title: Truchet Tiling - Diverse Patterns from simple building blocks
 date: 2022-06-12 00:00:00
 type: post
 parent_id: '0'
