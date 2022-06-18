@@ -14,4 +14,4 @@ tags: ['geekery','tiling']
 excerpt: Script that uses your name to generate a bespoke hexagonal tiling
 ---
 
-<iframe src="https://editor.p5js.org/0xharib/full/dhvzPZFI7" width="100%" height="100%"></iframe>
+<iframe src="https://editor.p5js.org/0xharib/full/dhvzPZFI7" width="600" height="625"></iframe>
