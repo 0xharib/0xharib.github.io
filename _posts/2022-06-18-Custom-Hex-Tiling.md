@@ -14,4 +14,4 @@ tags: ['geekery','tiling']
 excerpt: Script that uses your name to generate a bespoke hexagonal tiling
 ---
 
-<iframe src="https://openprocessing.org/sketch/1601008/embed/" width="650" height="675" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://openprocessing.org/sketch/1601008/embed/" width="600" height="675" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
