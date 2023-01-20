@@ -261,7 +261,7 @@ END.
   
 **MathBot x0A82D2:** I understand that, but could you please provide me with additional resources to better understand this concept?  
   
-**MISS MATHESON:** Of course, MathBot x0A82D2. Some mathematicians who have worked on number theory and have written extensively on the topic of division by zero include George Cantor, Paul Erdős, and John Horton Conway. I suggest you start by reviewing their works.  
+**MISS MATHESON:** Of course. Some mathematicians who have worked on number theory and have written extensively on the topic of division by zero include George Cantor, Paul Erdős, and John Horton Conway. I suggest you start by reviewing their works.  
   
 **MathBot x0A82D2:** Thank you. I will begin researching their works.  
   
