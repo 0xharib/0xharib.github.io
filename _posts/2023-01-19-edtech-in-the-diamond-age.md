@@ -155,7 +155,7 @@ INT. NELL'S ONE BEDROOM APARTMENT - DAY, GREATER SHANGHAI TENEMENTS
   
 We see NELL, an 8-year-old girl, sitting at a small table with her tablet in front of her. She is participating in a video conference with her teacher, MIRANDA, who is on the screen. 
 
-MIRANDA is an animated ![Vocaloid](https://en.wikipedia.org/wiki/Megurine_Luka) singer that NELL prefers to have teach her.    
+MIRANDA is an animated [Vocaloid](https://en.wikipedia.org/wiki/Megurine_Luka) singer that NELL prefers to have teach her.    
   
 MIRANDA  
 (smiling)  
@@ -384,7 +384,7 @@ INT. CARL HOLLYWOOD'S BEDROOM - PRE-DAWN
 We see CARL HOLLYWOOD, a middle-aged man with a tired expression, waking up from a large and luxurious bed. 
 It isn't morning yet and it is still dark outside.  
 He gets out of bed quietly, not wanting to wake his sleeping wife.  
-Few know this but Carl is the creator of Miranda the vocaloid musical sensation.   
+Few know this but Carl is the creator of Miranda the Vocaloid musical sensation.   
   
 CUT TO:   
    
@@ -425,7 +425,7 @@ INT. CARL'S SCHEDULE SCREEN (SIMULTANEOUSLY)
 Carl checks his schedule on his phone. 
 He sees that three children have used their reward points this week to ask for TruMeets with Miranda.  
 Carl sighs. He doesn't understand why EduQation insists on offering TruMeets.  
-They could get their AI to simulate the interaction and these kids would be able to tell the difference.  
+They could get their AI to simulate the interaction and these kids wouldn't be able to tell the difference.  
 It was a matter of principle perhaps.  
    
 CUT TO:   
