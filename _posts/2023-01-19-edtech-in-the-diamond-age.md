@@ -46,14 +46,15 @@ That said, I believe that much of the book's ideas could easily be realized with
 
 ![Fiona]({{ site.baseurl }}/assets/images/2023/fiona.png)
 
-INT. FIONA'S STUDY, PEAK 81, HONG KONG - DAY  
+INT. FIONA'S STUDY, PEAK, HONG KONG - DAY  
 
-We see FIONA, an 6-year-old girl, sitting at a desk with MISS TEQUILA, an au pair. MISS TEQUILA is holding a colouring book with the picture of a pizza. 
-
-MISS TEQUILA immigrated to Hong Kong 10 years ago after finishing high school. She recently spent 6 months getting trained and certified as a curriculum delivery person (CDP) by EduQation.  
-  
-She is wearing a tiny earbud in her right ear which is linked to EduBot installed on her phone. EduBot listens in and cues her responses to Fiona.    
-  
+We see FIONA, an 6-year-old girl, sitting at a desk with MISS TEQUILA, an au pair.   
+MISS TEQUILA is holding a colouring book with the picture of a pizza.    
+MISS TEQUILA immigrated to Hong Kong 10 years ago after finishing high school.  
+She recently spent 6 months getting trained and certified as a curriculum delivery person (CDP) by EduQation.  
+She is wearing a tiny earbud in her right ear which is linked to EduBot installed on her phone.   
+EduBot listens in and cues Miss Tequila's responses to Fiona.    
+   
 MISS TEQUILA  
 (in a gentle voice)  
 Fiona, can you tell me what this is?    
@@ -145,7 +146,7 @@ The two of them sit down to enjoy their pizza together.
   
 END.   
   
-## Nell  
+### Nell  
 
 ![Nell]({{ site.baseurl }}/assets/images/2023/nell.png)
   
@@ -315,7 +316,7 @@ END.
 
 ### John Percival Hackworth & Lord Alexander Chung-Sik Finkle-McGraw  
 
-![Finkle-McGraw]({{ site.baseurl }}/assets/images/2023/finklemcgraw.png)
+![Finkle-McGraw]({{ site.baseurl }}/assets/images/2023/finklemckgraw.png)
 
 INT. WAITING ROOM - DAY  
   
@@ -421,8 +422,9 @@ INT. CARL'S SCHEDULE SCREEN (SIMULTANEOUSLY)
   
 Carl checks his schedule on his phone. 
 He sees that three children have used their reward points this week to ask for TruMeets with Miranda.  
-Carl sighs.  
-He does not enjoy TruMeets.  
+Carl sighs. He doesn't understand why EduQation insists on offering TruMeets.  
+They could get their AI to simulate the interaction and these kids would be able to tell the difference.  
+It was a matter of principle perhaps.  
    
 CUT TO:   
    
@@ -432,22 +434,21 @@ Carl takes another sip of his coffee and looks thoughtful.
    
 CARL   
 (to himself)  
-I shouldn't complain, they're kids after all, and I'm getting paid well.  
+Nah, I shouldn't complain, they're kids after all, and I'm getting paid well.   
   
 CUT TO:  
   
 EXT. CARL'S HOUSE - DAY (LATER)  
   
-We see Carl seated in front of a large monitor.   
-On screen is Miranda.     
-Carl grins wide and then blinks his eyes methodically checking that Miranda’s movements mirror his correctly.  
+We see Carl standing in his recording studio.   
+Carl stretches and then does his vocal warm-up routine.    
   
 CARL  
 (to house computer)  
 Start call.  
    
-A little girl somewhere far away sees Miranda pop up on her screen.
-She smiles.   
+Somewhere far away, a little girl sees Miranda pop up on her screen.
+She smiles & waves.   
    
 END.   
   
