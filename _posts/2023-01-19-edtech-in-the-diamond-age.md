@@ -22,7 +22,7 @@ I recently met my nephew on a Saturday morning in the midst of his weekend math 
 He sat down with a worksheet and within seconds pronounced that he was done.  
 This is what he'd written.   
 
-!({{ site.baseurl }}/assets/images/2023/obvious.png)
+![4 Obviously]({{ site.baseurl }}/assets/images/2023/obvious.png)
 
 Educational content on every topic under the sun today is ubiquitous and mostly free. But this simply doesn't work for most of us because we aren't inherently autodidacts and learn best in an interactive setting.
 
@@ -44,7 +44,7 @@ Here is one possible iteration of how that might become possible illustrated thr
 
 ### Fiona
 
-!({{ site.baseurl }}/assets/images/2023/fiona.png)
+![Fiona]({{ site.baseurl }}/assets/images/2023/fiona.png)
 
 INT. FIONA'S STUDY, PEAK 81, HONG KONG - DAY  
 
@@ -142,6 +142,8 @@ The two of them sit down to enjoy their pizza together.
 END.  
 
 ## Nell
+
+![Nell]({{ site.baseurl }}/assets/images/2023/nell.png)
 
 INT. NELL'S SHANTY - DAY, GREATER SHANGHAI TENEMENTS   
 
