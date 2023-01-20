@@ -155,7 +155,7 @@ INT. NELL'S ONE BEDROOM APARTMENT - DAY, GREATER SHANGHAI TENEMENTS
   
 We see NELL, an 8-year-old girl, sitting at a small table with her tablet in front of her. She is participating in a video conference with her teacher, MIRANDA, who is on the screen. 
 
-MIRANDA is a Vocaloid anime singer that NELL prefers to have teach her.    
+MIRANDA is an animated ![Vocaloid](https://en.wikipedia.org/wiki/Megurine_Luka) singer that NELL prefers to have teach her.    
   
 MIRANDA  
 (smiling)  
