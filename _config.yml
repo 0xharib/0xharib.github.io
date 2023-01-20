@@ -89,7 +89,7 @@ mathjax: false # false (default), true
 mathjax_autoNumber: false # false (default), true
 
 ## Mermaid
-mermaid: false # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
 chart: false # false (default), true
@@ -174,7 +174,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : G-PYVDSS4RQ0 # Google Analytics id for the site
+    tracking_id : G-6RSQ056S36 # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
