@@ -28,7 +28,7 @@ Educational content on almost every topic under the sun today is ubiquitous and 
 But this simply doesn't work for most of us because **we aren't inherently autodidacts** and **learn best in an interactive setting**.  
 
 We also live in a world today where student-teacher ratios are vastly improved vs a generation ago.   
-Nevertheless so long as **curriculum delivery (including homework) isn't customized to the learning style & capabilities of each individual**, source material prone to becoming either too challenging or too boring.    
+Nevertheless so long as **curriculum delivery (including homework) isn't customized to the learning style & capabilities of each individual**, source material is prone to becoming either too challenging or too boring.    
 
 ## The Diamond Age of Ed Tech
 If you're a Web3 or Crypto aficionado you've no doubt read visionary author Neal Stephenson's [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) which introduced the term metaverse to the world.
@@ -39,7 +39,7 @@ Nanotech is the primary theme of the book, and much if not all of the action hap
 
 That said, I believe that **much of the book's ideas could easily be realized with AI, sans the nanotech, in just a few years.**
 
-**Here is one possible iteration of how that might become possible told through scenes from the lives of characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**  
+**Here is one possible iteration of how that might become possible, told through scenes from the lives of characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**  
 
 ## The Learners
 
