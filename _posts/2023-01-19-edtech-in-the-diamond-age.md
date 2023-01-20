@@ -313,11 +313,14 @@ END.
 
 ## The State
 
+### John Percival Hackworth & Lord Alexander Chung-Sik Finkle-McGraw  
+
 ![Finkle-McGraw]({{ site.baseurl }}/assets/images/2023/finklemcgraw.png)
 
 INT. WAITING ROOM - DAY  
   
-We see JOHN PERCIVAL HACKWORTH, the chief architect of EduQation, sitting in a waiting room outside the chambers of LORD ALEXANDER CHUNG-SIK FINKLE-MCGRAW. Hackworth is dressed in a suit and tie, and appears to be deep in thought.  
+We see JOHN PERCIVAL HACKWORTH, the chief architect of EduQation, sitting in a waiting room outside the chambers of LORD ALEXANDER CHUNG-SIK FINKLE-MCGRAW.  
+Hackworth is dressed in a suit and tie, and appears to be deep in thought.  
   
 LORD FINKLE-MCGRAW'S ASSISTANT  
 (from offscreen)  
