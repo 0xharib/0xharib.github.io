@@ -9,8 +9,9 @@ password: ''
 status: publish
 categories:
 - geekery
-tags:
-- "#geekery #hk #property"
+- HK
+- property prices
+tags: ['geekery','HK', 'property prices']
 meta:
   _publicize_job_id: '20934234785'
   _rest_api_published: '1'
