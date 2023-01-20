@@ -14,5 +14,14 @@ tags: ['geekery','entertainment']
 excerpt: MrBeast has 
 ---
 
-(<iframe width="926" height="476" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkXGhNZ0nstJtrjtvHu-kpJXDhA5Y0v0cSOI5MQtNy_HPYSqj2HdMpY63f8R00k8Lyich6jrYlhNIM/pubchart?oid=1927316214&amp;format=interactive"></iframe>)
+MrBeast's success on YouTube and other channels has been close to unparalleled - he has over 200 million subscribers across youtube and other channels.
+
+Earlier this year he sat down with Joe Rogan and, while that entire podcast is worth a listen, this particular section made me curious.
+[Youtube Link: MrBeast talking about "Daily Masterminds"](https://youtu.be/3A8kawxMOcQ?t=435)
+
+MrBeast is incredibly data driven analysing a variety of features to understand what delivers virality.
+
+I was curious 
+
+![]({{ site.baseurl }}/assets/MrBeast_Videos1.png)
 
