@@ -4,22 +4,25 @@ title: EdTech in the Diamond Age
 date: 2023-01-20 00:00:00
 type: post
 parent_id: '0'
-published: false
+published: true
 password: ''
-status: draft
+status: published
 categories:
 - geekery
 - scifi
 - software
-tags: ['geekery','scifi', 'software']
+- edtech
+tags: ['geekery','scifi', 'software', 'edtech']
 excerpt: How AI will manifest Neal Stephenson's Diamond Age and redefine EdTech
 ---
 
 ## 4 Obviously
 
-I recently met my nephew on a Saturday morning in the midst of having to complete his weekly math homework. He sat down with a worksheet and within seconds pronounced that he was done. This is what he'd written.   
+I recently met my nephew on a Saturday morning in the midst of his weekend math homework session.  
+He sat down with a worksheet and within seconds pronounced that he was done.  
+This is what he'd written.   
 
-!()
+!({{ site.baseurl }}/assets/images/2023/obvious.png)
 
 Irrespective of how much student teacher ratios are improved, curriculum delivery today (including homework) isn't customized to the learning style & capabilities of each individual, making the source material prone to becoming either too challenging or too boring.    
 
@@ -28,7 +31,7 @@ If you're a Web3 or Crypto aficionado you've no doubt read visionary author Neal
 
 A somewhat less exciting, but probably more important work of Stephenson's is [The Diamond Age](https://www.goodreads.com/book/show/827.The_Diamond_Age). The Diamond Age, which follows the life of a young girl Nell, is a bildungsroman in its truest sense. 
 
-Nanotech is the primary theme of the book, and much if not all of the action happens IRL. 
+Nanotech is the primary theme of the book, and much if not all of the action happens offline & IRL. 
 
 That said, I believe that much of the book's ideas could easily be realized with AI, sans the nanotech, in just a few years.
 
@@ -38,10 +41,11 @@ Here is one possible iteration of how that might become possible illustrated thr
 
 ### Fiona
 
+!({{ site.baseurl }}/assets/images/2023/fiona.png)
 
 INT. FIONA'S STUDY, PEAK 81, HONG KONG - DAY  
 
-We see FIONA, an 6-year-old girl, sitting at a desk with MISS TEQUILA, an au pair. MISS TEQUILA is holding a picture of a pizza. MISS TEQUILA immigrated to Hong Kong 10 years ago after finishing high school. She recently spent 6 months getting trained and certified as a curriculum delivery person (CDP) by EduNation. She is wearing a earphone and has an EduBot installed on her phone.  
+We see FIONA, an 6-year-old girl, sitting at a desk with MISS TEQUILA, an au pair. MISS TEQUILA is holding a colouring book with the picture of a pizza. MISS TEQUILA immigrated to Hong Kong 10 years ago after finishing high school. She recently spent 6 months getting trained and certified as a curriculum delivery person (CDP) by EduNation. She is wearing a earphone and has an EduBot installed on her phone.  
 
 MISS TEQUILA
 (in a gentle voice)
