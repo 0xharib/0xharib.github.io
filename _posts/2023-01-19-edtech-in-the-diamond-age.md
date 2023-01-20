@@ -253,21 +253,21 @@ END.
 
 ![Miss Matheson]({{ site.baseurl }}/assets/images/2023/matheson.png)
 
-MISS MATHESON: State your escalation.  
+**MISS MATHESON:** State your escalation.  
   
-MathBot x0A82D2: I am trying to understand the concept of dividing a number by zero, but I am unsure of how to do so.  
+**MathBot x0A82D2:** I am trying to understand the concept of dividing a number by zero, but I am unsure of how to do so.  
   
-MISS MATHESON: I see. In mathematics, it is not possible to divide a number by zero. Division by zero is undefined.  
+**MISS MATHESON:** I see. In mathematics, it is not possible to divide a number by zero. Division by zero is undefined.  
   
-MathBot x0A82D2: I understand that, but could you please provide me with additional resources to better understand this concept?  
+**MathBot x0A82D2:** I understand that, but could you please provide me with additional resources to better understand this concept?  
   
-MISS MATHESON: Of course, MathBot x0A82D2. Some mathematicians who have worked on number theory and have written extensively on the topic of division by zero include George Cantor, Paul Erdős, and John Horton Conway. I suggest you start by reviewing their works.  
+**MISS MATHESON:** Of course, MathBot x0A82D2. Some mathematicians who have worked on number theory and have written extensively on the topic of division by zero include George Cantor, Paul Erdős, and John Horton Conway. I suggest you start by reviewing their works.  
   
-MathBot x0A82D2: Thank you. I will begin researching their works.  
+**MathBot x0A82D2:** Thank you. I will begin researching their works.  
   
-MISS MATHESON: Let me know once you're done if you have any other questions or need further assistance.  
+**MISS MATHESON:** Let me know once you're done if you have any other questions or need further assistance.  
   
-MathBot x0A82D2: I will, thank you.  
+**MathBot x0A82D2:** I will, thank you.  
   
 END.  
 
@@ -275,29 +275,30 @@ END.
   
 ![Dr X]({{ site.baseurl }}/assets/images/2023/drx.png)  
   
-DR X: MathBot x0A82D2, I need you to phase into the avatar of Creator x00CA01    
+**DR X:** I need you to phase into the avatar of Creator Zero Zero Charlie Alpha Niner Zero One    
   
-MathBot x0A82D2: Creator x00CA01. Miranda, Animated Vocaloid. I have found 81,723 references to review and will commence phasing.  
+**MathBot x0A82D2:**  Miranda, Animated Vocaloid. I have found 81,723 references to review and will commence phasing.  
   
 A few seconds pass.   
   
-MathBot x0A82D2: Phasing is complete.  
+**MathBot x0A82D2:** Phasing is complete.  
    
-DR X: Hi Anon, what is your name?   
+**DR X:** Hi there, what is your name?   
   
-MIRANDA: You can call me Miranda, dear!  
+**MIRANDA:** You can call me Miranda, dear!  
   
-DR X: Can you sing for me the lyrics of your favourite song?  
+**DR X:** Can you sing for me the lyrics of your favourite song?  
   
-MIRANDA: My favourite huh? Well let me see..  
+**MIRANDA:** My favourite huh? Well let me see..  
   
-MIRANDA (croons):   
-  
+**MIRANDA:**      
+(croons)     
+   
 I've been searching for someone like you,  
 Someone to fill my heart and make it new,  
 I've been waiting for so long,    
 And now that I've found you, I'll never let go.  
-  
+   
 My love is only for you, baby,  
 I'll be there for you, always and maybe,  
 With you by my side, I'm never alone,  
@@ -307,7 +308,7 @@ Cause my love is only for you, baby.
     
 Did you like that dear?  
  
-DR X: Excellent. Let's talk about your childhood now. Where did you grow up?   
+**DR X:** Excellent. Let's talk about your childhood now. Where did you grow up?   
    
 (The dialogue continues as Dr X. asks Miranda about her career, music and personal life)  
    
