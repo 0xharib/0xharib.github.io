@@ -24,10 +24,10 @@ This is what he'd written.
 
 ![4 Obviously]({{ site.baseurl }}/assets/images/2023/obvious.png)
 
-Educational content on every topic under the sun today is ubiquitous and mostly free. But this simply doesn't work for most of us because we aren't inherently autodidacts and learn best in an interactive setting.
+Educational content on every topic under the sun today is ubiquitous and mostly free. But this simply doesn't work for most of us because **we aren't inherently autodidacts** and **learn best in an interactive setting**.
 
 We also live in a world today where student-teacher ratios are vastly improved vs a generation ago.
-Nevertheless so long as curriculum delivery (including homework) isn't customized to the learning style & capabilities of each individual, source material prone to becoming either too challenging or too boring.    
+Nevertheless so long as **curriculum delivery (including homework) isn't customized to the learning style & capabilities of each individual**, source material prone to becoming either too challenging or too boring.    
 
 ## The Diamond Age of Ed Tech
 If you're a Web3 or Crypto aficionado you've no doubt read visionary author Neal Stephenson's [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) which introduced the term metaverse to the world.
@@ -38,7 +38,7 @@ Nanotech is the primary theme of the book, and much if not all of the action hap
 
 That said, I believe that much of the book's ideas could easily be realized with AI, sans the nanotech, in just a few years.
 
-Here is one possible iteration of how that might become possible illustrated through 2 minute scenes featuring characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.  
+**Here is one possible iteration of how that might become possible told through scenes from the lives of  characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**  
 
 ## The Learners
 
@@ -48,7 +48,7 @@ Here is one possible iteration of how that might become possible illustrated thr
 
 INT. FIONA'S STUDY, PEAK 81, HONG KONG - DAY  
 
-We see FIONA, an 6-year-old girl, sitting at a desk with MISS TEQUILA, an au pair. MISS TEQUILA is holding a colouring book with the picture of a pizza. MISS TEQUILA immigrated to Hong Kong 10 years ago after finishing high school. She recently spent 6 months getting trained and certified as a curriculum delivery person (CDP) by EduNation. She is wearing a earphone and has an EduBot installed on her phone.  
+We see FIONA, an 6-year-old girl, sitting at a desk with MISS TEQUILA, an au pair. MISS TEQUILA is holding a colouring book with the picture of a pizza. MISS TEQUILA immigrated to Hong Kong 10 years ago after finishing high school. She recently spent 6 months getting trained and certified as a curriculum delivery person (CDP) by EduQation. She is wearing a earphone and has an EduBot installed on her phone.  
 
 MISS TEQUILA
 (in a gentle voice)
@@ -245,16 +245,48 @@ END.
 
 ### Miss Matheson
 
+![Miss Matheson]({{ site.baseurl }}/assets/images/2023/matheson.png)
+
+MISS MATHESON: MathBot x0A82D2, state your escalation.
+
+MathBot x0A82D2: I am trying to understand the concept of dividing a number by zero, but I am unsure of how to do so.
+
+MISS MATHESON: I see. In mathematics, it is not possible to divide a number by zero. Division by zero is undefined.
+
+MathBot x0A82D2: I understand that, but could you please provide me with additional resources to better understand this concept?
+
+MISS MATHESON: Of course, MathBot x0A82D2. Some mathematicians who have worked on number theory and have written extensively on the topic of division by zero include George Cantor, Paul Erdős, and John Horton Conway. I suggest you start by reviewing their works.
+
+MathBot x0A82D2: Thank you, Miss Matheson. I will begin researching their works immediately.
+
+MISS MATHESON: Let me know if you have any other questions or need further assistance.
+
+MathBot x0A82D2: I will, thank you.
+
+END.
+
+### Dr X
+
+![Dr X]({{ site.baseurl }}/assets/images/2023/drx.png)
+
 DR X: MathBot x0A82D2, I need you to phase into the avatar of Creator x00CA01  
+
 MathBot x0A82D2: Creator x00CA01. Miranda, Animated Vocaloid. I have found 81,723 references to review and will commence phasing.
+
 8 seconds pass
+
 MathBot x0A82D2: Phasing is complete.
+
 DR X: Hi Anon, what is your name?
+
 MIRANDA: You can call me Miranda, dear!
+
 DR X: Can you sing for me the lyrics of your favourite song?
+
 MIRANDA: My favourite huh? Well let me see..
 
 MIRANDA (croons): 
+
 I've been searching for someone like you,
 Someone to fill my heart and make it new,
 I've been waiting for so long,
@@ -275,9 +307,11 @@ END.
 
 ## The State
 
+![Finkle-McGraw]({{ site.baseurl }}/assets/images/2023/finklemcgraw.png)
+
 INT. WAITING ROOM - DAY
 
-We see JOHN PERCIVAL HACKWORTH, the chief architect of EduNation, sitting in a waiting room outside the chambers of LORD ALEXANDER CHUNG-SIK FINKLE-MCGRAW. Hackworth is dressed in a suit and tie, and appears to be deep in thought.
+We see JOHN PERCIVAL HACKWORTH, the chief architect of EduQation, sitting in a waiting room outside the chambers of LORD ALEXANDER CHUNG-SIK FINKLE-MCGRAW. Hackworth is dressed in a suit and tie, and appears to be deep in thought.
 
 LORD FINKLE-MCGRAW'S ASSISTANT
 (from offscreen)
@@ -293,7 +327,7 @@ Hackworth enters the chambers and sees LORD FINKLE-MCGRAW sitting at a large des
 
 LORD FINKLE-MCGRAW
 (smiling)
-Good to see you, Mr. Hackworth. How are things at EduNation?
+Good to see you, Mr. Hackworth. How are things at EduQation?
 
 HACKWORTH
 (nervously)
@@ -305,11 +339,11 @@ Have you considered my proposal, Mr. Hackworth?
 
 HACKWORTH
 (weakly protests)
-Well.. as you know most of our users run their EduNation instances locally. We’ve been trying to figure out what user data we can give you, Lord Finkle-McGraw but we haven’t come up with a solution yet.  
+Well.. as you know most of our users run their EduQation instances locally. We’ve been trying to figure out what user data we can give you, Lord Finkle-McGraw but we haven’t come up with a solution yet.  
 
 LORD FINKLE-MCGRAW
 (looks up at and straight at Hackworth)
-Mr. Hackworth, you do realize EduNation exists only because the State permits it. You’re a smart man. I will give you another week to figure it out.  
+Mr. Hackworth, you do realize EduQation exists only because the State permits it. You’re a smart man. I will give you another week to figure it out.  
 
 HACKWORTH
 (nodding)
@@ -322,6 +356,12 @@ Good. That will be all, Mr. Hackworth.
 Hackworth exits the chambers, looking defeated.  
 
 END.
+
+## The Creator
+
+### Carl Hollywood
+
+![Carl Hollywood]({{ site.baseurl }}/assets/images/2023/carl.png)
 
 INT. CARL HOLLYWOOD'S BEDROOM - PRE-DAWN
 
@@ -337,7 +377,7 @@ CUT TO:
 
 INT. CARL'S MESSAGE SCREEN (SIMULTANEOUSLY)
 
-We see a message pop up on the mirror, showing that Carl has earned 28,223 EduCoin of royalties from EduNation.
+We see a message pop up on the mirror, showing that Carl has earned 28,223 EduCoin of royalties from EduQation.
 
 CUT TO:
 
