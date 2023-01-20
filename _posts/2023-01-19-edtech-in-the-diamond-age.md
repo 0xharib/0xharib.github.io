@@ -24,9 +24,10 @@ This is what he'd written.
 
 ![4 Obviously]({{ site.baseurl }}/assets/images/2023/obvious.png)
 
-Educational content on every topic under the sun today is ubiquitous and mostly free. But this simply doesn't work for most of us because **we aren't inherently autodidacts** and **learn best in an interactive setting**.
+Educational content on almost every topic under the sun today is ubiquitous and mostly free.   
+But this simply doesn't work for most of us because **we aren't inherently autodidacts** and **learn best in an interactive setting**.  
 
-We also live in a world today where student-teacher ratios are vastly improved vs a generation ago.
+We also live in a world today where student-teacher ratios are vastly improved vs a generation ago.   
 Nevertheless so long as **curriculum delivery (including homework) isn't customized to the learning style & capabilities of each individual**, source material prone to becoming either too challenging or too boring.    
 
 ## The Diamond Age of Ed Tech
@@ -36,9 +37,9 @@ A somewhat less exciting, but probably more important work of Stephenson's is [T
 
 Nanotech is the primary theme of the book, and much if not all of the action happens offline & IRL. 
 
-That said, I believe that much of the book's ideas could easily be realized with AI, sans the nanotech, in just a few years.
+That said, I believe that **much of the book's ideas could easily be realized with AI, sans the nanotech, in just a few years.**
 
-**Here is one possible iteration of how that might become possible told through scenes from the lives of  characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**  
+**Here is one possible iteration of how that might become possible told through scenes from the lives of characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**  
 
 ## The Learners
 
