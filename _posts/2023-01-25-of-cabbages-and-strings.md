@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Of Cabbages and Strings
-date: 2023-01-23 00:00:00
+date: 2025-01-25 00:00:00
 type: post
 parent_id: '0'
 published: true
@@ -94,7 +94,7 @@ Customer response will dictate how these evolve.
 ChatGPT has been free, in my opinion, not to accumulate millions of free users but to be able to use all these queries to model accurately / productify what paid users might want from them (and to understand if simpler/lighter models can deliver that).   
 To this end we will see Generative AI models evolve and get more sophisticated over time and deliver much more than what it does today right out of the box.  
 
-# Democratized Access => Cauliflowers come sooner   
+## Democratized Access => Cauliflowers come sooner   
 Cabbages and cauliflowers were the result of enterprising individuals experimenting with a wild ancestor.
 Generative AI today, similarly has accessible, low cost primitives, waiting to be experimented with, not unlike *brassica oleracea* growing on the limestone cliffs of the Mediterranean all those years ago.  
 
