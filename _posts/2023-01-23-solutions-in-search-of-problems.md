@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Of Cabbages & Strings
-date: 2023-01-22 00:00:00
+date: 2023-01-23 00:00:00
 type: post
 parent_id: '0'
 published: true
