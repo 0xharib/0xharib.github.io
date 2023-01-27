@@ -40,7 +40,7 @@ What does any of this have to do with Generative AI?
 
 I posted this a few days ago on what I thought ChatGPT was good for, as of today vs what was being asked of it by an audience of individual users.  
 
-![What is being asked of chatgpt vs what chatgpt is good for]({{ site.baseurl }}/assets/images/2023/chatGPTQns.jfif)  
+![What is being asked of chatgpt vs what chatgpt is good for]({{ site.baseurl }}/assets/images/2023/chatGPTQns.png)  
 
 I don't think anyone doubts that many of the orange boxes in the picture above will turn green over time.  
 
