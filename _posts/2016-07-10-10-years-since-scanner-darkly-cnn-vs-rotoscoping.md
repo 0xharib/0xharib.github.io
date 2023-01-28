@@ -14,7 +14,7 @@ tags:
 - CNN
 - pkd
 - scanner darkly
-- sci-fi
+- scifi
 meta:
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:13846646;s:38:"https://facebook.com/10157057057890184";}}
   _rest_api_published: '1'
