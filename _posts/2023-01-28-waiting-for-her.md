@@ -64,35 +64,32 @@ Well Generative AI does exactly this. Sure the rule book is "emergent" from weig
 Samantha in Her (2013) displays a wide range of capabilities. Let's try to break that down into categories.
 
 ### Group 1: Objective & Achievable today
-- Contacts Management
+- Manage Contacts
 - Personal Organizer
 - Proof reading content for grammar/spelling
 - Calendar reminders
-- Hotel reservations
-- Read and Reply to emails
-- Background checks on blind dates
+- Make Hotel reservations
+- Perform background checks
 
 ### Group 2: Subjective & Achievable today
 - Email classification as important/unimportant
+- Read and auto-reply to only some emails
 - Edit / summarize content for style
 - Cherry pick written content as "the best"
 - Picking a present for someone
 
 ### Group 3: Achievable with Generative AI
 - High quality romantic conversations
-- Companionship / Pseudo therapist
+- Companionship / Virtual psychotherapist
 
 ### Group 4: Probably won't happen
 - Interact with external agents to get content published
 - "OSes going away"
 
 ## Reimagining Psychotherapy with Generative AI
-
-Audio / Voice interactions are the mainstay of Her (2013).  
-
 With the stigma around seeking help for mental health issues fast reducing, I would like to posit that Generative AI will help develop the next generation of psychotherapy. Huge disclaimer here that I have no medical expertise in the area of mental wellness.
 
-### The Therapist's Apprentice
+### Model 1: The Therapist's Apprentice
 
 ![Therapist Apprentice]({{ site.baseurl }}/assets/images/2023/aitherapist.png)
 
@@ -104,7 +101,7 @@ During the course of this session a human therapist is available in the backgrou
 
 At the end of each session, the agent summarizes the interaction, snips out key sections of the conversation for human therapist review.  
 
-### Dear Diary
+### Model 2: Dear Diary
 
 ![AI Therapist]({{ site.baseurl }}/assets/images/2023/whisper2robot.png)
 
