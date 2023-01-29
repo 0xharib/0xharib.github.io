@@ -18,30 +18,33 @@ tags: ['geekery','scifi', 'software', 'edtech','generativeai','ai']
 excerpt: How AI will manifest Neal Stephenson's Diamond Age and redefine EdTech
 ---
 
+
+
+
 ## 4 Obviously
 
-I recently met my nephew on a Saturday morning in the midst of his weekend math homework session.  
-He sat down with a worksheet and within seconds pronounced that he was done.  
-This is what he'd written.   
+I recently met my nephew on a Saturday morning in the midst of his weekend math homework session.
+He sat down with a worksheet and, within seconds, pronounced that he was done.
+This is what he'd written.
 
 ![4 Obviously]({{ site.baseurl }}/assets/images/2023/obvious.png)
 
-Educational content on almost every topic under the sun today is ubiquitous and mostly free.   
-But this simply doesn't work for most of us because **we aren't inherently autodidacts** and **learn best in an interactive setting**.  
+Educational content on almost every topic under the sun today is ubiquitous and mostly free.
+But this simply doesn't work for most of us because **we aren't inherently autodidacts** and **learn best in an interactive setting**.
 
-We also live in a world today where student-teacher ratios are vastly improved vs a generation ago.   
-Nevertheless so long as **curriculum delivery (including homework) isn't customized to the learning style & capabilities of each individual**, source material is prone to becoming either too challenging or too boring.    
+We also live in a world today where student-teacher ratios are vastly improved vs a generation ago.
+Nevertheless, so long as **curriculum delivery (including homework) isn't customised to the learning styles & capabilities of each individual**, source material is prone to becoming either too challenging or too boring.
 
 ## The Diamond Age of Ed Tech
-If you're a Web3 or Crypto aficionado you've no doubt read visionary author Neal Stephenson's [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) which introduced the term metaverse to the world.
+If you're a Web3 or Crypto aficionado, you've no doubt read visionary author Neal Stephenson's [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) which introduced the term "metaverse" to the world.
 
-A somewhat less exciting, but probably more important work of Stephenson's is [The Diamond Age](https://www.goodreads.com/book/show/827.The_Diamond_Age). The Diamond Age, which follows the life of a young girl Nell, is a bildungsroman in its truest sense. 
+A somewhat less exciting but probably more important work of Stephenson's is [The Diamond Age](https://www.goodreads.com/book/show/827.The_Diamond_Age). The Diamond Age, which follows the life of a young girl named Nell, is a bildungsroman in its truest sense.
 
-Nanotech is the primary theme of the book, and much if not all of the action happens offline & IRL. 
+Nanotech is the primary theme of the book, and much if not all of the action happens offline & IRL.
 
 That said, I believe that **much of the book's ideas could easily be realized with AI, sans the nanotech, in just a few years.**
 
-**Here is one possible iteration of how that might become possible, told through scenes from the lives of characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**  
+**Here is one possible iteration of how that might become possible, told through scenes from the lives of characters from The Diamond Age written using ChatGPT and illustrated using Stable Diffusion.**
 
 ## The Learners
 
@@ -455,5 +458,3 @@ Somewhere far away, a little girl sees Miranda pop up on her screen.
 She smiles & waves.   
    
 END.   
-  
-  
