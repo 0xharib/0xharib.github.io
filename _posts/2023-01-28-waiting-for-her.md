@@ -25,7 +25,7 @@ excerpt: Explores the feasibility of Samantha from Her (2013) and dives deeper i
 
 ## The Intelligent Virtual Assistant (IVA)
 
-![Virtual Assistants](https://cdn.dribbble.com/users/210436/screenshots/5802575/media/0f5ca1a937688a95b4505775e8e814dc.png?compress=1&vertical=top)
+![Virtual Assistants](https://www.nicepng.com/png/detail/400-4009159_siri-vs-google-vs-alexa-vs-cortana-which.png)
 
 The idea of IVAs is not new. IVA adoption has grown recently owing to:
 1. Speech to text / text to speech / NLU tech improving to a point where conversation interactions with a "chatbot" become possible
