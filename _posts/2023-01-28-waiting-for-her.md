@@ -103,7 +103,7 @@ At the end of each session, the agent summarizes the interaction, snips out key 
 
 ### Model 2: Dear Diary
 
-![AI Therapist]({{ site.baseurl }}/assets/images/2023/whisper2robot.jpeg)
+![AI Therapist]({{ site.baseurl }}/assets/images/2023/whisper2robot.jpeg?w=40%)
 
 The human user has a personalized offline virtual assistant who has received training in psychotherapy.   
 
