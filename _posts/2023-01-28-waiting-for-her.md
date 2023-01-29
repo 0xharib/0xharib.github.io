@@ -47,7 +47,7 @@ Most importantly neither does Generative AI.
 
 ![Chinese Room]({{ site.baseurl }}/assets/images/2023/chineseroom.png)
 
-[The Chinese Room](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/minds-brains-and-programs/DC644B47A4299C637C89772FACC2706A) argument put forward by John Searle in 1980 best explains:  
+[The Chinese Room](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/minds-brains-and-programs/DC644B47A4299C637C89772FACC2706A) argument put forward by John Searle in 1980 best explains why Generative AI is bereft of true understanding/agency:  
 
 - You don't know a word of Chinese(sic).
 - You're locked up in a room with a mail slot and receive letters exclusively written in kanji.
