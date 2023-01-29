@@ -118,9 +118,7 @@ Generative AI has been made available:
 From a PR perspective this is definitely a mixed blessing.
 
 However this has:
-1. Made the potentials & limitations of Generative AI as it stands today clear to users
+1. Made both the potential, and the limitations, of Generative AI, as it stands today, clear to users
 2. Given rise to a swathe of developer interest in building with these models & working on improving performance in specific contexts
 
 As a result, I suspect that Generative AI will have far greater broad spectrum impact on the world 10 years from today than what IBM Watson has managed to achieve.
-
-
