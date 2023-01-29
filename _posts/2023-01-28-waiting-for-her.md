@@ -28,20 +28,22 @@ excerpt: Explores the feasibility of Samantha from Her (2013) and dives deeper i
 ![Virtual Assistants](https://www.nicepng.com/png/detail/400-4009159_siri-vs-google-vs-alexa-vs-cortana-which.png)
 
 The idea of IVAs is not new. IVA adoption has grown recently owing to:
-1. Speech to text / text to speech / NLU tech improving to a point where conversation interactions with a "chatbot" become possible
-2. Most OSs come with an embedded IVA across Siri, Google Assistant, Bixby, Alexa or Cortana
+1. Tech Improvements: Speech to text / text to speech / NLU tech improving to a point where conversation interactions with a "chatbot" become possible
+2. Availability: Most OSs come with an embedded IVA across Siri, Google Assistant, Bixby, Alexa or Cortana
 
 Apart from Google Assistant though, the naming of these IVAs tempts users to anthropomorphize and ascribe agency to them which is clearly misguided.   
 
 ## Agency
 I will stop here to define Agency as the ability to:
 
-1. Think independently
+1. Think ("Intelligence")
 2. Act on that thinking (Free Will)
 
 IVAs as they stand today simply do not have such capabilities.
 
 Most importantly neither does Generative AI.
+
+*One could argue that we, so-called sentient beings, are just wetware hosting Generative AIs and ergo lack agency themselves but this is a discussion for another day*
 
 ## Look at what ChatGPT said when I asked...
 
