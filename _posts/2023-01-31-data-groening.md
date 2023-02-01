@@ -48,11 +48,11 @@ Something slightly better and less obvious is cherry picking / selective filteri
 
 ## Level 3: Data Groening aka Favourable Partitioning
 
-Neither anecdotal evidence nor cherry picking beats the insidiousness of what I'd like to call Data [Groening](https://en.wikipedia.org/wiki/Matt_Groening) because it manufactures a, hard to sniff out, Simpson's Paradox to support a false narrative. Especially in the context of Covid stats, I have now repeatedly seen malicious use of this tactic.   
+Neither anecdotal evidence nor cherry picking beats the insidiousness of what I'd like to call Data [Groening](https://en.wikipedia.org/wiki/Matt_Groening) because **it manufactures a, hard to sniff out, Simpson's Paradox to support a false narrative**. Especially in the context of Covid stats, I have now repeatedly seen malicious use of this tactic.   
 
 ## Simpson's Paradox
 
-Simpson's Paradox described first by Edward Simpson and [explained beautifully by causality expert Judea Pearl here](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf) is a means of partitioning or splitting the underlying data set in a manner that reverses results. The partitioning in question needs to be examined for causality. If causality can be established, the partition holds. In the hands of a skilled data analyst, Simpson's paradox can be weaponized to support false narratives.  
+Simpson's Paradox, first described by Edward Simpson and [explained beautifully by causality expert Judea Pearl here](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf), is a means of partitioning or splitting the underlying data set in a manner that reverses results. The partitioning in question needs to be examined for causality. If causality can be established, the partition holds. In the hands of a skilled data analyst, Simpson's paradox can be weaponized to support false narratives.  
 ## Groening Covid Data
 
 Let us say, for instance, that you're an anti-vaxxer. You're convinced that no one should take a covid vaccine and you'd like to convince your audience of this.  
