@@ -33,16 +33,16 @@ It is not uncommon, therefore, to encounter data that has been manipulated in so
 
 ## Level 1: Anecdotal Evidence aka Favourable Sampling
 
-The simplest and probably most convincing approach to story telling is to present highly specific anecdotal data.   
+The simplest approach to story telling is to present highly specific anecdotal data.   
 
 Here is an example:
 
 ![Anecdotal Evidence]({{ site.baseurl }}/assets/images/2023/anecdotalEvidence.png)
 
-While it makes for a great story, Shankar's singular experience tells me little about what my experience will be.   
+While it makes for a great story, Shankar's singular experience tells me little about what my user journey could look like.   
 ## Level 2: Cherry Picking aka Favourable Filtering
 
-Something slightly better and less obvious is cherry picking / selective filtering. Presenting a statistic helps legitimize the statement to some extent but those reading the fine print and quick to be convinced otherwise.  
+Something slightly better and less obvious is cherry picking / selective filtering. Presenting a statistic helps legitimize the statement to some extent but those reading the fine print are quick to be convinced otherwise.  
 
 ![Cherry Picking]({{ site.baseurl }}/assets/images/2023/toothpaste.png)
 
@@ -63,10 +63,10 @@ In order to allay this fear, the State rolls out vaccination trials to a limited
 
 The State releases this info:  
 
-*Around 17,000 individuals across locations, age groups & gender were vaccinated.*   
-*The incidence of covid amongst these individuals over a period of 3 months post vaccination was compared with unvaccinated individuals from the same locations/demographics*   
+*Around 17,000 individuals, across locations, age groups & gender were vaccinated.*   
+*The incidence of covid amongst these vaccinated individuals over a period of 3 months post-vaccination was compared with incidence amongst unvaccinated individuals from the same locations/demographics*   
 *We note that the difference in covid incidence was statistically insignificant.*   
-*The results of the survey are presented herein.*   
+*The results of the survey are presented here.*   
 *We recommend that everyone get vaccinated as soon as possible*   
 
 You pull out the raw data and this is what you see:    
@@ -80,7 +80,7 @@ How do you turn this around you wonder?
 Half a hour later you come up with this astounding counterfactual:
 
 *Getting vaccinated could increase your chance of contracting covid by 5-7%!*
-*Our analysis of publicly available data shows that this is consistent across both urban and rural populations*
+*Our analysis of data shared by the State following its vaccination trial shows that this is consistent across both urban and rural populations*
 
 ![counterfactual]({{ site.baseurl }}/assets/images/2023/counterfactual.png)
 
@@ -90,18 +90,18 @@ Notice that:
 
 There is no cherry picking of data here.   
 No information has been selectively excluded.  
-All we have done is create a partition to change the narrative which is pretty hard to counter.    
+All you have done is create a partition to change the narrative which is pretty hard to counter.    
 
 ![Simpson's Paradox Gif from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/f/fb/Simpsons_paradox_-_animation.gif)
 
 ## Is the partition real?
 The crux of the problem comes down to the determination of causality.  
-**Is there a reason why whether a person is an urban or rural dweller should stand to make a difference to their physiological ability to contract covid?**  
+**Is there a reason why whether a person is an urban or rural dweller should stand to make a difference to their physiological ability to contract covid?**   
 If the answer is NO then the partition is nonsensical.   
 There are real partitions of course.   
-The best case in point being the [UC Berkeley Gender Bias Lawsuit](https://setosa.io/simpsons/)  
+The best case in point being the [UC Berkeley Gender Bias Lawsuit](https://setosa.io/simpsons/)   
 
-Alternately if the partition was along the lines of gender or age it might be worth a closer look:  
+In this case, if the partition was along the lines of age it might be worth a closer look (because it is well established that the impact of covid varies by age):  
 
 ![Counter CounterFactual]({{ site.baseurl }}/assets/images/2023/countercounterfactual.png)
 
