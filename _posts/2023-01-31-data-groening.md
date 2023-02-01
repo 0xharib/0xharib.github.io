@@ -15,49 +15,49 @@ tags: ['geekery','analytics','data']
 excerpt: Groening is a hard to catch, insidious means of telling misleading stories with Data
 ---
 
-![Groening]({{ site.baseurl }}/assets/images/2023/groening.png)
+![Groening]({{ site.baseurl }}/assets/images/2023/groening.png)    
 
-*In God we trust, the rest must bring data* - W.E. Deming
 
-We live in a world today where whether you're a:
-- brand pitching to your consumers for adoption
-- political party looking for public support on a policy change
-- startup pitching to potential investors for your next round of funding
-you need to back up your assertions with some data.
+*In God we trust, the rest must bring data* - W.E. Deming    
+  
 
-In each of these scenarios, data is being used to tell a story. There is a null hypothesis and the data being presented is good only so long as it validates that story.
 
-## Anecdotal Evidence aka Favourable Sampling
+We live in a world today where, whether you're:
+- a brand marketing to your consumers; or
+- a political party looking for public support on a policy change; or   
+- a startup pitching to potential investors for your next round of funding    
+you need to back up your assertions with some data.  
+
+It is not uncommon, therefore, to encounter data that has been manipulated in some way to validate a story.   
+
+## Level 1: Anecdotal Evidence aka Favourable Sampling
 
 The simplest and probably most convincing approach to story telling is to present highly specific anecdotal data. Here is an example:
 
 ![Anecdotal Evidence]({{ site.baseurl }}/assets/images/2023/anecdotalEvidence.png)
 
-## Cherry Picking aka Favourable Filtering
+## Level 2: Cherry Picking aka Favourable Filtering
 
 Something slightly better and less obvious is cherry picking / selective filtering. There are no more individual stories being presented here but instead a statistic.
 
 ![Cherry Picking]({{ site.baseurl }}/assets/images/2023/toothpaste.png)
 
-# Data Groening aka Favourable Partitioning
+# Level 3: Data Groening aka Favourable Partitioning
 
-Neither anecdotal evidence nor cherry picking beats the insidiousness of what I'd like to call Data [Groening](https://en.wikipedia.org/wiki/Matt_Groening) because it manufactures a hard to catch Simpson's Paradox to support a false narrative. Especially in the context of Covid stats I have now repeatedly seen malicious use of this tactic which can be notoriously hard to catch.   
+Neither anecdotal evidence nor cherry picking beats the insidiousness of what I'd like to call Data [Groening](https://en.wikipedia.org/wiki/Matt_Groening) because it manufactures a, hard to sniff out, Simpson's Paradox to support a false narrative. Especially in the context of Covid stats, I have now repeatedly seen malicious use of this tactic.   
 
 ## Simpson's Paradox
 
-Simpson's Paradox described first by Edward Simpson and [explained beautifully by causality expert Judea Pearl here](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf) is a means of partitioning or splitting the underlying data set in a manner that reverses results.
-
-While Simpson's Paradox is largely inadvertent, it can be proactively used to justify incorrect narratives.
-
+Simpson's Paradox described first by Edward Simpson and [explained beautifully by causality expert Judea Pearl here](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf) is a means of partitioning or splitting the underlying data set in a manner that reverses results. The partitioning in question needs to be examined for causality. If causality can be established, the partition holds. In the hands of a skilled data analyst, Simpson's paradox can be weaponized to support false narratives.  
 ## Groening Covid Data
 
-Let us say, for instance, that you're an anti-vaxxer. You're convinced that no one should take the covid vaccine and you'd like to convince your audience of this.
+Let us say, for instance, that you're an anti-vaxxer. You're convinced that no one should take a covid vaccine and you'd like to convince your audience of this.  
 
-A common fear amongst the masses is that taking the vaccine will itself give one covid.
+A common fear amongst the masses is that taking the vaccine will itself give one covid.  
 
-In order to allay this fear, the State rolls out vaccination trials to a limited audience and then presents their results.
+In order to allay this fear, the State rolls out vaccination trials to a limited audience and then presents their results.  
 
-The State releases this info:
+The State releases this info:  
 
 *Around 17,000 individuals across locations, age groups & gender were vaccinated.*
 *The incidence of covid amongst these individuals over a period of 3 months post vaccination was compared with unvaccinated individuals from the same locations/demographics*
@@ -65,13 +65,13 @@ The State releases this info:
 *The results of the survey are presented herein.*
 *We recommend that everyone get vaccinated as soon as possible*
 
-You pull out the data and this is what you see:
+You pull out the raw data and this is what you see:  
 
 ![State's Evidence]({{ site.baseurl }}/assets/images/2023/statesEvidence.png)
 
-Amongst those who are vaccinated the incidence of covid subsequent to vaccination is actually 0.02% LOWER than those who were not vaccinated.
+Amongst those who are vaccinated the incidence of covid subsequent to vaccination is actually 0.02% LOWER than those who were not vaccinated.  
 
-How do you turn this around you wonder?
+How do you turn this around you wonder?  
 
 Half a hour later you come up with this astounding counterfactual:
 
@@ -79,13 +79,13 @@ Half a hour later you come up with this astounding counterfactual:
 *Our analysis of publicly available data shows that this is consistent across both urban and rural populations*
 
 
-Notice that:
-1. On an aggregate basis the incidence of covid is the same whether one is vaccinated or unvaccinated i.e **~6.9%** of the population
-2. The moment we partition along the lines of over/under 60 being vaccinated starts to show a higher incidence of covid positive post vaccination across **BOTH** cohorts i.e 9.25% vs 8.65% and 5.09% vs 4.87%
+Notice that:  
+1. On an aggregate basis the incidence of covid is the same whether one is vaccinated or unvaccinated i.e **~6.9%** of the population   
+2. The moment we partition along the lines of over/under 60 being vaccinated starts to show a higher incidence of covid positive post vaccination across **BOTH** cohorts i.e 9.25% vs 8.65% and 5.09% vs 4.87%   
 
 There is no cherry picking of data here.   
 No information has been selectively excluded.  
-All we have done is create a partition to change the narrative which is pretty hard to counter.   
+All we have done is create a partition to change the narrative which is pretty hard to counter.    
 
 ![Simpson's Paradox Gif from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/f/fb/Simpsons_paradox_-_animation.gif)
 
@@ -101,7 +101,7 @@ Alternately if the partition was along the lines of gender or age it might be wo
 ![Counter CounterFactual]({{ site.baseurl }}/assets/images/2023/countercounterFactual.png)
 
 At last some kind of explanation emerges.  
-It is possible that those under 60, who represent the working age population, dropped their guard and returned to work / commenced travel post vaccination leading to the slightly increased incidence. The over 60 cohort, otoh, continued to stay vigilant and incidence of covid reduced.
+It is possible that those under 60, who represent the working age population, dropped their guard and returned to work / commenced travel post vaccination leading to the slightly increased incidence. The over 60 cohort, otoh, continued to stay vigilant and incidence of covid reduced.  
 
 On Twitter at least, I see only one really sharp person repeatedly calling out faux partitions when it comes to covid analyses:  
 
@@ -113,9 +113,9 @@ On Twitter at least, I see only one really sharp person repeatedly calling out f
 
 ## Avoiding Inadvertent Groening
 
-Every data point comes with a far longer list of features/attributes than in the past making a zealous data analyst prone to inadvertent groening.
+Every data point comes with a far longer list of features/attributes than in the past making a zealous data analyst prone to inadvertent groening.   
 
-Here are a few things one can do to avoid unintentional groening:
+Here are a few things one can do to avoid unintentional groening:  
 
 **1. Inversion**
 Invert your null hypothesis and attempt to prove it.  
@@ -127,4 +127,4 @@ If you cannot make sense of why a partition produces counter intuitive results e
 Build and operate simple models as far as possible so that explainability is maintained.  
 
 **4. Measure what Matters**
-Collect as much data as possible that pertains to relevant / causal features. Avoid the temptation to create more features just because data has been collected if there is no clarity on causal impact.
+Collect as much data as possible that pertains to relevant / causal features. Avoid the temptation to create more features just because data has been collected if there is no clarity on causal impact.   
