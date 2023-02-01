@@ -42,7 +42,7 @@ Something slightly better and less obvious is cherry picking / selective filteri
 
 ![Cherry Picking]({{ site.baseurl }}/assets/images/2023/toothpaste.png)
 
-# Level 3: Data Groening aka Favourable Partitioning
+## Level 3: Data Groening aka Favourable Partitioning
 
 Neither anecdotal evidence nor cherry picking beats the insidiousness of what I'd like to call Data [Groening](https://en.wikipedia.org/wiki/Matt_Groening) because it manufactures a, hard to sniff out, Simpson's Paradox to support a false narrative. Especially in the context of Covid stats, I have now repeatedly seen malicious use of this tactic.   
 
