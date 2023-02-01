@@ -122,14 +122,14 @@ Every data point comes with a far longer list of features/attributes than in the
 
 Here are a few things one can do to avoid unintentional groening:  
 
-**1. Inversion**
+**1. Inversion**   
 Invert your null hypothesis and attempt to prove it.  
 
-**2. Parsimonious Partitions**
+**2. Parsimonious Partitions**   
 If you cannot make sense of why a partition produces counter intuitive results examine/avoid that partition.  
 
-**3. Keep it Simple**
+**3. Keep it Simple**     
 Build and operate simple models as far as possible so that explainability is maintained.  
 
-**4. Measure what Matters**
+**4. Measure what Matters**     
 Collect as much data as possible that pertains to relevant / causal features. Avoid the temptation to create more features just because data has been collected if there is no clarity on causal impact.   
