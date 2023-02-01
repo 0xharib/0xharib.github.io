@@ -78,6 +78,7 @@ Half a hour later you come up with this astounding counterfactual:
 *Getting vaccinated could increase your chance of contracting covid by 5-7%!*
 *Our analysis of publicly available data shows that this is consistent across both urban and rural populations*
 
+![counterfactual]({{ site.baseurl }}/assets/images/2023/counterfactual.png)
 
 Notice that:  
 1. On an aggregate basis the incidence of covid is the same whether one is vaccinated or unvaccinated i.e **~6.9%** of the population   
@@ -98,7 +99,7 @@ The best case in point being the [UC Berkeley Gender Bias Lawsuit](https://setos
 
 Alternately if the partition was along the lines of gender or age it might be worth a closer look:  
 
-![Counter CounterFactual]({{ site.baseurl }}/assets/images/2023/countercounterFactual.png)
+![Counter CounterFactual]({{ site.baseurl }}/assets/images/2023/countercounterfactual.png)
 
 At last some kind of explanation emerges.  
 It is possible that those under 60, who represent the working age population, dropped their guard and returned to work / commenced travel post vaccination leading to the slightly increased incidence. The over 60 cohort, otoh, continued to stay vigilant and incidence of covid reduced.  
