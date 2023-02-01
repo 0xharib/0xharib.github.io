@@ -25,20 +25,24 @@ excerpt: Groening is a hard to catch, insidious means of telling misleading stor
 We live in a world today where, whether you're:
 - a brand marketing to your consumers; or
 - a political party looking for public support on a policy change; or   
-- a startup pitching to potential investors for your next round of funding    
+- a startup pitching to potential investors for your next round of funding   
+ 
 you need to back up your assertions with some data.  
 
 It is not uncommon, therefore, to encounter data that has been manipulated in some way to validate a story.   
 
 ## Level 1: Anecdotal Evidence aka Favourable Sampling
 
-The simplest and probably most convincing approach to story telling is to present highly specific anecdotal data. Here is an example:
+The simplest and probably most convincing approach to story telling is to present highly specific anecdotal data.   
+
+Here is an example:
 
 ![Anecdotal Evidence]({{ site.baseurl }}/assets/images/2023/anecdotalEvidence.png)
 
+While it makes for a great story, Shankar's singular experience tells me little about what my experience will be.   
 ## Level 2: Cherry Picking aka Favourable Filtering
 
-Something slightly better and less obvious is cherry picking / selective filtering. There are no more individual stories being presented here but instead a statistic.
+Something slightly better and less obvious is cherry picking / selective filtering. Presenting a statistic helps legitimize the statement to some extent but those reading the fine print and quick to be convinced otherwise.  
 
 ![Cherry Picking]({{ site.baseurl }}/assets/images/2023/toothpaste.png)
 
@@ -59,13 +63,13 @@ In order to allay this fear, the State rolls out vaccination trials to a limited
 
 The State releases this info:  
 
-*Around 17,000 individuals across locations, age groups & gender were vaccinated.*
-*The incidence of covid amongst these individuals over a period of 3 months post vaccination was compared with unvaccinated individuals from the same locations/demographics*
-*We note that the difference in covid incidence was statistically insignificant.*
-*The results of the survey are presented herein.*
-*We recommend that everyone get vaccinated as soon as possible*
+*Around 17,000 individuals across locations, age groups & gender were vaccinated.*   
+*The incidence of covid amongst these individuals over a period of 3 months post vaccination was compared with unvaccinated individuals from the same locations/demographics*   
+*We note that the difference in covid incidence was statistically insignificant.*   
+*The results of the survey are presented herein.*   
+*We recommend that everyone get vaccinated as soon as possible*   
 
-You pull out the raw data and this is what you see:  
+You pull out the raw data and this is what you see:    
 
 ![State's Evidence]({{ site.baseurl }}/assets/images/2023/statesEvidence.png)
 
@@ -82,7 +86,7 @@ Half a hour later you come up with this astounding counterfactual:
 
 Notice that:  
 1. On an aggregate basis the incidence of covid is the same whether one is vaccinated or unvaccinated i.e **~6.9%** of the population   
-2. The moment we partition along the lines of over/under 60 being vaccinated starts to show a higher incidence of covid positive post vaccination across **BOTH** cohorts i.e 9.25% vs 8.65% and 5.09% vs 4.87%   
+2. The moment we partition along the lines of urban/rural, being vaccinated starts to show a higher incidence of covid positive post vaccination across **BOTH** cohorts i.e Urban: 9.25% vs 8.65% and Rural: 5.09% vs 4.87%   
 
 There is no cherry picking of data here.   
 No information has been selectively excluded.  
