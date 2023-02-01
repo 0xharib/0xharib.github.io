@@ -31,7 +31,7 @@ you need to back up your assertions with some data.
 
 It is not uncommon, therefore, to encounter data that has been manipulated in some way to validate a story.   
 
-## Level 1: Anecdotal Evidence aka Favourable Sampling
+### Level 1: Anecdotal Evidence aka Favourable Sampling
 
 The simplest approach to story telling is to present highly specific anecdotal data.   
 
@@ -40,20 +40,20 @@ Here is an example:
 ![Anecdotal Evidence]({{ site.baseurl }}/assets/images/2023/anecdotalEvidence.png)
 
 While it makes for a great story, Shankar's singular experience tells me little about what my user journey could look like.   
-## Level 2: Cherry Picking aka Favourable Filtering
+### Level 2: Cherry Picking aka Favourable Filtering
 
 Something slightly better and less obvious is cherry picking / selective filtering. Presenting a statistic helps legitimize the statement to some extent but those reading the fine print are quick to be convinced otherwise.  
 
 ![Cherry Picking]({{ site.baseurl }}/assets/images/2023/toothpaste.png)
 
-## Level 3: Data Groening aka Favourable Partitioning
+### Level 3: Data Groening aka Favourable Partitioning
 
 Neither anecdotal evidence nor cherry picking beats the insidiousness of what I'd like to call Data [Groening](https://en.wikipedia.org/wiki/Matt_Groening) because **it manufactures a, hard to sniff out, Simpson's Paradox to support a false narrative**. Especially in the context of Covid stats, I have now repeatedly seen malicious use of this tactic.   
 
-## Simpson's Paradox
+### Simpson's Paradox
 
 Simpson's Paradox, first described by Edward Simpson and [explained beautifully by causality expert Judea Pearl here](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf), is a means of partitioning or splitting the underlying data set in a manner that reverses results. The partitioning in question needs to be examined for causality. If causality can be established, the partition holds. In the hands of a skilled data analyst, Simpson's paradox can be weaponized to support false narratives.  
-## Groening Covid Data
+### Groening Covid Data
 
 Let us say, for instance, that you're an anti-vaxxer. You're convinced that no one should take a covid vaccine and you'd like to convince your audience of this.  
 
@@ -79,8 +79,8 @@ How do you turn this around you wonder?
 
 Half a hour later you come up with this astounding counterfactual:
 
-*Getting vaccinated could increase your chance of contracting covid by 5-7%!*
-*Our analysis of data shared by the State following its vaccination trial shows that this is consistent across both urban and rural populations*
+*Getting vaccinated could increase your chance of contracting covid by 5-7%!*   
+*Our analysis of data shared by the State following its vaccination trial shows that this is consistent across both urban and rural populations*   
 
 ![counterfactual]({{ site.baseurl }}/assets/images/2023/counterfactual.png)
 
@@ -94,7 +94,7 @@ All you have done is create a partition to change the narrative which is pretty 
 
 ![Simpson's Paradox Gif from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/f/fb/Simpsons_paradox_-_animation.gif)
 
-## Is the partition real?
+### Is the partition real?
 The crux of the problem comes down to the determination of causality.  
 **Is there a reason why whether a person is an urban or rural dweller should stand to make a difference to their physiological ability to contract covid?**   
 If the answer is NO then the partition is nonsensical.   
@@ -116,7 +116,7 @@ On Twitter at least, I see only one really sharp person repeatedly calling out f
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simpson&#39;s paradox.<br>Why is it so hard?<a href="https://t.co/6GGE0MsB59">https://t.co/6GGE0MsB59</a> <a href="https://t.co/OvGcGYWV3R">https://t.co/OvGcGYWV3R</a></p>&mdash; Nassim Nicholas Taleb (@nntaleb) <a href="https://twitter.com/nntaleb/status/1612947159787118593?ref_src=twsrc%5Etfw">January 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Avoiding Inadvertent Groening
+### Avoiding Inadvertent Groening
 
 Every data point comes with a far longer list of features/attributes than in the past making a zealous data analyst prone to inadvertent groening.   
 
