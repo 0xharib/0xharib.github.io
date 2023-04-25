@@ -49,7 +49,7 @@ Here is me asking ChatGPT about a series of books written by the late Richmal Cr
 
 
 Looks impressive.   
-You can check out this site which is a society of Crompton's fans presided by her next of kin: http://www.justwilliam.co.uk/page-bibliography1st.htm to see the ACTUAL list of books. There are many many mistakes and inconsistencies in the list that ChatGPT has produced.   
+You can check out this site which is a society of Crompton's fans presided by her next of kin: (http://www.justwilliam.co.uk/page-bibliography1st.htm) to see the ACTUAL list of books. There are many many mistakes and inconsistencies in the list that ChatGPT has produced.   
 
 ### Let's get specific
 
@@ -61,7 +61,7 @@ I specifically chose William the Outlaw because the book is not yet out of copyr
 
 With complete confidence GPT has hallucinated the contents page for this book which has zero basis in fact.  
 
-And finally the icing on the cake. A completely fictional summary of a chapter that doesn't exist, peppered with just enough red herrings (Hubert Lane is a real character from the series and is indeed William's nemesis) to imply reality.    
+And finally the icing on the cake. A completely fictional summary of a chapter that doesn't exist, peppered with just enough red herrings  to imply reality. For instance, Hubert Lane is a real character from the series and is indeed William's nemesis.  
 
 ![Asking ChatGPT about HUF]({{ site.baseurl }}/assets/images/2023/tax6.png) 
 
