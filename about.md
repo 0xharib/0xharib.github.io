@@ -26,12 +26,10 @@ titles:
 key: page-about
 ---
 
+Greetings, human/crawler-bot! I'm a 40-something interstellar traveler, teleporting through the cosmic realms of sci-fi literature, grooving to the harmonies of an eclectic musical universe, and indulging in celestial snacking.
 
+Once a master of the financial derivatives multiverse, I hung up my Wall Street cape to conjure AI wizardry for the enterprise world. Now, I'm immersing myself in the enigmatic vortex of cryptocurrency and Generative AI — two of the most tantalizing bubbles at our current coordinates in space-time continuum.
 
-I am a 30 something fintech guy interested in reading sci-fi, listening to prog rock and eating vast quantities of [SNYDER’S Jalapeño pretzel bits](https://www.snydersofhanover.com/jalapeno-pieces/).
-
-Armed with Marc Andreesen’s hairstyle & Warren Buffet’s fondness for cherry coke, I lay down my incisive insights [HERE]({{ site.baseurl }}/blog)
-
-Thanks for dropping by!!
+As the great Douglas Adams once said, "I may not have gone where I intended to go, but I think I have ended up where I needed to be." So, welcome aboard my spaceship, fellow explorer, and thanks for dropping by!
 
 ![]({{ site.baseurl }}/assets/images/img_5161.png)
