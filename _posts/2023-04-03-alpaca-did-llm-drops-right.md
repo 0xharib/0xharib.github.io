@@ -25,7 +25,7 @@ tags: ['geekery','software', 'ai', 'chatgpt','generativeai','nlu','alpaca','gpt3
 excerpt: 
 ---
 
-![Alpaca]({{ site.baseurl }}/assets/images/2023/alpaca.jpeg)   
+![Alpaca]({{ site.baseurl }}/assets/images/2023/alpaca1.jpeg)   
 
 #Alpaca did #LLM drops right   
 ✔️ Abstract gives you simple direct reason to care (davinci-003 locally @ <$600)   
