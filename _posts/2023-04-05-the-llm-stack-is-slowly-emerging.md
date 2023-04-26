@@ -42,8 +42,8 @@ The LLM stack is slowly emerging
 Wondering where to start?    
 
 If you learn by DOING them:   
-Gregory Kamradt and the good folks at Data Independent have you covered. ![Here are some great videos](https://www.youtube.com/@DataIndependent/videos)   
+Gregory Kamradt and the good folks at Data Independent have you covered. [Here are some great videos](https://www.youtube.com/@DataIndependent/videos)   
 
 
 If you learn by READING then:    
-![Pinecone's resources are simply excellent](https://www.pinecone.io/learn/)    
+[Pinecone's resources are simply excellent](https://www.pinecone.io/learn/)    
