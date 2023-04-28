@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Reading the GPT leaves - Making sense of LLMs as a CXO
-date: 2023-04-18 00:00:00
+date: 2023-04-28 00:00:00
 type: post
 parent_id: '0'
 published: true
