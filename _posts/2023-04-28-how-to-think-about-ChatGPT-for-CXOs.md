@@ -100,7 +100,7 @@ Truly remarkable solutions will rely on something more such as innovative use of
 
 > The best example of this use case is [kapa.ai](https://kapa.ai) that does Automated Q&A on Product Documentation and > I expect in a few days [dexa.ai](dexa.ai) (sign up for it if you listen to podcasts) will get there too.
 
-### High Context Use Cases
+### 2. High Context Use Cases
 
 **RATL** (Regulatory, Accounting, Tax & Legal) documents, Life Sciences, Technical Documentation & a number of other high context small markets will still need custom solutions built on top of AI.
 
@@ -108,7 +108,7 @@ Truly remarkable solutions will rely on something more such as innovative use of
 
 A good thumb rule here is to dump some context about your domain into ChatGPT Plus and to examine if its native answers are sensible. If it isn’t you’re probably in luck.
 
-### How vs What Use Cases
+### 3. How vs What Use Cases
 I am a huge fan of anagrams and word games and I periodically benchmark GPT by asking for a word ladder that transforms one five letter word into another (e.g. transform WHALE to KRILL by changing 1 letter at a time).  
 
 GPT does abysmally at this task (and many other math challenges as well). However it does a great job at writing code that can solve this problem given a list of 5 letter English words.   
@@ -119,7 +119,7 @@ Coding is just the tip of the iceberg here and we might see interesting context 
      
 
    
-### Closing Thoughts
+## Closing Thoughts
 
 From a CXO perspective:
 - Spend time exploring GPT - both you and your team should spend time understanding and playing around with the product.
