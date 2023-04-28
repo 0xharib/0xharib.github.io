@@ -24,43 +24,51 @@ excerpt: Is ChatGPT a fad? As a CXO how much should you really care?
 
 ## How much should you care about ChatGPT?
 
-If you’re a CXO who saw ChatGPT and went “Wow, that thing our customers have been asking for which we couldn’t deliver? Well we can do that now.”, good for you and you can stop reading here.   
+Let me know if this sounds familiar.
 
-More likely though, you looked at ChatGPT, thought that’s interesting. Then 5 minutes later you went back to the real world, the new hire that needs to be closed, your next growth milestone & meeting this quarter's targets.   
+You heard about ChatGPT a few months ago. You took a quick look and thought,  "Well, that’s interesting."   
 
-In the weeks that followed though, ChatGPT kept resurfacing. You heard about it over watercooler talk, coffee catch ups and dinner parties.   
+Five minutes later you went back to the real world, the new hire that needs to be closed, your next growth milestone & meeting this quarter's targets.    
 
-Then without warning, a million experts, who until last year, were telling you want crypto tokens to buy, turned up on Twitter, LinkedIn and even TikTok/Insta your feed to tell you why you must be paying attention, almost always with listicles, to this life changing piece of tech.    
+But that wasn't the last of it.   
 
-Fine, you said - Maybe this is something I should pay attention to.   
+In the weeks that followed though, ChatGPT kept resurfacing. You heard about it over watercooler talk, coffee catch ups, team outings and dinner parties.   
+
+Then one fine day, without warning, a million experts, who until last year, were telling you want crypto tokens to buy, turned up on Twitter, LinkedIn and even TikTok/Insta your feed to tell you why you must be paying attention, almost always with listicles, to this life changing piece of tech.    
+
+At that point you gave in.   
 
 You made some calls, read some posts, signed up to some newsletters and even watched some videos.   
 
-But now that you’ve dipped your toes in the water you’re inundated with new information every day, especially the 20 new backronyms being coined each day.    
+But now that you’ve started to pay attention, you’re inundated with new information every day. You just can't keep up!    
 
-You bring it up in your monthly management meeting. Your VP Product starts hyperventilating about the potential of ChatGPT while your CTO/Head of Analytics tells you that he has been working on AI since God was a child.   
+You bring up ChatGPT in your monthly management meeting. Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics tells you that he knows all about it because after all, he has been working on AI since God was a child.   
 
-At the end of an hour, the team has agreed that you will integrate ChatGPT into your product. I mean this is the least you can do right?   
+An hour goes by. The team has finally agreed that you will integrate ChatGPT into your product. This is the very least you can do right? 
 
-As you walk away from the meeting you have a sense of deja vu. It seems like you had a similar meeting 18 months ago about Blockchain and 18 months before that before that Machine Learning.   
+Tasks are assigned and people promise to catch up offline.   
 
-So what more should you be doing?
+As you walk away from the meeting you have a sense of deja vu. It seems like you had a similar meeting 18 months ago about Blockchain. 18 months before that before that it was Machine Learning.   
 
-### Play around with ChatGPT
+Are you doing enough? Or is this a passing fad you should just ignore?   
+
+If you relate to any of the above, here are a few things to keep in mind as you navigate the world of Large Language Models like GPT.
+
+### 1. Play around with ChatGPT
 
 Not just you, but every employee in your firm MUST be allowed to use ChatGPT in their daily jobs.   
 Incognito mode is already available and a business version of ChatGPT is on its way. While everyone should be educated about the liabilities of pasting confidential information or PII into GPT, these changes should allow you to rest easy even if someone inadvertently does make a mistake.
 
 This first step is incredibly important because it allows your firm to understand & appreciate GPT's potential.
 
-### Examine your high priority objectives
+### 2. Examine your high priority objectives
 
 Are there problems or features that are a high priority for you internally or your customers/clients?
 Can you or your team see the potential for GPT to change the way things get done?
 Solve problems 10x better than existing solutions or better yet solve unsolved problems?
 These are definitely spaces worth examining.
 
-### Before adding GPT into your product
+### 3. Why is GPT going into your product?
 
 There are typically two objectives to introducing GPT into your product:
 - To improve / solve a product ask or a validated problem which directly improves business/revenue outcomes
@@ -70,7 +78,7 @@ I would strongly advocate refraining from the latter.
 
 ## Reading the GPT leaves
 
-![How much do I care?]({{ site.baseurl }}/assets/images/2023/tealeaves.png)
+![Tea Leaves]({{ site.baseurl }}/assets/images/2023/tealeaves.png)
 
 The past few weeks have seen a flurry of products related to and enabled by the LLM ecosystem. Having used, dissected and observed market reaction to a number of these, I've tried to develop a framework for what makes a successful GPT driven product.   
 
