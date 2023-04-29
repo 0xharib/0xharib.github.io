@@ -26,27 +26,24 @@ excerpt: Is ChatGPT a fad? As a CXO how much should you really care?
 
 Let me know if this sounds familiar.
 
-You heard about ChatGPT a few months ago. You took a quick look and thought,  "Well, that’s interesting."   
-
-Five minutes later you went back to the real world, the new hire that needs to be closed, your next growth milestone & meeting this quarter's targets.    
+A few months ago, you came across ChatGPT and thought, "That's intriguing."
+However, you quickly returned to pressing matters, such as closing new hires, worrying about hitting growth milestones, and meeting quarterly targets.
 
 But that wasn't the last of it.   
 
 In the weeks that followed though, ChatGPT kept resurfacing. You heard about it over watercooler talk, coffee catch ups, team outings and dinner parties.   
 
-Then one fine day, without warning, a million experts, who until last year, were telling you want crypto tokens to buy, turned up on Twitter, LinkedIn and even TikTok/Insta your feed to tell you why you must be paying attention, almost always with listicles, to this life changing piece of tech.    
+Then one fine day, without warning, a million experts, who until last year, were telling you want crypto tokens to buy, turned up on Twitter, LinkedIn and even TikTok/Insta your feed to tell you why you must be paying attention (always with listicles), to this life changing piece of tech.    
 
 At that point you gave in.   
 
-You made some calls, read some posts, signed up to some newsletters and even watched some videos.   
+You made inquiries, read articles, subscribed to newsletters, and watched some videos. But soon you find yourself overwhelmed by a constant influx of information.
 
-But now that you’ve started to pay attention, you’re inundated with new information every day. You just can't keep up!    
+ChatGPT comes up in your monthly management meeting. Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics tells you that he knows all about it because after all, he has been working on AI since God was a child.   
 
-You bring up ChatGPT in your monthly management meeting. Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics tells you that he knows all about it because after all, he has been working on AI since God was a child.   
+An hour goes by. Your team has finally agreed that you will integrate ChatGPT into your product. This is the very least you can do right? 
 
-An hour goes by. The team has finally agreed that you will integrate ChatGPT into your product. This is the very least you can do right? 
-
-Tasks are assigned and people promise to catch up offline.   
+Tasks are assigned and people promise to "take things offline".   
 
 As you walk away from the meeting you have a sense of deja vu. It seems like you had a similar meeting 18 months ago about Blockchain. 18 months before that before that it was Machine Learning.   
 
@@ -71,8 +68,8 @@ These are definitely spaces worth examining.
 ### 3. Why is GPT going into your product?
 
 There are typically two objectives to introducing GPT into your product:
-- To improve / solve a product ask or a validated problem which directly improves business/revenue outcomes
-- To position your firm as being AI or LLM enabled to your customers   
+a. To improve / solve a product ask or a validated problem which directly improves business/revenue outcomes
+b. To position your firm as being AI or LLM enabled to your customers   
 
 I would strongly advocate refraining from the latter.    
 
