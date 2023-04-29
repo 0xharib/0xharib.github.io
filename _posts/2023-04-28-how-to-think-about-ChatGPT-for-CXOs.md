@@ -27,29 +27,29 @@ excerpt: Is ChatGPT a fad? As a CXO how much should you really care?
 Let me know if this sounds familiar.
 
 A few months ago, you came across ChatGPT and thought, "That's intriguing."
-However, you quickly returned to pressing matters, such as closing new hires, worrying about hitting growth milestones, and meeting quarterly targets.
-
-But that wasn't the last of it.   
+However, you quickly returned to more pressing matters, like closing new hires, hitting growth milestones, and meeting quarterly targets.
 
 In the weeks that followed though, ChatGPT kept resurfacing. You heard about it over watercooler talk, coffee catch ups, team outings and dinner parties.   
 
-Then one fine day, without warning, a million experts, who until last year, were telling you want crypto tokens to buy, turned up on Twitter, LinkedIn and even TikTok/Insta your feed to tell you why you must be paying attention (always with listicles), to this life changing piece of tech.    
+Shortly thereafter, every social media influencer started to publish listicles (or threads) & videos on ChatGPT and only ChatGPT.    
 
-At that point you gave in.   
+You give in.  
 
-You made inquiries, read articles, subscribed to newsletters, and watched some videos. But soon you find yourself overwhelmed by a constant influx of information.
+You made inquiries, read articles, subscribed to newsletters, and watched some videos. But soon you find yourself overwhelmed by a constant influx of information.  
 
-ChatGPT comes up in your monthly management meeting. Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics tells you that he knows all about it because after all, he has been working on AI since God was a child.   
+A few weeks later, ChatGPT comes up in your monthly management meeting.  
 
-An hour goes by. Your team has finally agreed that you will integrate ChatGPT into your product. This is the very least you can do right? 
+Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics tells you that he knows all about it because after all, he has been working on AI since God was a child.   
 
-Tasks are assigned and people promise to "take things offline".   
+An hour goes by. Your team has finally agreed that you will integrate ChatGPT into your product. This is the very least you can do, right?
 
-As you walk away from the meeting you have a sense of deja vu. It seems like you had a similar meeting 18 months ago about Blockchain. 18 months before that before that it was Machine Learning.   
+Tasks are assigned and people promise to "take it up offline".   
+
+As you walk away from the meeting you have a sense of déjà vu. It seems like you had a similar meeting 18 months ago about Blockchain; 18 months before that before that it was Machine Learning.   
 
 Are you doing enough? Or is this a passing fad you should just ignore?   
 
-If you relate to any of the above, here are a few things to keep in mind as you navigate the world of Large Language Models like GPT.
+If you're still reading, here are a few things to keep in mind as you navigate the world of Large Language Models like GPT.
 
 ### 1. Play around with ChatGPT
 
@@ -93,7 +93,7 @@ Note that **ChatGPT Business** getting rolled out solves for secure usage of pri
 
 Simple information retrieval, using GPT on an underlying corpus, in most situations is not a defensible product. To be truly defensible, one needs either some form of abstractive summarization (beyond simply quoting snippets from the underlying data) or synthesis (drawing conclusions, combining ideas or facts, generating arguments or counterarguments).  
 Defensibility here likely goes beyond just writing clever prompts (which can be easily replicated by others).    
-Truly remarkable solutions will rely on something more such as innovative use of databases, combining public with private data or blending traditional programming techniques with GPT use.
+Truly remarkable solutions will rely on something more such as innovative use of databases, combining public with private data or blending traditional programming techniques with GPT use.  
 
 > The best example of this use case is [kapa.ai](https://kapa.ai) that does Automated Q&A on Product Documentation and > I expect in a few days [dexa.ai](dexa.ai) (sign up for it if you listen to podcasts) will get there too.
 
