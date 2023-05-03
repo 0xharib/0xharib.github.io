@@ -33,13 +33,17 @@ In the weeks that followed though, ChatGPT kept resurfacing. You heard about it 
 
 Shortly thereafter, every social media influencer started to publish listicles (or threads) & videos on ChatGPT and only ChatGPT.    
 
-You give in.  
+You gave in.  
 
-You made inquiries, read articles, subscribed to newsletters, and watched some videos. But soon you find yourself overwhelmed by a constant influx of information.  
+You made enquiries, read articles, subscribed to newsletters, and watched some videos. But soon you found yourself overwhelmed by a constant influx of information.  
+
+---
+
+![How much do I care?]({{ site.baseurl }}/assets/images/2023/menwomenmeeting.png)
 
 A few weeks later, ChatGPT comes up in your monthly management meeting.  
 
-Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics tells you that he knows all about it because after all, he has been working on AI since God was a child.   
+Your VP Product starts hyperventilating about the untapped potential of ChatGPT while your CTO/Head of Analytics told you that they knos all about it because after all, they have been working on AI since God was a child.   
 
 An hour goes by. Your team has finally agreed that you will integrate ChatGPT into your product. This is the very least you can do, right?
 
@@ -48,6 +52,8 @@ Tasks are assigned and people promise to "take it up offline".
 As you walk away from the meeting you have a sense of déjà vu. It seems like you had a similar meeting 18 months ago about Blockchain; 18 months before that before that it was Machine Learning.   
 
 Are you doing enough? Or is this a passing fad you should just ignore?   
+
+---
 
 If you're still reading, here are a few things to keep in mind as you navigate the world of Large Language Models like GPT.
 
