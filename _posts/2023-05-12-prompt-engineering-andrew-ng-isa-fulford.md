@@ -46,9 +46,9 @@ permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
         - Good delimiters - triple quotes, backticks, dashes, angle brackets, xml tags
     - Ask for structured output in HTML or JSON format
     - Check whether conditions are satisfied before producing output
-        - If the text does not contain a sequence of instructions, \ then simply write \"No steps provided.\"
+        - \"If the text does not contain a sequence of instructions, then simply write \'No steps provided.\'\"
     - Few shot prompting
-        - provide examples within the prompt so that the model understands what is expected
+        - Provide examples within the prompt so that the model understands what is expected of it
 
 - Give the model time to think
     - Guide with clear steps to follow in order to reach an answer
