@@ -25,8 +25,8 @@ permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
 ## TL;DR
 **About:** Andrew Ng brought ML to the masses for free and at scale. He is now back with Isa Fulford of OpenAI with a Prompt Engineering course.   
 **Audience:** **Citizen** developers, those who haven't coded in years but itching to do something with ChatGPT.  
-**Where to find it:**  [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng)
-**Time to Complete:** 2-3 hours maybe    
+**Where to find it:**  [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng)    
+**Time to Complete:** 2-3 hours maybe      
 **Pre-requisites:** [OpenAI key](https://platform.openai.com/account/api-keys)   
 
 ## Base LLM vs Instruction Tuned LLMs
@@ -95,7 +95,7 @@ permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
 
 ## Expanding
 - The standard function call to OpenAI takes the form
-	- openai.ChatCompletion.create( model='gpt-4', messages\<prompts\/conversation histor\>,temperature=\<number between 0 & 1\>)
+	- openai.ChatCompletion.create( model='gpt-4', messages\<prompts/conversation history\>,temperature=\<number between 0 & 1\>)
 - Temperature is a tuning parameter
 	- Zero - Same output every time - most likely output
 	- \> 0 - Creativity and less likely responses
