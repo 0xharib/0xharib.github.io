@@ -52,11 +52,11 @@ permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
 
 - Give the model time to think
     - Guide with clear steps to follow in order to reach an answer
-        - e.g. Your task is to perform the following actions: 
-            1 - Summarize the following text delimited by \<\> with 1 sentence.
-            2 - Translate the summary into French.
-            3 - List each name in the French summary.
-            4 - Output a json object that contains the following keys: french_summary, num_names.
+        - e.g. Your task is to perform the following actions:     
+            1 - Summarize the following text delimited by \<\> with 1 sentence.    
+            2 - Translate the summary into French.    
+            3 - List each name in the French summary.    
+            4 - Output a json object that contains the following keys: french_summary, num_names.    
     - Ask for output in a specified format
         - e.g. Use the following format:
             - Text:\<text to summarize\>
