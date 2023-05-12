@@ -75,7 +75,7 @@ permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
 ## Summarizing
 - Summarizing is a key use case; provide guidance on
 	- Size of summary - # words, characters, sentences
-	- Focus items
+	- Focus items - themes, ideas, concepts
 
 ## Inferring
 - You can figure out
