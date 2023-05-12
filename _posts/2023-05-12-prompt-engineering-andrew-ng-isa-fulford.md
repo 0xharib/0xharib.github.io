@@ -117,5 +117,5 @@ messages =  [
 	- System Message - Overall instructions
 	- User Message - User's input
 	- Assistant Message - What ChatGPT is supposed to have responded with earlier
-- **Every interaction with OpenAI models is a standalone event. ChatGPT understands conversation history only because this history is iteratively supplied to it as part of the prompt behind the scenes**
+- **Every interaction with OpenAI models is a standalone event. ChatGPT understands conversation history only because this history is iteratively supplied to it as part of the prompt behind the scenes.**
 
