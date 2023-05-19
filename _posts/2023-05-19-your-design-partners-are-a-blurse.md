@@ -22,10 +22,10 @@ excerpt: Should you tap your network for your early customers?
 ## The Blessing
 
 I started up in 2017.   
-At that point between my co-founder & I, we had nearly 30 years of work experience in Financial Services.   
+Between my co-founder & I, we had nearly 30 years of work experience in Financial Services.   
 We'd worked across New York, London, India, Hong Kong & Singapore.   
-We also had premier, non-overlapping MBAs, graduate degrees and high schools.   
-It was a killer network.   
+We were also alumns of non-overlapping, premier, B-schools, undergrad schools and high schools.   
+We had a killer network.   
    
 We set out to build a SaaS product for Financial Services, an industry we had grown up in.   
    
@@ -36,7 +36,7 @@ Quite a few signed up to be trials and became design partners.
 
 ![Excited PV HV]({{ site.baseurl }}/assets/images/2023/excitedpvhb.png)
    
-In hindsight though this would come back to hurt us.      
+In hindsight though this would confuse & mislead us.      
    
 ## The Curse
    
@@ -46,7 +46,7 @@ You need early customers for just one thing.
   
 Achieving PMF requires having a zen-like focus on discovering the cold hard truth.   
 
-Customers you gain through warm intros and friendly networks will can't deliver tough messages.  
+Customers you gain through warm intros and friendly networks will can't deliver tough messages.    
 Side Note 1: This doesn't mean strangers will give you tough messages you want to hear. It's quite likely that they will sugarcoat their messages as well.  
 Side Note 2: Conversely you will struggle to "fire" a customer that came through a warm intro either. You will also feel obliged to prioritize their product requests in your backlog, give them grandfathered discounts down the road etc etc.     
 
@@ -62,8 +62,8 @@ In this matter [The Mom Test](https://www.momtestbook.com/) is right.
 
 ## The Opposite of a Bad Idea is a Bad Idea
 
-So the take away is NOT to use your network to find early customers right?  
-Wrong!  
+So the take away is NOT to use your network to find early customers right?   
+Wrong!   
 
 In 2022, I reconnected with an old friend from my undergrad days.  
 This person had slowly & diligently bootstrapped their way to successful Software Services business over a decade.  
