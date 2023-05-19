@@ -30,9 +30,11 @@ It was a killer network.
 We set out to build a SaaS product for Financial Services, an industry we had grown up in.   
    
 It wasn't hard to get first meetings.    
-We waltzed into rooms with warm intros & impressed people away with great ideas for what we wanted to build.
-People smiled and agreed that we were doing something cool.   
-Many signed up to be trials and became design partners.   
+We waltzed into rooms with warm intros & spoke about the amazing things we were building.
+Almost everyone we spoke to shared our enthusiasm. Many brainstormed ideas with us.   
+Quite a few signed up to be trials and became design partners.   
+
+![Excited PV HV]({{ site.baseurl }}/assets/images/2023/excitedpvhb.png)
    
 In hindsight though this would come back to hurt us.      
    
@@ -45,14 +47,18 @@ You need early customers for just one thing.
 Achieving PMF requires having a zen-like focus on discovering the cold hard truth.   
 
 Customers you gain through warm intros and friendly networks will can't deliver tough messages.  
-Side Note 1: This doesn't mean strangers will give you tough messages you want to hear.  
+Side Note 1: This doesn't mean strangers will give you tough messages you want to hear. It's quite likely that they will sugarcoat their messages as well.  
 Side Note 2: Conversely you will struggle to "fire" a customer that came through a warm intro either. You will also feel obliged to prioritize their product requests in your backlog, give them grandfathered discounts down the road etc etc.     
 
-Getting design partners through warm intros creates false flags during the discovery phase.  
+Getting design partners through your network or warm intros creates false flags during the discovery phase.  
 
 The Talebian idea of [Why surgeons should not look like surgeons](https://medium.com/incerto/surgeons-should-notlook-like-surgeons-23b0e2cf6d52) works the other way too. You know that your product is working when customers who have no reason to love you (or in fact hate you) still want to pay for your product.  
    
+![Surgeon]({{ site.baseurl }}/assets/images/2023/surgeon.png)
+
 In this matter [The Mom Test](https://www.momtestbook.com/) is right.  
+
+![Mom Test]({{ site.baseurl }}/assets/images/2023/momtest.jpeg)
 
 ## The Opposite of a Bad Idea is a Bad Idea
 
@@ -67,16 +73,18 @@ They readily admitted that it had worked and has definitely contributed to their
 [Effectuation](https://entrepreneurshiptheories.blogspot.com/2017/08/sarasvathy-effectuation-theory.html) is the idea that entrepreneurs start by considering their resources first - what & whom they know and weave their way towards progress stumbling upon success.   
 
 My friend had effectuated.   
-Well I'd tried effectuation too.   
+Well, I'd tried effectuation too!   
 So why had I failed when my friend had succeeded?  
+Was I just plain unlucky?  
 
 ## Discovery - Product vs Services
 
 SaaS aims to replace Services with Product.    
 While a **sale** can be influenced through marketing, distribution & sales efforts...   
-**renewal** depends on only one thing.   
+**Renewal** is the real moment of truth.   
+**Renewal** depends on only one thing.   
 
-#### Can your **product** solve the Customer's problem well?
+*Can your* **product** *solve the Customer's problem well? (possibly well enough that you can raise prices)*
 (No doubt, the customer success function does help here)  
 
 You want customers to love **your product**  
