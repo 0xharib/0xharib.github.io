@@ -21,6 +21,7 @@ tags:
 - ml
 - andrew ng
 permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
+excerpt: The prompt engineering course by Andrew Ng & Isa Fulford is not for everyone
 ---
 ## TL;DR
 **About:** Andrew Ng brought ML to the masses for free and at scale. He is now back with Isa Fulford of OpenAI with a Prompt Engineering course.   

@@ -1,0 +1,91 @@
+---
+layout: article
+title: Leads from your network are a blurse
+date: 2023-05-19 00:00:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: ['startups','software','SaaS','consulting','services','network']
+tags:
+- startups
+- software
+- SaaS
+- consiulting
+- services
+- network
+permalink: "/design-partners/"
+excerpt: Should you tap your network for your early customers?
+---
+
+## The Blessing
+
+I started up in 2017.   
+At that point between my co-founder & I, we had nearly 30 years of work experience in Financial Services.   
+We'd worked across New York, London, India, Hong Kong & Singapore.   
+We also had premier, non-overlapping MBAs, graduate degrees and high schools.   
+It was a killer network.   
+   
+We set out to build a SaaS product for Financial Services, an industry we had grown up in.   
+   
+It wasn't hard to get first meetings.    
+We waltzed into rooms with warm intros & impressed people away with great ideas for what we wanted to build.
+People smiled and agreed that we were doing something cool.   
+Many signed up to be trials and became design partners.   
+   
+In hindsight though this would come back to hurt us.      
+   
+## The Curse
+   
+You need early customers for just one thing.   
+   
+#### To achieve Product Market Fit.   
+  
+Achieving PMF requires having a zen-like focus on discovering the cold hard truth.   
+
+Customers you gain through warm intros and friendly networks will can't deliver tough messages.  
+Side Note 1: This doesn't mean strangers will give you tough messages you want to hear.  
+Side Note 2: Conversely you will struggle to "fire" a customer that came through a warm intro either. You will also feel obliged to prioritize their product requests in your backlog, give them grandfathered discounts down the road etc etc.     
+
+Getting design partners through warm intros creates false flags during the discovery phase.  
+
+The Talebian idea of [Why surgeons should not look like surgeons](https://medium.com/incerto/surgeons-should-notlook-like-surgeons-23b0e2cf6d52) works the other way too. You know that your product is working when customers who have no reason to love you (or in fact hate you) still want to pay for your product.  
+   
+In this matter [The Mom Test](https://www.momtestbook.com/) is right.  
+
+## The Opposite of a Bad Idea is a Bad Idea
+
+So the take away is NOT to use your network to find early customers right?  
+Wrong!  
+
+In 2022, I reconnected with an old friend from my undergrad days.  
+This person had slowly & diligently bootstrapped their way to successful Software Services business over a decade.  
+They'd not been shy about reaching out to our mutual IIT network for business.  
+They readily admitted that it had worked and has definitely contributed to their long term success.   
+
+[Effectuation](https://entrepreneurshiptheories.blogspot.com/2017/08/sarasvathy-effectuation-theory.html) is the idea that entrepreneurs start by considering their resources first - what & whom they know and weave their way towards progress stumbling upon success.   
+
+My friend had effectuated.   
+Well I'd tried effectuation too.   
+So why had I failed when my friend had succeeded?  
+
+## Discovery - Product vs Services
+
+SaaS aims to replace Services with Product.    
+While a **sale** can be influenced through marketing, distribution & sales efforts...   
+**renewal** depends on only one thing.   
+
+#### Can your **product** solve the Customer's problem well?
+(No doubt, the customer success function does help here)  
+
+You want customers to love **your product**  
+If your customers love **you**, you better **BE** the product!
+
+![Jay-Z]({{ site.baseurl }}/assets/images/2023/jayz.png)
+
+## The TL;DR   
+
+My modified thumb-rule now is that:    
+**If you want find clients to serve, investors to give you money, or an employer to give you a job by all means do effectuate during the discovery process.**     
+**But if you want Customers to sell to stay away from your friends and talk to strangers first.**    
