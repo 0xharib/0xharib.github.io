@@ -95,10 +95,10 @@ If your customers love **you**, you better **BE** the product!
 ## The TL;DR   
 
 My modified thumb-rule now is that:    
-If you want find**   
- - **clients to serve
- - **investors to fund you
- - **an employer to hire you
+If you want find     
+ - clients to serve
+ - investors to fund you
+ - an employer to hire you
 then all means do effectuate during the discovery process.     
 
 But if you want   
