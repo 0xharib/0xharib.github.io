@@ -95,5 +95,12 @@ If your customers love **you**, you better **BE** the product!
 ## The TL;DR   
 
 My modified thumb-rule now is that:    
-**If you want find clients to serve, investors to give you money, or an employer to give you a job by all means do effectuate during the discovery process.**     
-**But if you want Customers to sell to stay away from your friends and talk to strangers first.**    
+If you want find**   
+ - **clients to serve
+ - **investors to fund you
+ - **an employer to hire you
+then all means do effectuate during the discovery process.     
+
+But if you want   
+**customers to sell to**   
+then stay away from your friends and talk to strangers first.    
