@@ -97,13 +97,15 @@ If your customers love **you**, then **you better BE** the product!
 
 My modified thumb-rule now is that:    
 If you want find     
- - clients to serve
- - investors to fund you
- - an employer to hire you    
-then all means do effectuate during the discovery process.     
+ - clients to serve in a services business
+ - investors to fund your start up
+ - an employer to hire you or employees to hire
+ - a vendor or service-provider    
+then all means tap your network & effectuate.     
 
 But if you want   
 **customers to sell to**   
 well then   
 stay away from your friends    
-and talk to strangers first.    
+and talk to strangers first.   
+
