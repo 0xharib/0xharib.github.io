@@ -99,7 +99,7 @@ My modified thumb-rule now is that:
 If you want find     
  - clients to serve
  - investors to fund you
- - an employer to hire you
+ - an employer to hire you    
 then all means do effectuate during the discovery process.     
 
 But if you want   
