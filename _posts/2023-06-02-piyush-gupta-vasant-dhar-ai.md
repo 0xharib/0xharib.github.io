@@ -26,7 +26,7 @@ I've heard many CEOs talk about AI but this conversation was different.
 
 Here are some excerpts I thought were especially interesting:
 
-## The Five Stages of Enterprise Journey with AI
+## The Six Stages of Enterprise Journey with AI
 
 HB's Notes: A very succinct and representative story of what Enterprises especially BFSI / Healthcare have seen with AI / Automation.
 
@@ -54,17 +54,17 @@ HB's Notes: You've not sold SaaS to Enterprise if your buyer doesn't have one ad
 
 *Watson didn't work for us, because I realized that natural language processing at that time turned out to be quite primitive, it was clunky. First of all, it couldn't read graphs, it couldn't read pie charts, it couldn't read pictures. But also it was doing sentence parsing.*
 
-### 3. The Verticalized Solution
+### 4. The Verticalized Solution
 (that has trained on your particular domain and actually understands the user journey)
 
 *Fast forward a few years later, I invested in a New York based company called Consisto(??). We actually used it to plug into a call centers to be able to do chat, so wanted people to talk and Consisto would do the response.*
 
-### 4. The High Quality Bar
+### 5. The High Quality Bar
 (replace Consisto with RPA or anything else and the story stays the same)
 
 *Even though it was in the domain, financial services, and we train the train the models like heck, despite that the accuracy rate of being able to answer good conversation was about 85-87%. What that means is that one in every six or seven callers would get completely absurd information that's not good enough to put into the market and one in six, seven times, you're talking nonsense.* 
 
-### 5. The Lobotomy & The Human in the Loop
+### 6. The Lobotomy & The Human in the Loop
 (simplify what you ask of automation and add a Human to deal with edge cases)
 
 ![Don\'t take the bag off]({{ site.baseurl }}/assets/images/2023/dhar3.png)
