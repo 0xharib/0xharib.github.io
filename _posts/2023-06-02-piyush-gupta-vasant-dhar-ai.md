@@ -37,7 +37,7 @@ HB's Notes: A very succinct and representative story of what Enterprises especia
 
 *In 2013, we were one of the first guinea pigs, pilots with IBM for the use of Watson, when they came up with Watson for, you know, natural language, processing and so on. My vision at that time, was that I plug Watson into Bloomberg, Watson would read Bloomberg in real time, and be able to read all the graphs, charts, everything.*
 
-*Therefore, instantly, whenever the chilli(Chilean Peso?) had gone up, or the gold should be down or what happened to the Apple stock.*
+*Therefore, instantly I would know, whenever the chilli(Chilean Peso?) had gone up, or the gold should be down or what happened to the Apple stock.*
 
 *On the other side, they would read the half a million wealth portfolios I have. And we're constantly keep figuring out, hey, you know, versus got too much gold or futures or too little server, then match it and make recommendations every morning, to rebalance your portfolio*
 
