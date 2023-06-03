@@ -93,7 +93,7 @@ HB Notes: Over the past 6 months I've spoken to a lot of business folks about AI
 
 ### Verifying Humanity
 *How do you start making the distinction between a robot & a human?*
-*this has both passed and failed, the Turing test is passed the Turing test, because it's obviously is perfectly you can't make out that it wasn't the human being, is that it's failed the Turing test, because I couldn't have written it that well.* 
+*this has both passed and failed, the Turing test. It has passed the Turing test, because it's obviously so perfect. But you can make out that it wasn't the human being, is that it's failed the Turing test, because I couldn't have written it that well.* 
 
 ### Bias
 
