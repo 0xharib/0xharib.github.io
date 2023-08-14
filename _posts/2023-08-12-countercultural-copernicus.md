@@ -152,11 +152,10 @@ About 10 years ago I sat through an all-hands meeting at the end of a tough quar
 The gentleman addressing us said, and I quote from memory here:
 
 ```
-Let us all remember in the difficult years when our bonus numbers   
-aren't what we want them to be that we're in this for more than just money.  
-Do not forget the **psychic income** you derive from being at an amazing  
-workplace.  
-
+Let us all remember, in years when our bonus numbers aren't what   
+we want them to be, that we're in this for more than just money.  
+Do not forget the **psychic income** you derive from being at an   
+amazing workplace.  
 ```
 Proximally I've found psychic income \(and it's counterpart [psychic cost](https://en.wikipedia.org/wiki/Psychic_cost)\) to be useful terminology to understand not just my own career decisions but in the process of hiring & retention.  
 
@@ -167,13 +166,15 @@ Grokking this gave much deeper meaning to otherwise superficial observations suc
 
 ## Every Problem is a Human Problem
 
+**How do we solve climate change?**
+
+Beyond 
+
 ![]({{ site.baseurl }}/assets/images/2023/reality_greta.webp)
 
 ## Further Reading
 
-|-|-|
 |[![Nudge - Richard Thaler, Cass Sunstein](https://cdn.kobo.com/book-images/9376da0d-068c-4e87-870b-25797512b1a2/353/569/90/False/nudge-18.jpg 'Nudge - Richard Thaler, Cass Sunstein')](https://www.goodreads.com/book/show/3450744)|[![Alchemy - Rory Sutherland](https://images-na.ssl-images-amazon.com/images/I/51TM-jbmLEL.jpg 'Alchemy - Rory Sutherland')](https://www.goodreads.com/book/show/26210508)|
-|-|-|
 
 
 
