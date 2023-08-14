@@ -46,18 +46,21 @@ Growing up this was largely my model of the world:
        
 ## Reality vs Perception
 
-I went about my early 20s armed with this sort of naive scientific idealism. If someone talked about how the world isn't what you think it is, I would interpret that statement in purely scientific terms, i.e things like:    
+I went about my early 20s armed with this sort of naive scientific idealism.   
+If someone said:  
+**the world isn't what you think it is**  
+I would interpret that statement in purely scientific terms, i.e things like:    
 
 1. Colours were not absolute but simply the brain's helpful interpretation of different EM wavelengths.  
 ![Blackhole]({{ site.baseurl }}/assets/images/2023/reality_blackhole.png)  
 
-2. Your brain sees your nose all the time but chooses to ignore it.  
+1. Your brain sees your nose all the time but chooses to ignore it.  
 ![Rhino]({{ site.baseurl }}/assets/images/2023/reality_rhino.png)  
 
-3. Even the passage of time could be an illusion created by your brain in order to facilitate the perception of reality.
+1. Even the passage of time could be an illusion created by your brain in order to facilitate the perception of reality.
 ![Rovelli]({{ site.baseurl }}/assets/images/2023/reality_rovelli.png)  
 
-4. Human beings are inherently rational. All of this can be expressed mathematically using game theory & loss aversion.  
+1. Human beings are inherently rational. All of this can be expressed mathematically using game theory & loss aversion.  
 ![Books]({{ site.baseurl }}/assets/images/2023/reality_books.png)    
       
 ## Truth vs Culture
@@ -66,9 +69,9 @@ The idea that the sun was at the centre of the solar system was not new when Cop
 
 Humanity's belief or disbelief in heliocentrism, however, has no impact on its veracity.  
 
-Another idea that gained prevalence in the 16th century was the codpiece. Sadly, however, this accessory fell out of fashion around the turn of that century.   
+Another idea that gained prevalence in the 16th century was the [codpiece](https://en.wikipedia.org/wiki/Codpiece). Sadly, however, this accessory fell out of fashion around the turn of that century.   
 
-There is no truth to be found in codpieces. Beauty, perhaps, and even that transient. Codpieces are merely a cultural artifact.    
+There is no truth to be found in codpieces. Beauty, perhaps, and even that transient. **Codpieces** are merely a cultural artifact.    
 
 ![codpiece]({{ site.baseurl }}/assets/images/2023/reality_codpiece.png)   
        
