@@ -15,7 +15,7 @@ tags:
 - human condition
 - science
 - copernicus
-permalink: "/Counter-cultural Copernicus/"
+permalink: "/Countercultural-Copernicus/"
 excerpt: We need to think like Copernicus, but about culture & not science
 ---
 
