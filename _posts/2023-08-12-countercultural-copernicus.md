@@ -71,21 +71,19 @@ Humanity's belief or disbelief in heliocentrism, however, has no impact on its v
 
 Another idea that gained prevalence in the 16th century was the [codpiece](https://en.wikipedia.org/wiki/Codpiece). Sadly, however, this accessory fell out of fashion around the turn of that century.   
 
-There is no truth to be found in codpieces. Beauty, perhaps, and even that transient. **Codpieces** are merely a cultural artifact.    
-
 ![codpiece]({{ site.baseurl }}/assets/images/2023/reality_codpiece.png)   
+
+**So why has heliocentricity lasted the test of time while codpieces did not?**    
+20 year old me:   
+Because one is fact and the other is an opinion.    
+40 year old me:   
+I think there might be a bit more to it actually.    
        
 ## God vs Morality
 
-As a child I was taught to be religious & "god-fearing".   
+In my early 20s I was exposed to [Dawkins](https://www.goodreads.com/book/show/14743), [Hitchens](https://www.goodreads.com/en/book/show/43369) & [Shermer](https://www.goodreads.com/book/show/83578) who convinced me to reconsider my stance on God.   
 
-In my early 20s I was exposed to [Dawkins](https://www.goodreads.com/book/show/14743), [Hitchens](https://www.goodreads.com/en/book/show/43369) & [Shermer](https://www.goodreads.com/book/show/83578) who convinced me to reconsider.   
-
-As I embraced atheism, it led me to a severe crisis of morality.      
-
-I understood the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule#:~:text=The%20Golden%20Rule%20is%20the,different%20religions%20treat%20it%20differently.), but how was I to behave in situations that lacked a clear victim and had no observer?   
-
-If there was no God watching or judging could I "sin"?   
+As I embraced atheism, I found myself in a confused state of mind with regards to morality.         
 
 One of the things that helped me through this phase was [Hans Vaihinger's The Philosophy of As If](https://www.goodreads.com/en/book/show/7740454).
 
