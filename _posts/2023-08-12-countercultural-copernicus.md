@@ -164,19 +164,41 @@ Grokking this gave much deeper meaning to otherwise superficial observations suc
 - Goodwill is an asset (not just a balancing item)
 - Culture eats strategy for breakfast (falsely attributed to Peter Drucker)
 
-## Every Problem is a Human Problem
+## Thinking Beyond Ability
 
-At its core if something needs to be achieved there are only 2 constraining factors:
-- Technological - does a solution exist within the realms of known science/technology/engineering
-- Economic - is the solution affordable i.e can one afford the human capital / raw materials other resources to execute?   
+At its core if something needs to be achieved there are only 2 limiting factors:
+- Technological - does a solution exist within the realms of known science/technology/engineering?
+- Economic - is the solution affordable i.e can one afford the human capital / raw materials other resources to execute?
 
-Practically however one is subject to internal and external constraints.   
+I bucket these 2 limiting factors into **Ability**.
+
+Practically however, beyong **ability** one is subject to internal and external constraints.   
 I define **internal** constraints as those arising from belief systems and **external** constraints as impositions from nation states or their equivalents.   
 
 ![]({{ site.baseurl }}/assets/images/2023/reality_venn.png)
+## Where is my flying car?
+
+In his wonderful book [Where is my flying car?](https://press.stripe.com/where-is-my-flying-car), J. Storrs Hall sets out to understand why we haven't seen flying cars. One of the critical factors he examines is a section of the voting populations hostility towards technological progress.
+
+Most notably, we see this pattern when reviewing the United States' history of lunar exploration.  
+
+![]({{ site.baseurl }}/assets/images/2023/reality_moon.png)
+
+Putting humans on the moon did not make economic sense at any point in time. However, political & cultural constraints forced both cold war participants on both sides to engage in an expensive "space race" which fortunately brought along with it both this greatest of human achievements and a massive build up of nuclear arsenal around the world.   
+
+## Solving Global Warming
+
+We should all care deeply about climate change.   
+
+It is everywhere and right in our faces. From [wildfires the world over](https://www.forbes.com/sites/darreonnadavis/2023/08/17/wildfires-could-damage-11-billion-worth-of-properties-in-coming-decades-study-finds/), to [flash floods & droughts](https://www.pbs.org/newshour/science/scientists-confirm-global-floods-and-droughts-worsened-by-climate-change) 
+
+So why then is this young lady so unpopular for calling out what is an obvious truth?
 
 ![]({{ site.baseurl }}/assets/images/2023/reality_greta.webp)
 
+Because this is who we're used to telling us about climate change.
+
+![]({{ site.baseurl }}/assets/images/2023/reality_climatescientist.png)
 ## Further Reading
 
 |[![Nudge - Richard Thaler, Cass Sunstein](https://cdn.kobo.com/book-images/9376da0d-068c-4e87-870b-25797512b1a2/353/569/90/False/nudge-18.jpg 'Nudge - Richard Thaler, Cass Sunstein')](https://www.goodreads.com/book/show/3450744)|[![Alchemy - Rory Sutherland](https://images-na.ssl-images-amazon.com/images/I/51TM-jbmLEL.jpg 'Alchemy - Rory Sutherland')](https://www.goodreads.com/book/show/26210508)|
