@@ -166,9 +166,14 @@ Grokking this gave much deeper meaning to otherwise superficial observations suc
 
 ## Every Problem is a Human Problem
 
-**How do we solve climate change?**
+At its core if something needs to be achieved there are only 2 constraining factors:
+- Technological - does a solution exist within the realms of known science/technology/engineering
+- Economic - is the solution affordable i.e can one afford the human capital / raw materials other resources to execute?   
 
-Beyond 
+Practically however one is subject to internal and external constraints.   
+I define **internal** constraints as those arising from belief systems and **external** constraints as impositions from nation states or their equivalents.   
+
+![]({{ site.baseurl }}/assets/images/2023/reality_venn.png)
 
 ![]({{ site.baseurl }}/assets/images/2023/reality_greta.webp)
 
