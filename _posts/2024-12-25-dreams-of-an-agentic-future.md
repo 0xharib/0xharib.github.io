@@ -144,7 +144,7 @@ Charlie consulted the **Venue, Design & Décor Agent**, which returned five appe
 
 Charlie then pinged **VR-Inspector** at a cost of 0.5 tokens per tour. Bob approved, and the 3D previews confirmed that **Rosewood Garden Estates** best suited Alice’s style. Bob approved the booking.
 
-![Bob picks a venue]({{ site.baseurl }}/assets/images/2024/agent3.webp)
+![Bob picks a venue]({{ site.baseurl }}/assets/images/agent3.png)
 
 ---
 
