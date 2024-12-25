@@ -17,8 +17,6 @@ tags:
 permalink: "/Agentic-Future/"
 excerpt: Imagining what the world will look like in 2026
 ---
-# **Dreams of an Agentic Future**
-
 ## **Prologue**
 
 Bob gently closed the door to his home office and settled into his favorite chair. It was a warm, sunny day in the year **2026**, and a glowing orb on his sleek glass desk flickered to life. Bob’s heart thumped with anticipation—he had a thrilling mission for his personal AI assistant: to plan a dazzling surprise party for his wife Alice’s 40th birthday.
@@ -49,12 +47,11 @@ Inside Charlie’s digital core, a grand dance of computations commenced. Charli
 6. **Surprise Factor & Security Agent** – Focused on secrecy and handling any unexpected issues.
 
 ![Agentic Infra]({{ site.baseurl }}/assets/images/agentic_infra.png)
-Charlie is supported by private agents who have access to Alice & Bob's sensitive data.    
-Charlie can also access the Internet for additional information & to coordinate with other humans and agents    
+Charlie was supported by private agents who have access to Alice & Bob's sensitive data.    
+Charlie could also access the Internet for additional information & to coordinate with other humans and agents    
+Charlie functioned like a conductor, directing each agent as needed.
 
-
-
-Charlie functioned like a conductor, directing each agent as needed. A glimpse of his internal thought process:    
+Here is what went through his head:   
 
 ![Charlie plans]({{ site.baseurl }}/assets/images/agent2.png)
 
