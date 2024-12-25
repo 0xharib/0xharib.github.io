@@ -23,6 +23,8 @@ excerpt: Imagining what the world will look like in 2026
 
 Bob gently closed the door to his home office and settled into his favorite chair. It was a warm, sunny day in the year **2026**, and a glowing orb on his sleek glass desk flickered to life. Bob’s heart thumped with anticipation—he had a thrilling mission for his personal AI assistant: to plan a dazzling surprise party for his wife Alice’s 40th birthday.
 
+![Bob thinks about a plan]({{ site.baseurl }}/assets/images/2024/agent1.webp)
+
 He leaned forward and addressed the softly illuminated orb.
 
 > **Bob**:  
@@ -47,6 +49,8 @@ Inside Charlie’s digital core, a grand dance of computations commenced. Charli
 6. **Surprise Factor & Security Agent** – Focused on secrecy and handling any unexpected issues.
 
 Charlie functioned like a conductor, directing each agent as needed. A glimpse of his internal thought process:
+
+![Charlie plans]({{ site.baseurl }}/assets/images/2024/agent2.webp)
 
 > **Charlie’s Thought Process**  
 > “Bob wants a surprise party.  
@@ -138,7 +142,9 @@ Charlie consulted the **Venue, Design & Décor Agent**, which returned five appe
 > **Charlie’s Internal Thought**  
 > “Alice loves gardens, but Skyline Terrace could offer a spectacular sunset. I’ll VR-preview both.”
 
-Charlie then pinged **VR-Inspector** at a cost of 0.5 tokens per tour. Bob approved, and the 3D previews confirmed that **Rosewood Garden Estates** best suited Alice’s style. Bob booked it.
+Charlie then pinged **VR-Inspector** at a cost of 0.5 tokens per tour. Bob approved, and the 3D previews confirmed that **Rosewood Garden Estates** best suited Alice’s style. Bob approved the booking.
+
+![Bob picks a venue]({{ site.baseurl }}/assets/images/2024/agent3.webp)
 
 ---
 
@@ -255,6 +261,7 @@ Bob was a bit anxious, but Charlie confidently managed all the details.
 
 Bob took Alice for a relaxed afternoon drive and a quick lunch. Any device notifications that might spoil the surprise were blocked by Charlie’s sub-agents.
 
+![Guests wait]({{ site.baseurl }}/assets/images/2024/agent4.webp)
 ---
 
 ## **Chapter 11: The Surprise and Celebration**
@@ -267,6 +274,8 @@ By 6:10 PM, guests quietly assembled, sipping refreshments under the twinkling l
 > “Surprise! Happy 40th Birthday, Alice!”
 
 She stood momentarily stunned, tears of joy welling in her eyes. The Moonlight Stompers launched into a joyous swing melody as Alice and Bob stepped into a night of laughter, fine dining, and heartfelt celebration.
+
+![Guests wait]({{ site.baseurl }}/assets/images/2024/agent5.webp)
 
 ---
 
