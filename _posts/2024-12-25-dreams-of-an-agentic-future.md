@@ -48,6 +48,12 @@ Inside Charlie’s digital core, a grand dance of computations commenced. Charli
 5. **Invitation & Guest Management Agent** – For sending personalized invitations and managing RSVPs, using Alice & Bob’s contact list.  
 6. **Surprise Factor & Security Agent** – Focused on secrecy and handling any unexpected issues.
 
+![Agentic Infra]({{ site.baseurl }}/assets/images/agentic_infra.png)
+Charlie is supported by private agents who have access to Alice & Bob's sensitive data.
+Charlie can also access the Internet for additional information & to coordinate with other humans and agents
+
+
+
 Charlie functioned like a conductor, directing each agent as needed. A glimpse of his internal thought process:
 
 ![Charlie plans]({{ site.baseurl }}/assets/images/agent2.png)
