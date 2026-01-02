@@ -16,6 +16,7 @@ excerpt: In Which Pooh Tries to Save the Afternoon
 
 # IN WHICH POOH TRIES TO SAVE AN AFTERNOON IN A JAR, AND CHRISTOPHER ROBIN MAKES AN AFTERNOON PLACE
 
+![0]({{ site.baseurl }}/assets/images/2026/pooh/cover.jpg)
 
 Christopher Robin was lying on the rug one afternoon, being so still that it looked as if he were practising being an Afternoon Place all by himself.  
 
@@ -32,6 +33,11 @@ Pooh, who was sitting nearby in the thoughtful way he has (which is to say he wa
 Christopher Robin looked at me.  
 
 “Pooh once tried,” I said. “And it was on a gold-coloured afternoon by the stream.”  
+
+
+## Part 2
+
+![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/1.png)
 
 It was a sleepy, gold-coloured afternoon in the Hundred Acre Wood, the sort which makes you talk in quieter voices so as not to wake it. The sunshine lay in patches, and the shadows lay in patches, and down by the stream the water went on doing nothing in particular, and doing it beautifully.  
 
@@ -77,6 +83,8 @@ Back by the stream, Pooh took off the lid and looked into the jar as if he expec
  
 “No,” said Pooh. “We have to put it in. With the sunniest-looking things.”  
 
+![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/2.png)
+
 Then Pooh said, “Saving works better if you have Rules,” because Pooh has always noticed that honey lasts longer if you decide it is not for eating all at once.  
 
 So Pooh made up some Rules, and because Piglet likes to know what is going to happen, he listened very carefully.  
@@ -96,12 +104,14 @@ Buttercups and dandelions were everywhere, looking as if they had been practisin
 When the jar was half-full of yellow, Pooh stopped to hum, because yellow things always make Pooh remember how songs go.  
 
 
-> Afternoon, Afternoon, golden and slow,
-> I should like to keep you, in case you should go.
-> Buttercups and dandelions, yellow as can be,
-> Leaf that says “Cheer up!”—come and sit with me.
-> If you won’t stay in a jar, then perhaps you’ll agree
-> To stay on the grass, and be an Afternoon for three.
+> Afternoon, Afternoon, golden and slow,   
+> I should like to keep you, in case you should go.   
+> Buttercups and dandelions, yellow as can be,    
+> Leaf that says “Cheer up!”—come and sit with me.    
+> If you won’t stay in a jar, then perhaps you’ll agree.   
+> To stay on the grass, and be an Afternoon for three.    
+
+   
 
 “That is a very good hum,” said Piglet.  
 
@@ -132,6 +142,8 @@ He put in more buttercups. Then more dandelions. Then a few more, because the ja
 He pressed the lid down with both paws.  
 
 This time the lid almost caught, and the jar made a small squeak, and then—because dandelions are not the sort of thing to be shut up without making remarks — there was a sudden puff of white fluff.  
+
+![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/3.png)
 
 The dandelion seeds flew out and floated away on the air in a hundred tiny parachutes, drifting over the stream as if the afternoon itself had decided to leave in little pieces.  
 
@@ -200,6 +212,8 @@ Christopher Robin laid the yellow things on the grass in a small bright patch, a
 Piglet sat down at once, because “nothing in particular” sounded safe when Christopher Robin said it.  
 
 Pooh sat down too, very solemnly, because he did not want to waste any more afternoon by moving about.  
+
+![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/4.png)
 
 For a little while none of them spoke. The stream went on being a stream. The dandelion seeds went on floating until they found places to land. The sunshine went on lying in gold patches, and the shadows went on lying in shadow patches. And in the middle of it all, three friends sat in an Afternoon Place and had the afternoon without trying to keep it anywhere else.  
 

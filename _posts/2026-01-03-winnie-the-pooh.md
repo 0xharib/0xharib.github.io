@@ -61,7 +61,7 @@ Now we can generate new stories on the fly, and they stay surprisingly faithful 
 
 ## Turning it into an audiobook
 
-[ElevenLabs](https://elevenlabs.io/) made the audio pipeline feasible.  
+While [ElevenLabs](https://elevenlabs.io/) made the audio pipeline feasible, the hardest problem statement ended up being **converting story to screenplay** that could be parsed by ElevenLabs API.
 We were careful to be inspired by, but not use verbatim, Peter Dennis's voice or any of the other character voices.  
 Getting this right was ridiculously tricky, but Codex helped us iterate fast.  
 All voices had to pass muster with kiddo.  
@@ -69,6 +69,6 @@ The only quirky thing we did was to make Kanga an Australian woman's voice.
 
 ## The first story
 
-The first story is [here]() for you to read and [here](https://youtu.be/fDx-VPugJOA) for you to listen.  
+The first story is [here](https://haribalaji.net/IW-Pooh-Tries-To-Save-An-Afternoon/) for you to read and [here](https://youtu.be/fDx-VPugJOA) for you to listen.  
 
-More to come, if time lets me build.  
+More to come, if time permits.  
