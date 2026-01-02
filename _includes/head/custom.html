@@ -1,3 +1,44 @@
 <!-- start custom head snippets -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
 
+<meta name="theme-color" content="#f7f3ee">
+<meta name="color-scheme" content="light">
+{%- if site.author.name -%}
+<meta name="author" content="{{ site.author.name }}">
+{%- endif -%}
+
+{%- include snippets/get-article-title.html article=page -%}
+{%- assign _page_title = __return | default: site.title -%}
+{%- if page.excerpt -%}
+  {%- assign _page_desc = page.excerpt | strip_html | strip_newlines | strip | truncate: 160 -%}
+{%- else -%}
+  {%- assign _page_desc = site.description -%}
+{%- endif -%}
+{%- assign _og_type = 'website' -%}
+{%- if page.layout == 'article' or page.type == 'post' -%}
+  {%- assign _og_type = 'article' -%}
+{%- endif -%}
+{%- assign _share_image = '/assets/images/img_5161.png' -%}
+{%- include snippets/get-nav-url.html path=_share_image -%}
+{%- assign _share_image = __return | prepend: site.url -%}
+{%- capture _page_url -%}{%- include snippets/page-url.html -%}{%- endcapture -%}
+
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ _page_title | strip_html | strip | escape }}">
+<meta property="og:description" content="{{ _page_desc | strip_html | strip | escape }}">
+<meta property="og:type" content="{{ _og_type }}">
+<meta property="og:url" content="{{ _page_url | strip }}">
+<meta property="og:image" content="{{ _share_image }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ _page_title | strip_html | strip | escape }}">
+<meta name="twitter:description" content="{{ _page_desc | strip_html | strip | escape }}">
+<meta name="twitter:image" content="{{ _share_image }}">
+
+{%- include snippets/prepend-baseurl.html path='/assets/js/site.js' -%}
+{%- assign _site_js = __return -%}
+<link rel="preload" href="{{ _site_js }}" as="script">
+<script defer src="{{ _site_js }}"></script>
 <!-- end custom head snippets -->
