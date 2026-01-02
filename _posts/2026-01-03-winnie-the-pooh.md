@@ -17,10 +17,10 @@ permalink: "/pooh/"
 excerpt: Using AI to continue the legacy of A A Milne and Peter Dennis
 ---
 
-![Winnie the Pooh toy set at the Museum of Brands London]({{ site.baseurl }}/assets/images/2026/pooh0.png)
+![Winnie the Pooh toy set at the Museum of Brands London]({{ site.baseurl }}/assets/images/2026/pooh0.jpg)
 
 
-![Winnie the Pooh toy set at the Museum of Brands London]({{ site.baseurl }}/assets/images/2026/pooh1.png)
+![Winnie the Pooh toy set at the Museum of Brands London]({{ site.baseurl }}/assets/images/2026/pooh1.jpg)
 
 
 # Winnie the Pooh
