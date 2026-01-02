@@ -10,7 +10,7 @@ status: publish
 categories: ['pooh']
 tags:
 - pooh
-permalink: "/IW-Pooh-Tries-To-Save-An-Afternoon/
+permalink: "/IW-Pooh-Tries-To-Save-An-Afternoon/"
 excerpt: In Which Pooh Tries to Save the Afternoon
 ---
 
