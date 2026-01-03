@@ -32,10 +32,9 @@ We both love Peter Dennis's rendition of [**Winnie the Pooh**](https://www.downp
 
 Alas there are only two books and about twenty stories.
 
-Kiddo asked AI could help write more. Pooh is out of copyright, so it felt fair to try.  
+Kiddo asked if AI could help write more. Pooh is out of copyright, so it felt fair to try.  
 
-We now have about 20 new stories. It took many iterations to get the pipeline right.  
-Codex was absolutely up to the task.  
+We now have about 20 new stories. It took many iterations to get the pipeline right, but Codex was absolutely up to the task.  
 
 ## The rules we set
 
