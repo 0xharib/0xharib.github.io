@@ -34,8 +34,7 @@ Christopher Robin looked at me.
 
 “Pooh once tried,” I said. “And it was on a gold-coloured afternoon by the stream.”  
 
-
-## Part 2
+---
 
 ![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/1.png)
 
@@ -83,6 +82,8 @@ Back by the stream, Pooh took off the lid and looked into the jar as if he expec
  
 “No,” said Pooh. “We have to put it in. With the sunniest-looking things.”  
 
+---
+
 ![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/2.png)
 
 Then Pooh said, “Saving works better if you have Rules,” because Pooh has always noticed that honey lasts longer if you decide it is not for eating all at once.  
@@ -112,7 +113,6 @@ When the jar was half-full of yellow, Pooh stopped to hum, because yellow things
 > To stay on the grass, and be an Afternoon for three.    
 
    
-
 “That is a very good hum,” said Piglet.  
 
 “Yes,” said Pooh modestly. “It came from the yellow.”  
@@ -142,6 +142,8 @@ He put in more buttercups. Then more dandelions. Then a few more, because the ja
 He pressed the lid down with both paws.  
 
 This time the lid almost caught, and the jar made a small squeak, and then—because dandelions are not the sort of thing to be shut up without making remarks — there was a sudden puff of white fluff.  
+
+---
 
 ![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/3.png)
 
@@ -215,6 +217,8 @@ Pooh sat down too, very solemnly, because he did not want to waste any more afte
 
 ![1]({{ site.baseurl }}/assets/images/2026/pooh/IW POOH TRIES TO SAVE AN AFTERNOON/4.png)
 
+---
+
 For a little while none of them spoke. The stream went on being a stream. The dandelion seeds went on floating until they found places to land. The sunshine went on lying in gold patches, and the shadows went on lying in shadow patches. And in the middle of it all, three friends sat in an Afternoon Place and had the afternoon without trying to keep it anywhere else.  
 
 After a bit Pooh gave a long satisfied sigh.  
@@ -247,6 +251,8 @@ Pooh stood up at once.
 
 They walked home together, and behind them the stream went on doing nothing in particular, and the gold-coloured afternoon went on being gold-coloured until it became a different colour, which is what afternoons do.  
 
+---
+
 “And that was how Pooh saved it,” I said.  
 
 Christopher Robin leaned back against me and nodded.  
@@ -254,3 +260,5 @@ Christopher Robin leaned back against me and nodded.
 “Let’s make an Afternoon Place tomorrow,” he said.  
 
 “We can,” I said. “And the day after, if the afternoon is willing.”  
+
+---
