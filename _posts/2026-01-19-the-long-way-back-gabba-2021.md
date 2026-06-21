@@ -1,7 +1,7 @@
 ---
 layout: article
 title: The Long Way Back
-date: 2026-01-17 00:00:00
+date: 2026-01-19 00:00:00
 type: post
 parent_id: '0'
 published: true
@@ -30,6 +30,8 @@ excerpt: How a team bowled out for 36 crossed four Tests and a continent to brea
   <img src="{{ site.baseurl }}/assets/images/2026/gabba-2021/kohli-adelaide-collapse.jpg" alt="Virat Kohli walks off after India's collapse in Adelaide" />
   <figcaption>Virat Kohli was out for four as India subsided to 36 all out on the third morning in Adelaide. <em>Photo: Sky Sports / Getty Images</em></figcaption>
 </figure>
+
+Today marks five years since the miracle at Brisbane. On 19 January 2021, an Indian side stripped down to net bowlers and debutants beat Australia at the one ground that had not lost a Test since 1988. Five years on, it is still the best place to start an explanation of what this team is capable of, and it starts not at the Gabba but seven hundred miles south, in Adelaide, with a number that should have ended the series before it began.
 
 There is a number in Indian cricket that does not need a sentence built around it. Say it to a certain kind of grown man and watch him look at his shoes.
 
