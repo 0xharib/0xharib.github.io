@@ -53,7 +53,8 @@ None of them could have known it that night. What they were saying would have so
 
 ## Chapter 1: Adelaide
 
-<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.5rem;">Adelaide Oval, 17&ndash;19 December 2020</p>
+<p style="font-size: .8rem; margin: .25rem 0 0;">By Hari Balaji</p>
+<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.4rem;">Adelaide Oval, 17&ndash;19 December 2020</p>
 
 India had landed in Australia as one of the best teams alive. They were deep in fast bowling for the first time in their history, and they were led by Virat Kohli, a man who batted as though the opposition's very presence were a personal affront, and who had spent a decade teaching Indian cricketers a thing their fathers had never quite believed: that they were allowed to be the aggressor in someone else's country. They had won here two years before, the first Indian side ever to take a series on Australian soil. They had come back to do it again, and for two and a half days nothing argued otherwise.
 
@@ -71,11 +72,19 @@ In a dressing room gone the particular quiet of men with no language for what ha
 
 No oratory, no promise of glory. Just a flat refusal to accept the verdict the scoreboard was trying to hand him.
 
+<div style="border: 1px solid rgba(0,0,0,.15); border-radius: 4px; padding: .85rem 1.1rem; margin: 1.75rem 0; font-size: .85rem; background: rgba(0,0,0,.025);">
+  <p style="margin: 0 0 .4rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; font-size: .72rem; opacity: .65;">1st Test &middot; Adelaide Oval</p>
+  <p style="margin: .15rem 0;">Australia 191 &amp; 93/2</p>
+  <p style="margin: .15rem 0;">India 244 &amp; 36</p>
+  <p style="margin: .5rem 0 0; font-style: italic;">Australia won by 8 wickets</p>
+</div>
+
 ---
 
 ## Chapter 2: Melbourne
 
-<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.5rem;">Melbourne Cricket Ground, 26&ndash;30 December 2020</p>
+<p style="font-size: .8rem; margin: .25rem 0 0;">By Hari Balaji</p>
+<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.4rem;">Melbourne Cricket Ground, 26&ndash;30 December 2020</p>
 
 The Melbourne Cricket Ground is a hundred thousand seats of concrete that can make a crowd's disapproval feel like weather. Walking into it on Boxing Day, eight days after thirty-six and without your captain or your strike bowler, was to present yourself for a second execution before the largest audience the game can gather. Every law of gravity in cricket said India would lose this match and the series behind it. Vaughan had already done the maths for them.
 
@@ -92,11 +101,19 @@ He batted for hours and never once resembled a man chasing history. He resembled
 
 India won by eight wickets. The series was level. The thirty-six was still there in the record book, and always would be, but it had been answered.
 
+<div style="border: 1px solid rgba(0,0,0,.15); border-radius: 4px; padding: .85rem 1.1rem; margin: 1.75rem 0; font-size: .85rem; background: rgba(0,0,0,.025);">
+  <p style="margin: 0 0 .4rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; font-size: .72rem; opacity: .65;">2nd Test &middot; Melbourne Cricket Ground</p>
+  <p style="margin: .15rem 0;">Australia 195 &amp; 200</p>
+  <p style="margin: .15rem 0;">India 326 &amp; 70/2</p>
+  <p style="margin: .5rem 0 0; font-style: italic;">India won by 8 wickets</p>
+</div>
+
 ---
 
 ## Chapter 3: Sydney
 
-<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.5rem;">Sydney Cricket Ground, 7&ndash;11 January 2021</p>
+<p style="font-size: .8rem; margin: .25rem 0 0;">By Hari Balaji</p>
+<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.4rem;">Sydney Cricket Ground, 7&ndash;11 January 2021</p>
 
 Melbourne had tested India's nerve. Sydney went looking for something deeper, and harder to give: their appetite for pain.
 
@@ -122,11 +139,19 @@ What followed has gone into the game's scripture. Hanuma Vihari tore a hamstring
 
 Sydney carried a shadow no honest account should wash away. From one corner of the crowd came racist abuse, aimed at Siraj and Bumrah, serious enough that Siraj reported it to the umpires and the offending spectators were marched out of the ground. That a young man already carrying his father's death had to stand at the fence and take that, then turn and run in again, says more about the spine of this side than any scorecard. India had been injured, abused, provoked, and outnumbered in fit bodies. They were still level. And Paine, it turned out, would get his wish. They would all see him at the Gabba.
 
+<div style="border: 1px solid rgba(0,0,0,.15); border-radius: 4px; padding: .85rem 1.1rem; margin: 1.75rem 0; font-size: .85rem; background: rgba(0,0,0,.025);">
+  <p style="margin: 0 0 .4rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; font-size: .72rem; opacity: .65;">3rd Test &middot; Sydney Cricket Ground</p>
+  <p style="margin: .15rem 0;">Australia 338 &amp; 312/6 dec</p>
+  <p style="margin: .15rem 0;">India 244 &amp; 334/5</p>
+  <p style="margin: .5rem 0 0; font-style: italic;">Match drawn</p>
+</div>
+
 ---
 
 ## Chapter 4: Brisbane
 
-<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.5rem;">The Gabba, 15&ndash;19 January 2021</p>
+<p style="font-size: .8rem; margin: .25rem 0 0;">By Hari Balaji</p>
+<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.4rem;">The Gabba, 15&ndash;19 January 2021</p>
 
 By the eve of the fourth Test the team-sheet had stopped reading like a line-up and started reading like a ward round. Kohli was at home with his newborn. Shami's arm had broken at Adelaide. Umesh Yadav had broken down at Melbourne. Jadeja had fractured his thumb at Sydney. Vihari's hamstring was gone. Ashwin's back had locked solid. On the very morning of the match the last two columns of the temple came down: Jasprit Bumrah, the best fast bowler in the world, was ruled out with an abdominal strain, and Ashwin, the man Paine could not wait to see at the Gabba, was declared unfit to play the very Test the taunt had named. In thirty-one days India had been relieved, limb by limb, of very nearly an entire first-choice eleven.
 
@@ -185,11 +210,19 @@ In the riot of the dressing room, Rohit Sharma found Pant first.
 
 Pant kept a souvenir. "I plucked a stump," he said later. "That, and a picture of us doing the victory lap with me carrying the flag. It was the icing on the cake for me."
 
+<div style="border: 1px solid rgba(0,0,0,.15); border-radius: 4px; padding: .85rem 1.1rem; margin: 1.75rem 0; font-size: .85rem; background: rgba(0,0,0,.025);">
+  <p style="margin: 0 0 .4rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; font-size: .72rem; opacity: .65;">4th Test &middot; The Gabba</p>
+  <p style="margin: .15rem 0;">Australia 369 &amp; 294</p>
+  <p style="margin: .15rem 0;">India 336 &amp; 329/7</p>
+  <p style="margin: .5rem 0 0; font-style: italic;">India won by 3 wickets &middot; series won 2&ndash;1</p>
+</div>
+
 ---
 
 ## Epilogue: The way back
 
-<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.5rem;">Brisbane, 19 January 2021, and the weeks after</p>
+<p style="font-size: .8rem; margin: .25rem 0 0;">By Hari Balaji</p>
+<p style="font-style: italic; opacity: .7; font-size: .85rem; margin-top: -.4rem;">Brisbane, 19 January 2021, and the weeks after</p>
 
 Set the records down first, because the records are part of the meaning. India became the first side in thirty-two years to win a Test at the Gabba, and they did it by completing the highest successful run chase the ground had ever seen. They won a series in Australia for only the second time in their history, the first by a team taken to pieces by injury: without Kohli for three Tests, without Shami, Bumrah, Ashwin, Jadeja, Umesh and Vihari at one point or another, fielding debutants who had been flown out to bowl in the nets and a pace attack with barely a Test between them. They did it after being bowled out for thirty-six.
 
