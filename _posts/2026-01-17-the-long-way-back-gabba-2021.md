@@ -47,6 +47,8 @@ He was not a lone voice. He was the loud one in a very large choir.
 
 None of them could have known it that night. What they were saying would have sounded, a month later, like the raving of a fool. The number 36 was not the end of anything. It was the first line.
 
+<p style="font-size: 1.3rem; font-style: italic; text-align: center; line-height: 1.5; max-width: 30rem; margin: 2rem auto; padding: 1.25rem 0; border-top: 1px solid rgba(0,0,0,.15); border-bottom: 1px solid rgba(0,0,0,.15);">The number 36 was not the end of anything.<br>It was the first line.</p>
+
 ---
 
 ## Chapter 1: Adelaide
@@ -172,6 +174,8 @@ The ending belonged to Pant. The same Pant who had counter-attacked at Sydney, w
 He finished 89 not out. India had made 329 for seven, chased down 328, won by three wickets, and taken the series two to one.
 
 The Gabbatoir had fallen. Thirty-two years undone in an afternoon, by a team that on paper did not exist. They had seen Paine at the Gabba, exactly as promised. It was only the result that had been entered wrongly. Ashwin, the man the taunt had named, watched it from the dressing room because his body had finally quit.
+
+<p style="font-size: 1.3rem; font-style: italic; text-align: center; line-height: 1.5; max-width: 30rem; margin: 2rem auto; padding: 1.25rem 0; border-top: 1px solid rgba(0,0,0,.15); border-bottom: 1px solid rgba(0,0,0,.15);">Thirty-two years undone in an afternoon,<br>by a team that on paper did not exist.</p>
 
 In the riot of the dressing room, Rohit Sharma found Pant first.
 
