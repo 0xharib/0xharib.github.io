@@ -9,7 +9,6 @@ password: ''
 status: publish
 categories:
 - books
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -19,6 +18,7 @@ meta:
   geo_public: '0'
 
 permalink: "/2012/01/22/a-viable-alternative-to-hope-for-the-flowers/"
+tags: [books, life]
 ---
 From [Orbiting the Giant Hairball : A Corporate Fool's Guide to Surviving with Grace](http://www.amazon.com/Orbiting-Giant-Hairball-Corporate-Surviving/dp/0670879835)
 

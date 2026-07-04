@@ -8,9 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags:
-- books
-- geekery
 meta:
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:13846646;s:38:"https://facebook.com/10156581128200184";}}
   _rest_api_published: '1'
@@ -20,6 +17,7 @@ meta:
   _wpas_done_13846646: '1'
 
 permalink: "/2016/03/14/why-you-should-read-john-brunner-if-you-care-about-the-future/"
+tags: [books, sci-fi]
 ---
 I came across **[John Brunner](https://www.goodreads.com/author/show/23113.John_Brunner)** a few years ago when I read **[Stand on Zanzibar](https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar)&nbsp;**.&nbsp;I love Brunner because his writing style adheres to some of my core beliefs of what sci-fi writing should be about.&nbsp;Here are&nbsp;three excerpts from&nbsp;**[The Shockwave Rider](https://www.goodreads.com/book/show/41070.The_Shockwave_Rider)**&nbsp;(1975) which is based in the early 21st century that illustrate why you should be reading his works.
 

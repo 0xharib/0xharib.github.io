@@ -10,7 +10,6 @@ status: publish
 categories:
 - books
 - geekery
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -19,6 +18,7 @@ meta:
   geo_public: '0'
 
 permalink: "/2016/01/08/the-anti-recommendation-engine/"
+tags: [books, geekery]
 ---
 This post originally appeared on Facebook
 

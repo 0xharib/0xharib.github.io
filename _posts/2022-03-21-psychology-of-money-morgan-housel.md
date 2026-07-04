@@ -12,8 +12,8 @@ categories:
 - investing
 - money
 - life
-tags: []
 excerpt: Key takeaways from Psychology of Money
+tags: [books, fintech]
 ---
 ### Wisdom
 

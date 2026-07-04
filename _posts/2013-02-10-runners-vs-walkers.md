@@ -8,9 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags:
-- geekery
-- sport
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -19,6 +16,7 @@ meta:
   geo_public: '0'
 
 permalink: "/2013/02/10/runners-vs-walkers/"
+tags: [life]
 ---
 This was originally posted on Facebook on 10th February 2013
 

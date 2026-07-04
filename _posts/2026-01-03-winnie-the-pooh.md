@@ -8,13 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['geekery','genai', 'agents','books']
-tags:
-- books
-- geekery
-- genai
-- agents
 permalink: "/pooh/"
 excerpt: Using AI to continue the legacy of A A Milne and Peter Dennis
+tags: [ai, agents, books]
 ---
 
 ![Winnie the Pooh toy set at the Museum of Brands London]({{ site.baseurl }}/assets/images/2026/pooh0.jpg)

@@ -10,7 +10,6 @@ status: publish
 categories:
 - books
 - life
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -20,6 +19,7 @@ meta:
   _wpas_done_13846646: '1'
 
 permalink: "/2016/03/18/addressing-existential-angst-this-is-water/"
+tags: [books, life]
 ---
 ![di4oodxbt]({{ site.baseurl }}/assets/images/2016/03/di4oodxbt.png?w=300)
 

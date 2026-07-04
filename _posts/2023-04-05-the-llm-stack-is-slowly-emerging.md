@@ -26,8 +26,8 @@ categories:
 - chromadb
 - langchain
 - llamaindex
-tags: ['software', 'ai', 'chatgpt','generativeai','nlu','gpt3','gpt4','gpt','llm','chatgpt','promptengineering','finetuning','pinecone','chromadb','llama','anthropic','cohere','langchain','llamaindex']
 excerpt: 
+tags: [ai, llm]
 ---
 
 ![LLM Stack]({{ site.baseurl }}/assets/images/2023/llmstack.jpeg)   

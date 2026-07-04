@@ -8,15 +8,13 @@ published: true
 password: ''
 status: publish
 categories: []
-tags:
-- books
-- life
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
   _publicize_job_id: '20481268864'
 
 permalink: "/2013/10/01/collapse-jared-diamond/"
+tags: [books]
 ---
 I would rate [Collapse](http://www.amazon.com/Collapse-Societies-Succeed-Revised-Edition/dp/0143117009) over [Germs, Guns and Steel](http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552) - perhaps this is because I am more interested in how functional systems can fail rather than how they came to be functional.
 

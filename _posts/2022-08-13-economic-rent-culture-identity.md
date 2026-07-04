@@ -9,8 +9,8 @@ password: ''
 status: publish
 categories:
 - life
-tags: ['life']
 excerpt: The many means of earning Economic Rent boil down to Culture & Morality
+tags: [life]
 ---
 
 ## Economic Rent

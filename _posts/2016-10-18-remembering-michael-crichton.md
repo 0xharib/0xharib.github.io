@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -19,6 +18,7 @@ meta:
   _wpas_done_13846646: '1'
 
 permalink: "/2016/10/18/remembering-michael-crichton/"
+tags: [books, sci-fi]
 ---
 ![jp]({{ site.baseurl }}/assets/images/2016/10/jp.jpg)
 

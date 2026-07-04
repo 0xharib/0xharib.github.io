@@ -7,6 +7,7 @@ categories:
 - books
 - life
 excerpt: TLDR; Aurora by Kim Stanley Robinson provides valuable perspective on how difficult it is for us to colonize other planets
+tags: [sci-fi, life]
 ---
 _TLDR; [Aurora](https://www.amazon.in/Aurora-42467-Kim-Stanley-Robinson/dp/0356500489) by Kim Stanley Robinson provides valuable perspective on how difficult it is for us to colonize other planets_
 

@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -19,6 +18,7 @@ meta:
   _wpas_done_17882705: '1'
 
 permalink: "/2018/02/02/delhi-schools-1-n/"
+tags: [data, india]
 ---
 It's admission season here in Delhi and kiddo is in the fray. The DOE does a pretty neat job of putting up registered applicants school wise [here](http://www.edudel.nic.in/mis/smc/other/frmChildrenAppliedforAdmissionDistWiseReport1718.aspx)&nbsp;which is great if you're querying by **school** but sucks if you're querying by **student name**. I wrote a little scraper + data reorganizer for my personal use last weekend.
 

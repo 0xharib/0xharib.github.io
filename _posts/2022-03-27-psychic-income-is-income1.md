@@ -9,8 +9,8 @@ password: ''
 status: drafts
 categories:
 - life
-tags: []
 excerpt: Schrödinger's Cryptocurrency
+tags: [life, fintech]
 ---
 
 # Salvation or Snake-Oil?

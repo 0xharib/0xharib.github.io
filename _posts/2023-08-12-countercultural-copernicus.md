@@ -8,15 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['life','reality','geekery','science','copernicus','human condition']
-tags:
-- life
-- reality
-- geekery
-- human condition
-- science
-- copernicus
 permalink: "/Countercultural-Copernicus/"
 excerpt: We need to think like Copernicus, but about culture & not science
+tags: [life, books]
 ---
 
 ## The Scientific Model

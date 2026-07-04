@@ -5,6 +5,7 @@ mathjax: true
 status: publish
 categories:
 excerpt: Going forward this blog will be hosted on github.io
+tags: [life]
 ---
 Going forward this blog will be hosted on github.io
 

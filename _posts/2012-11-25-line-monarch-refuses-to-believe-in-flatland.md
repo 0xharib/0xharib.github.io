@@ -9,7 +9,6 @@ password: ''
 status: publish
 categories:
 - books
-tags: []
 meta:
   _edit_last: '77721598'
   _rest_api_published: '1'
@@ -18,6 +17,7 @@ meta:
   geo_public: '0'
 
 permalink: "/2012/11/25/line-monarch-refuses-to-believe-in-flatland/"
+tags: [books, geekery]
 ---
 [Suhas Mathur](http://suhasmathur.com) introduced me to [Flatland](http://www.geom.uiuc.edu/~banchoff/Flatland/).
 

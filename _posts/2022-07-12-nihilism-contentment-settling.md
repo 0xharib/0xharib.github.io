@@ -9,7 +9,7 @@ password: ''
 status: publish
 categories:
 - life
-tags: ['life']
 excerpt: Are you well adjusted & content or lazy & settling?
+tags: [life]
 ---
 

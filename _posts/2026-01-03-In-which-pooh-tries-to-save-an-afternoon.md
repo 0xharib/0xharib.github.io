@@ -8,10 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['pooh']
-tags:
-- pooh
 permalink: "/IW-Pooh-Tries-To-Save-An-Afternoon/"
 excerpt: In Which Pooh Tries to Save the Afternoon
+tags: [ai, books]
 ---
 
 # IN WHICH POOH TRIES TO SAVE AN AFTERNOON IN A JAR, AND CHRISTOPHER ROBIN MAKES AN AFTERNOON PLACE

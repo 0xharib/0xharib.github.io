@@ -10,8 +10,8 @@ status: publish
 categories:
 - geekery
 - crypto
-tags: ['geekery','crypto']
 excerpt: Using data from Dune to estimate time to TTD
+tags: [crypto, data]
 ---
 
 The ETH merge is expected to take place, [sometime between the 10th and 20th of September](https://www.coindesk.com/tech/2022/08/24/ethereum-merge-has-an-official-kick-off-date/)

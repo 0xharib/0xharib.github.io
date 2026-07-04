@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:17882705;s:38:"https://facebook.com/10158957588680184";}}
   _rest_api_published: '1'
@@ -18,6 +17,7 @@ meta:
   _wpas_done_17882705: '1'
 
 permalink: "/2017/07/27/using-chinese-remainder-theorem-irl/"
+tags: [data, geekery]
 ---
 In 1999 I had the privilege of attending the KRMO (Karnataka Regional Maths Olympiad) camp at IISc. While it didn't do much to improve my math capabilities, it taught me a lot about how to preserve self-esteem when in the presence of materially smarter, sharper & more capable folks.
 

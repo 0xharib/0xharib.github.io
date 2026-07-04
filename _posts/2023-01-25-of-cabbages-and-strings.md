@@ -18,8 +18,8 @@ categories:
 - gpt3
 - gpt
 - llm
-tags: ['geekery','software', 'ai', 'wardleymaps', 'generativeai','nlu','stablediffusion','gpt3','gpt','llm']
 excerpt: Cabbages and cauliflowers were the result of enterprising individuals experimenting with a wild ancestor. Generative AI today, similarly, has accessible, low cost primitives, waiting to be experimented with.
+tags: [ai]
 ---
 
 # Brassica Oleracea

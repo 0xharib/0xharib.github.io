@@ -8,10 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags:
-- books
-- life
-- poetry
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -21,6 +17,7 @@ meta:
   _wpas_done_17882705: '1'
 
 permalink: "/2017/07/27/poetry-and-progeny/"
+tags: [life]
 ---
 In terms of firsts, the earliest memory I have of a book that I self-read is this combo of ["Whiskers for a Cat and Bilderoo is coming"](https://www.amazon.com/Enid-Blytons-Whiskers-Mini-World/dp/0723576351). When I extend the same question to poetry there is nothing that comes to mind.
 

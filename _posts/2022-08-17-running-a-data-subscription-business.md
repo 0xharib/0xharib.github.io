@@ -10,8 +10,8 @@ status: draft
 categories:
 - business
 - software
-tags: ['software','business']
 excerpt: Running a data subscription business is distinctly different from running a SaaS business
+tags: [business, data]
 ---
 ## The backstory
 

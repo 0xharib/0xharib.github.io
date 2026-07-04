@@ -20,8 +20,8 @@ categories:
 - gpt4
 - chatgpt
 - futureofwork
-tags: ['geekery','software', 'ai', 'chatgpt','generativeai','nlu','stablediffusion','gpt3','gpt4','gpt','llm','futureofwork']
 excerpt: Impromptu written by Reid Hoffman & GPT4 makes for an interesting read.
+tags: [ai, books]
 ---
 
 ### Reid's Conflicts of Interest

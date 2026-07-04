@@ -9,7 +9,6 @@ password: ''
 status: publish
 categories:
 - books
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -18,6 +17,7 @@ meta:
   geo_public: '0'
 
 permalink: "/2010/08/29/alain-de-botton-in-status-anxiety/"
+tags: [books, life]
 ---
 _Only as we mature does affection begin to depend on achievement: being polite, succeeding at school and later, acquiring rank and prestige. Such efforts may attract the interest of others, but the underlying emotional craving may not be so much to dazzle because of our deeds as to recapture the tenor of the bountiful, indiscriminate petting we received in return for arranging wooden bricks on the kitchen floor, for having a soft, plump body and wide trusting eyes._
 

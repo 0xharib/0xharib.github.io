@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _publicize_job_id: '16328135828'
   timeline_notification: '1522523130'
@@ -22,6 +21,7 @@ meta:
   _oembed_83fb9ab571fa3e1657f02a8c06a8c96e: "{{unknown}}"
 
 permalink: "/2018/04/01/do-inauspicious-days-influence-child-birth-date-selection/"
+tags: [data, india]
 ---
 [Part 0](https://haribalaji.net/2018/02/02/delhi-schools-1-n/) | [Part 1](https://haribalaji.net/2018/02/09/what-amit-and-pooja-decide-to-call-their-kids-delhi-schools-2-n/) | [Part 2](http://haribalaji.net/2018/02/16/what-amit-pooja-decide-to-call-their-kids-part-2-delhi-schools-3-n/)
 

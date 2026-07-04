@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
@@ -26,6 +25,7 @@ meta:
   _oembed_time_9d5ebc282df53e8445e83cf5c66df508: '1518620023'
 
 permalink: "/2018/02/09/what-amit-and-pooja-decide-to-call-their-kids-delhi-schools-2-n/"
+tags: [data, india]
 ---
 Story so far: [Part 1](https://haribalaji.net/2018/02/02/delhi-schools-1-n/)
 

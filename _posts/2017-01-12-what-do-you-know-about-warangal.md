@@ -10,13 +10,13 @@ status: publish
 categories:
 - geekery
 - polling
-tags: []
 meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
   _publicize_job_id: '680224360'
 
 permalink: "/2017/01/12/what-do-you-know-about-warangal/"
+tags: [india, life]
 ---
 Hastily written, please excuse typos.
 

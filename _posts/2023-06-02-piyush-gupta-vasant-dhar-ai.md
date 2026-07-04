@@ -8,15 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['enterprise','software','SaaS','AI','BFSI','generativeAI']
-tags:
-- enterprise
-- software
-- SaaS
-- AI
-- BFSI
-- generativeAI
 permalink: "/piyush-gupta-vasant-dhar-ai/"
 excerpt: The Enterprise Journey with AI & Dystopia
+tags: [ai, fintech]
 ---
 [Dr Vasant Dhar](https://en.wikipedia.org/wiki/Vasant_Dhar) recently interviewed [Mr Piyush Gupta](https://en.wikipedia.org/wiki/Piyush_Gupta), CEO of DBS Group, for his podcast [Brave New World](https://bravenewpodcast.com/) on how AI will transform Business.
 

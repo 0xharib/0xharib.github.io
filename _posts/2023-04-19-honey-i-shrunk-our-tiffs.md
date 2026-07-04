@@ -26,8 +26,8 @@ categories:
 - vicuna
 - alpaca
 - life
-tags: ['geekery','software', 'ai', 'chatgpt','generativeai','nlu','stablediffusion','gpt3','gpt4','gpt','llm','chatgpt','promptengineering','finetuning','llama','vicuna','alpaca', 'life']
 excerpt: Are you asking ChatGPT for relationship advice? Don't! Use a local LLM and fine-tune instead.
+tags: [data, life]
 ---
 
 ![Just plug in your OpenAI key]({{ site.baseurl }}/assets/images/2023/tiffs1.png)

@@ -14,8 +14,8 @@ categories:
 - edtech
 - generativeai
 - ai
-tags: ['geekery','scifi', 'software', 'edtech','generativeai','ai']
 excerpt: How AI will manifest Neal Stephenson's Diamond Age and redefine EdTech
+tags: [ai, sci-fi]
 ---
 
 

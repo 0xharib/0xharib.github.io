@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _oembed_719152842313dece706fa385978f1693: <div class="embed-twitter"><blockquote
     class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Battery
@@ -54,6 +53,7 @@ meta:
   _oembed_time_4f494eefa88c6a135361e85910025482: '1610813184'
 
 permalink: "/2018/02/16/what-amit-pooja-decide-to-call-their-kids-part-2-delhi-schools-3-n/"
+tags: [data, india]
 ---
 Story so far: [Part 0](https://haribalaji.net/2018/02/02/delhi-schools-1-n/) |&nbsp;[Part 1](http://haribalaji.net/2018/02/09/what-amit-and-pooja-decide-to-call-their-kids-delhi-schools-2-n/)
 

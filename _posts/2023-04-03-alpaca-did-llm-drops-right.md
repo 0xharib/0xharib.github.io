@@ -21,8 +21,8 @@ categories:
 - alpaca
 - promptengineering
 - finetuning
-tags: ['geekery','software', 'ai', 'chatgpt','generativeai','nlu','alpaca','gpt3','gpt4','gpt','llm','chatgpt','promptengineering','finetuning']
 excerpt: 
+tags: [ai, llm]
 ---
 
 ![Alpaca]({{ site.baseurl }}/assets/images/2023/alpaca1.jpeg)   

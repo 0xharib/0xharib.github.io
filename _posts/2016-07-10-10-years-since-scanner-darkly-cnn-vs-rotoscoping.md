@@ -10,11 +10,6 @@ status: publish
 categories:
 - books
 - geekery
-tags:
-- CNN
-- pkd
-- scanner darkly
-- scifi
 meta:
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:13846646;s:38:"https://facebook.com/10157057057890184";}}
   _rest_api_published: '1'
@@ -24,6 +19,7 @@ meta:
   _wpas_done_13846646: '1'
 
 permalink: "/2016/07/10/10-years-since-scanner-darkly-cnn-vs-rotoscoping/"
+tags: [sci-fi, geekery]
 ---
 ![A_Scanner_Darkly_Poster]({{ site.baseurl }}/assets/images/2016/07/a_scanner_darkly_poster.jpg)
 

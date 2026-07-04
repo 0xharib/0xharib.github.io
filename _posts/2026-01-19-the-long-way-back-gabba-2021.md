@@ -8,15 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['life','reality','sport','cricket','resilience']
-tags:
-- life
-- reality
-- sport
-- cricket
-- india
-- resilience
 permalink: "/The-Long-Way-Back/"
 excerpt: How a team bowled out for 36 crossed four Tests and a continent to break the one fortress that does not fall
+tags: [cricket, india, life]
 ---
 
 <p style="text-transform: uppercase; letter-spacing: .15em; font-weight: 700; font-size: .8rem; margin-bottom: .25rem;">Cricket &middot; Border&ndash;Gavaskar Trophy, 2020&ndash;21</p>

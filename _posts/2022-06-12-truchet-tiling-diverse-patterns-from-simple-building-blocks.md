@@ -10,8 +10,8 @@ status: publish
 categories:
 - books
 - life
-tags: ['geekery','tiling']
 excerpt: Unimaginably complex patterns emerge from simple building blocks
+tags: [art, geekery]
 ---
 
 I'm generally interested in tiling problems & knot theory.   

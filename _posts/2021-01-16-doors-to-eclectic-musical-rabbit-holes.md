@@ -8,7 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags: []
 meta:
   _last_editor_used_jetpack: block-editor
   _oembed_6bb7be6912ba021fa77354f751f545f3: "{{unknown}}"
@@ -35,6 +34,7 @@ meta:
 
 permalink: "/2021/01/16/doors-to-eclectic-musical-rabbit-holes/"
 excerpt: Some interesting music I discovered using Shazam & Youtube Music Radio
+tags: [music]
 ---
 I've listened to more music over 2020 than perhaps any prior year, largely to focus during WFH.
 

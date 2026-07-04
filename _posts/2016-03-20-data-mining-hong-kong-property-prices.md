@@ -11,7 +11,6 @@ categories:
 - geekery
 - HK
 - property prices
-tags: ['geekery','HK', 'property prices']
 meta:
   _publicize_job_id: '20934234785'
   _rest_api_published: '1'
@@ -21,6 +20,7 @@ meta:
   _wpas_done_13846646: '1'
 
 permalink: "/2016/03/20/data-mining-hong-kong-property-prices/"
+tags: [data, geekery]
 ---
 With property prices in HK finally starting to ease looks like it's&nbsp;finally time to think about buying.
 

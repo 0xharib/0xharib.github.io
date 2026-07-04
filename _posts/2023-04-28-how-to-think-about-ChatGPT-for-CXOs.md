@@ -16,8 +16,8 @@ categories:
 - llm
 - gpt4
 - chatgpt
-tags: ['software', 'ai', 'chatgpt','generativeai','gpt3','gpt4','gpt','llm','chatgpt']
 excerpt: Is ChatGPT a fad? As a CXO how much should you really care?
+tags: [ai, business]
 ---
 
 ![How much do I care?]({{ site.baseurl }}/assets/images/2023/howmuchdoIcare1.png)

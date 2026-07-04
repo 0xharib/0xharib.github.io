@@ -8,15 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['startups','software','SaaS','consulting','services','network']
-tags:
-- startups
-- software
-- SaaS
-- consiulting
-- services
-- network
 permalink: "/design-partners/"
 excerpt: Should you tap your network for your early customers?
+tags: [business]
 ---
 
 ## The Blessing

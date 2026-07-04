@@ -20,8 +20,8 @@ categories:
 - gpt3
 - gpt
 - llm
-tags: ['geekery','software', 'ai', 'wardleymaps', 'generativeai','nlu','stablediffusion','gpt3','gpt','llm','cricket','Wikipedia','DBpedia']
 excerpt: Using a cricket example to examine Google's continued dominance post the advent of IBM Watson and why LLMs might succeed where IBM Watson failed.
+tags: [ai, data]
 ---
 
 ![Ken Jennings' Final Jeopardy! Answer on Feb 16th, 2011]({{ site.baseurl }}/assets/images/2023/computeroverlords.png)

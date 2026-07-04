@@ -19,8 +19,8 @@ categories:
 - llm
 - psychotherapy
 - mental wellness
-tags: ['geekery','software', 'ai', 'generativeai','nlu','stablediffusion','gpt3','gpt','llm', 'psychotherapy', 'mental wellness']
 excerpt: Explores the feasibility of Samantha from Her (2013) and dives deeper into AI in the field of psychotherapy.
+tags: [ai, sci-fi]
 ---
 
 ## The Intelligent Virtual Assistant (IVA)

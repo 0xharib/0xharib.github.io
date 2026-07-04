@@ -11,8 +11,8 @@ categories:
 - geekery
 - analytics
 - data
-tags: ['geekery','analytics','data']
 excerpt: Groening is a hard to catch, insidious means of telling misleading stories with Data
+tags: [data]
 ---
 
 ![Groening]({{ site.baseurl }}/assets/images/2023/groening.png)    

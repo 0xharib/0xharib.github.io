@@ -8,20 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['courses','software','ai','generativeai','gpt3','gpt','gpt4','chatgpt','ml','andrew ng']
-tags:
-- courses
-- software
-- ai
-- generativeai
-- gpt3
-- gpt
-- llm
-- gpt4
-- chatgpt
-- ml
-- andrew ng
 permalink: "/prompt-engineering-andrew-ng-isa-fulford/"
 excerpt: The prompt engineering course by Andrew Ng & Isa Fulford is not for everyone
+tags: [ai, llm]
 ---
 ## TL;DR
 **About:** Andrew Ng brought ML to the masses for free and at scale. He is now back with Isa Fulford of OpenAI with a Prompt Engineering course.   

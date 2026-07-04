@@ -8,9 +8,6 @@ published: true
 password: ''
 status: publish
 categories: []
-tags:
-- books
-- geekery
 meta:
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:13846646;s:38:"https://facebook.com/10156548008700184";}}
   _rest_api_published: '1'
@@ -20,6 +17,7 @@ meta:
   _wpas_done_13846646: '1'
 
 permalink: "/2016/03/09/why-everyone-should-download-overdrive-and-switch-to-audiobooks/"
+tags: [books, life]
 ---
 If you've spent any time at all talking to me about books over the past year I've likely hijacked a few minutes of that conversation to&nbsp;expound&nbsp;the virtues of [Overdrive](https://www.overdrive.com/) (of which I cannot get enough).
 

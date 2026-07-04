@@ -10,7 +10,6 @@ status: publish
 categories:
 - art
 - geekery
-tags: []
 meta:
   _last_editor_used_jetpack: block-editor
   _oembed_71d2d0d3808da8590fc28560caaef241: <div class="embed-amazon"><iframe title="Mondrian
@@ -41,6 +40,7 @@ meta:
 
 permalink: "/2021/08/20/maps-mondrian/"
 excerpt: Can we make Maps in the style of Mondrian?
+tags: [art, data]
 ---
 
 Kiddo is obsessed with art & painting and she learnt about the simple use of primary colours - Rothko and Mondrian in school today.

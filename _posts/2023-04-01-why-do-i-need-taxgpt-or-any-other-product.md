@@ -22,8 +22,8 @@ categories:
 - taxgpt
 - promptengineering
 - finetuning
-tags: ['geekery','software', 'ai', 'chatgpt','generativeai','nlu','stablediffusion','gpt3','gpt4','gpt','llm','chatgpt','promptengineering','finetuning']
 excerpt: It seems like ChatGPT can answer all your tax questions. So why then do you need a separate TaxGPT product?
+tags: [ai, business]
 ---
 
 ![William the Outlaw]({{ site.baseurl }}/assets/images/2023/tax0.png) 

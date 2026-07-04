@@ -19,8 +19,8 @@ categories:
 - llm
 - gpt4
 - chatgpt
-tags: ['geekery','software', 'ai', 'chatgpt','generativeai','nlu','stablediffusion','gpt3','gpt4','gpt','llm']
 excerpt: Large Language Models (LLMs) constantly hallucinate, sometimes producing accurate and profound outputs, but often going awry. For most, building on top of existing large scale LLMs makes the most sense. Builders will need to tease out high quality & reliable results from these models through prompt engineering & creative orchestration.
+tags: [ai, llm]
 ---
 
 ### The Doors of Perceptrons

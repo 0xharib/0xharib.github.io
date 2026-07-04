@@ -8,14 +8,9 @@ published: true
 password: ''
 status: publish
 categories: ['life','reality','geekery','science','genai', 'agents']
-tags:
-- life
-- reality
-- geekery
-- genai
-- agents
 permalink: "/Agentic-Future/"
 excerpt: Imagining what the world will look like in 2026
+tags: [ai, agents]
 ---
 ## **Prologue**
 

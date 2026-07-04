@@ -10,8 +10,8 @@ status: draft
 categories:
 - geekery
 - entertainment
-tags: ['geekery','entertainment']
 excerpt: MrBeast has 
+tags: [data, business]
 ---
 
 MrBeast's success on YouTube and other channels has been close to unparalleled - he has over 200 million subscribers across youtube and other channels.

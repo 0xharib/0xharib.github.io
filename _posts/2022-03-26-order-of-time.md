@@ -10,8 +10,8 @@ status: publish
 categories:
 - books
 - life
-tags: []
 excerpt: Key takeaways from The Order of Time
+tags: [books]
 ---
 # Entropy and Time
 - all physics phenomena are reversible except those that involve **heat transfer**

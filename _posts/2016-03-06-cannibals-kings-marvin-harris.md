@@ -9,13 +9,13 @@ password: ''
 status: publish
 categories:
 - books
-tags: []
 meta:
   _edit_last: '77721598'
   geo_public: '0'
   _publicize_job_id: '20479791760'
 
 permalink: "/2016/03/06/cannibals-kings-marvin-harris/"
+tags: [books]
 ---
 A wonderful [book](http://www.amazon.com/Cannibals-Kings-Cultures-Marvin-Harris/dp/067972849X)! Gave me deep insights especially into the cultural origins of&nbsp;[androcentrism](https://en.wikipedia.org/wiki/Androcentrism).
 
