@@ -93,7 +93,7 @@ full_width: true
                   <span>{{ _post.date | date: _date_format }}</span>
                   {%- if _post.tags and _post.tags.size > 0 -%}
                     <span class="home-card__dot">·</span>
-                    <span>{{ _post.tags | join: ' / ' }}</span>
+                    <span>{{ _post.tags | join: ' #' | prepend: '#' }}</span>
                   {%- endif -%}
                 </div>
                 <h3 class="home-card__title"><a href="{{ _post_url }}">{{ _post.title }}</a></h3>
@@ -134,7 +134,7 @@ full_width: true
                     <span>{{ _post.date | date: _date_format }}</span>
                     {%- if _post.tags and _post.tags.size > 0 -%}
                       <span class="home-card__dot">·</span>
-                      <span>{{ _post.tags | join: ' / ' }}</span>
+                      <span>{{ _post.tags | join: ' #' | prepend: '#' }}</span>
                     {%- endif -%}
                   </div>
                 </div>
@@ -171,7 +171,7 @@ full_width: true
               {%- endif -%}
             </div>
             {%- if _post.tags and _post.tags.size > 0 -%}
-            <span class="home-row__tags">{{ _post.tags | join: ' / ' }}</span>
+            <span class="home-row__tags">{{ _post.tags | join: ' #' | prepend: '#' }}</span>
             {%- endif -%}
           </article>
         {%- endfor -%}

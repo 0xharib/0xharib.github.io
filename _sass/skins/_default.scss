@@ -4,26 +4,26 @@
 // Email: kitian616@outlook.com
 ///
 
-// main colors
-$main-color-1:     #fc4d50;
+// main colors (site palette: aged paper, warm ink, burnt amber, patina green)
+$main-color-1:     #b4530a;
 $text-color-1:     #fff;
 
-$main-color-2:     #fca24d;
+$main-color-2:     #41684f;
 $text-color-2:     #fff;
 
-$main-color-3:     #f2f2f2;
-$text-color-3:     #333;
+$main-color-3:     #ece4d1;
+$text-color-3:     #231c11;
 
-$main-color-theme-light: rgba(#000, .9);
+$main-color-theme-light: rgba(#231c11, .9);
 $main-color-theme-dark:  rgba(#fff, .9);
 
 // page background
-$background-color: #fff;
+$background-color: #f5efe3;
 
 // text colors
-$text-color-theme-light-d: #000;
-$text-color-theme-light:   #222;
-$text-color-theme-light-l: #888;
+$text-color-theme-light-d: #16110a;
+$text-color-theme-light:   #231c11;
+$text-color-theme-light-l: #5f5545;
 
 $text-color-theme-dark-d:  #fff;
 $text-color-theme-dark:    rgba(#fff, .95);
@@ -49,11 +49,11 @@ $decorate-color:   rgba(#000, .1);
 $mask-color:       rgba(#000, .9);
 $select-color:     rgba($main-color-1, .5);
 
-// function colors
-$green:           #52c41a;
-$blue:            #1890ff;
-$yellow:          #fa8c16;
-$red:             #f5222d;
+// function colors (muted to sit on aged paper)
+$green:           #5a8a4a;
+$blue:            #3a6ea5;
+$yellow:          #c98a2d;
+$red:             #b3402e;
 $text-color-function: #fff;
 
 // logo colors
