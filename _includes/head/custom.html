@@ -1,7 +1,7 @@
 <!-- start custom head snippets -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
 
 <meta name="theme-color" content="#f5efe3">
 <meta name="color-scheme" content="light">
@@ -20,7 +20,7 @@
 {%- if page.layout == 'article' or page.type == 'post' -%}
   {%- assign _og_type = 'article' -%}
 {%- endif -%}
-{%- assign _share_image = '/assets/images/img_5161.png' -%}
+{%- assign _share_image = '/assets/images/og-card.png' -%}
 {%- include snippets/get-nav-url.html path=_share_image -%}
 {%- assign _share_image = __return | prepend: site.url -%}
 {%- capture _page_url -%}{%- include snippets/page-url.html -%}{%- endcapture -%}

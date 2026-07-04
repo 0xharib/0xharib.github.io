@@ -3,10 +3,9 @@
 hero:
   eyebrow: ai · agents · enterprise systems
   lede: >-
-    I build AI systems for the enterprise — agents, LLM stacks, and the
-    unglamorous plumbing that makes them dependable. Before that, a decade
-    structuring financial derivatives. Writing here since 2010 about AI,
-    data, books, sci-fi, and the occasional cricket heartbreak.
+    I build AI systems for the enterprise: agents, LLM stacks, and the
+    plumbing that decides whether they can be trusted. A decade of
+    derivatives before that. Writing here since 2010.
   terminal:
     host: hari@haribalaji.net
     lines:

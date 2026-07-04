@@ -26,12 +26,20 @@ titles:
 key: page-about
 ---
 
-Greetings, human/crawler-bot! I'm a 40-something interstellar traveler, teleporting through the cosmic realms of sci-fi literature, grooving to the harmonies of an eclectic musical universe, and indulging in celestial snacking.
+Hello. I'm Hari.
 
-Once a master of the financial derivatives multiverse, I hung up my Wall Street cape to conjure AI wizardry for the enterprise world. Now, I'm immersing myself in the enigmatic vortex of cryptocurrency and Generative AI — two of the most tantalizing bubbles at our current coordinates in space-time continuum.
+By day I design and build AI systems for enterprises: agentic workflows, LLM stacks, and the plumbing underneath that decides whether any of it can be trusted. Before this I spent a decade structuring financial derivatives, which turns out to be useful training for working with confident models that are sometimes wrong.
 
-If you'd like that without the space metaphors: I design and build AI systems for enterprises. Agentic workflows, LLM stacks, and the plumbing underneath that decides whether any of it can be trusted. The writing here is the paper trail. Start with the [AI essays]({{ site.baseurl }}/archive.html?tag=ai), or jump straight to [Dreams of an Agentic Future]({{ site.baseurl }}/Agentic-Future/).
+The rest of the time I read. Science fiction mostly, though the bookshelf disputes the word "mostly". I fall down musical rabbit holes, poke at datasets for fun, and watch more Test cricket than a reasonable adult should.
 
-As the great Douglas Adams once said, "I may not have gone where I intended to go, but I think I have ended up where I needed to be." So, welcome aboard my spaceship, fellow explorer, and thanks for dropping by!
+This site is the paper trail, kept since 2010. Essays on AI and agents, data experiments, book notes, and one cricket series that still raises my pulse. Start with the [AI essays]({{ site.baseurl }}/archive.html?tag=ai), or wander the [archive]({{ site.baseurl }}/archive.html).
 
-![]({{ site.baseurl }}/assets/images/img_5161.png)
+As Douglas Adams said, "I may not have gone where I intended to go, but I think I have ended up where I needed to be." Thanks for dropping by.
+
+![Generative Truchet tile field in the site's palette]({{ site.baseurl }}/assets/images/truchet-field.svg)
+
+<p class="image-caption">truchet-field.svg — generated in this site's palette, after two essays on <a href="{{ site.baseurl }}/books/life/2022/06/12/truchet-tiling-diverse-patterns-from-simple-building-blocks.html">Truchet tilings</a> and <a href="{{ site.baseurl }}/geekery/tiling/2022/06/18/Custom-Hex-Tiling.html">hexagonal tiles</a>. The mark in the header and the favicon are the same tiles, arranged kindly.</p>
+
+## Colophon
+
+Set in Fraunces, Newsreader, and IBM Plex Mono on aged paper. Built with Jekyll, hosted on GitHub Pages, written by a human with occasional robot assistance.

@@ -1,6 +1,6 @@
 /* start custom scss snippet */
 :root {
-  --font-body: "Space Grotesk", "Segoe UI", sans-serif;
+  --font-body: "Newsreader", Georgia, "Times New Roman", serif;
   --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
   --font-display: "Fraunces", "Times New Roman", serif;
   --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
@@ -114,8 +114,10 @@ a:focus-visible {
 
 .button {
   border-radius: var(--radius-sm);
-  font-family: var(--font-body);
-  letter-spacing: 0.01em;
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  text-transform: lowercase;
+  letter-spacing: 0.03em;
 }
 
 .button--pill {
@@ -218,9 +220,10 @@ a:focus-visible {
 }
 
 .home-hero__lede {
-  max-width: 34rem;
-  font-size: 1.1rem;
-  line-height: 1.7;
+  max-width: 32rem;
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  line-height: 1.65;
   color: var(--muted);
   margin: 0.5rem 0 1.5rem;
 }
@@ -636,6 +639,14 @@ a:focus-visible {
   border: 0;
   border-top: 1px solid var(--border);
   margin: 2.5rem 0;
+}
+
+.article__content .image-caption {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  line-height: 1.7;
+  margin-top: 0.35rem;
 }
 
 .layout--archive .site-tags .tag-button {
