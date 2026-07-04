@@ -1,0 +1,46 @@
+# Curated content for the homepage. Posts are matched by filename slug
+# (the part of the file name in _posts/ after the date).
+hero:
+  eyebrow: ai · agents · enterprise systems
+  lede: >-
+    I build AI systems for the enterprise — agents, LLM stacks, and the
+    unglamorous plumbing that makes them dependable. Before that, a decade
+    structuring financial derivatives. Writing here since 2010 about AI,
+    data, books, sci-fi, and the occasional cricket heartbreak.
+  terminal:
+    host: hari@haribalaji.net
+    lines:
+      - prompt: whoami
+      - output: "builder of enterprise AI systems; recovering derivatives guy"
+      - prompt: cat focus.yml
+      - output: "now:"
+      - output: "  - agentic systems and LLM stacks"
+      - output: "  - generative AI × fintech"
+      - output: "  - crypto rabbit holes"
+      - output: "before:"
+      - output: "  - a decade of derivatives"
+      - output: "elsewhere:"
+      - output: "  - sci-fi shelves, eclectic playlists"
+      - prompt: ""
+
+featured:
+  title: Working notes on AI
+  link_text: All AI essays
+  link_url: /archive.html?tag=ai
+  slugs:
+    - dreams-of-an-agentic-future
+    - winnie-the-pooh
+    - the-llm-stack-is-slowly-emerging
+    - harnessing-hallucinations-guiding-llms-to-success
+    - how-to-think-about-ChatGPT-for-CXOs
+    - where-are-the-new-computer-overlords
+
+experiments:
+  title: Field notes and data experiments
+  link_text: More data posts
+  link_url: /archive.html?tag=data
+  slugs:
+    - data-mining-hong-kong-property-prices
+    - do-inauspicious-days-influence-child-birth-date-selection
+    - Custom-Hex-Tiling
+    - honey-i-shrunk-our-tiffs

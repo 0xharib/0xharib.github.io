@@ -1,55 +1,36 @@
 ---
 layout: page
 titles:
-  # @start locale config
-  en      : &EN       Home
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  主页
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  主頁
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       홈
-  ko-KR   : *KO
-  fr      : &FR       Accueil
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  tr      : &TR       Ana Sayfa
-  # @end locale config
+  en: Home
 show_title: false
 article_header: false
 full_width: true
 ---
 {%- assign _page_number = paginator.page | default: 1 -%}
-{%- assign _show_intro = _page_number == 1 -%}
+{%- if _page_number == 1 -%}
+  {%- assign _show_intro = true -%}
+{%- else -%}
+  {%- assign _show_intro = false -%}
+{%- endif -%}
 {%- assign _posts = paginator.posts | default: site.posts -%}
-{%- assign _book_posts = site.categories.books | sort: 'date' | reverse -%}
-{%- assign _hero_image_webp = '/assets/images/img_5161.webp' -%}
-{%- assign _hero_image_png = '/assets/images/img_5161.png' -%}
-{%- include snippets/get-nav-url.html path=_hero_image_webp -%}
-{%- assign _hero_image_webp = __return -%}
-{%- include snippets/get-nav-url.html path=_hero_image_png -%}
-{%- assign _hero_image_png = __return -%}
+{%- assign _home = site.data.home -%}
 {%- assign _archive_url = '/archive.html' -%}
 {%- include snippets/get-nav-url.html path=_archive_url -%}
 {%- assign _archive_url = __return -%}
 {%- assign _about_url = '/about.html' -%}
 {%- include snippets/get-nav-url.html path=_about_url -%}
 {%- assign _about_url = __return -%}
+{%- assign _ai_url = '/archive.html?tag=ai' -%}
+{%- include snippets/get-nav-url.html path=_ai_url -%}
+{%- assign _ai_url = __return -%}
 {%- assign _books_url = '/archive.html?tag=books' -%}
 {%- include snippets/get-nav-url.html path=_books_url -%}
 {%- assign _books_url = __return -%}
-{%- assign _focus_items = site.description | split: '|' -%}
 {%- include snippets/get-locale-string.html key='ARTICLE_LIST_DATE_FORMAT' -%}
 {%- assign _date_format = __return -%}
+{%- assign _book_posts = site.tags.books | sort: 'date' | reverse -%}
+{%- assign _first_post = site.posts | last -%}
+{%- assign _first_year = _first_post.date | date: '%Y' -%}
 
 <div class="layout--home home-v2">
   {%- if _show_intro -%}
@@ -57,30 +38,111 @@ full_width: true
     <div class="home-hero__bg"></div>
     <div class="main home-hero__inner">
       <div class="home-hero__copy" data-reveal>
+        <p class="home-hero__eyebrow">{{ _home.hero.eyebrow }}</p>
         <h1 class="home-hero__title">{{ site.title }}</h1>
-        {%- if site.description -%}
-        <p class="home-hero__lede">
-          {%- for _item in _focus_items -%}
-            {%- assign _clean_item = _item | strip -%}
-            {%- if _clean_item != '' -%}
-              <span>{{ _clean_item }}</span>
-            {%- endif -%}
-          {%- endfor -%}
-        </p>
-        {%- endif -%}
+        <p class="home-hero__lede">{{ _home.hero.lede }}</p>
         <div class="home-hero__actions">
-          <a class="button button--primary button--pill" href="{{ _about_url }}">About</a>
-          <a class="button button--secondary button--pill" href="{{ _archive_url }}">Writing</a>
+          <a class="button button--primary button--pill" href="{{ _ai_url }}">Read the AI essays</a>
+          <a class="button button--secondary button--pill" href="{{ _about_url }}">About me</a>
         </div>
         <div class="home-hero__social">
           {%- include author-links.html author=site.author -%}
         </div>
       </div>
       <div class="home-hero__media" data-reveal data-reveal-delay="150">
-        <picture>
-          <source srcset="{{ _hero_image_webp }}" type="image/webp">
-          <img src="{{ _hero_image_png }}" alt="Portrait of Hari Balaji" loading="lazy" decoding="async">
-        </picture>
+        <div class="home-terminal" role="img" aria-label="Terminal-style summary of what Hari works on">
+          <div class="home-terminal__bar">
+            <span class="home-terminal__dot"></span>
+            <span class="home-terminal__dot"></span>
+            <span class="home-terminal__dot"></span>
+            <span class="home-terminal__host">{{ _home.hero.terminal.host }}</span>
+          </div>
+          <pre class="home-terminal__body">{% for _line in _home.hero.terminal.lines %}{% if _line.prompt != nil %}<span class="home-terminal__prompt">$</span> <span class="home-terminal__cmd">{{ _line.prompt }}</span>{% if _line.prompt == "" %}<span class="home-terminal__cursor"></span>{% endif %}
+{% else %}<span class="home-terminal__out">{{ _line.output }}</span>
+{% endif %}{% endfor %}</pre>
+        </div>
+      </div>
+    </div>
+    <div class="main">
+      <div class="home-stats" data-reveal>
+        <div class="home-stats__item"><strong>{{ site.posts | size }}</strong> essays</div>
+        <div class="home-stats__item">writing since <strong>{{ _first_year }}</strong></div>
+        <div class="home-stats__item"><strong>{{ site.tags | size }}</strong> topics</div>
+        <a class="home-stats__item home-stats__item--link" href="{{ _archive_url }}">browse all →</a>
+      </div>
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- if _show_intro and _home.featured.slugs -%}
+  <section class="home-section home-featured">
+    <div class="main">
+      <div class="home-section__header">
+        <h2 class="home-section__title"><span class="home-section__index">01</span>{{ _home.featured.title }}</h2>
+        <a class="home-section__link" href="{{ _ai_url }}">{{ _home.featured.link_text }}</a>
+      </div>
+      <div class="home-feed__grid">
+        {%- for _slug in _home.featured.slugs -%}
+          {%- for _post in site.posts -%}
+            {%- assign _slug_match = _slug | prepend: '-' | append: '.' -%}
+            {%- if _post.path contains _slug_match -%}
+              {%- include snippets/prepend-baseurl.html path=_post.url -%}
+              {%- assign _post_url = __return -%}
+              <article class="home-card" data-reveal data-reveal-delay="{{ forloop.parentloop.index0 | times: 60 }}">
+                <div class="home-card__meta">
+                  <span>{{ _post.date | date: _date_format }}</span>
+                  {%- if _post.tags and _post.tags.size > 0 -%}
+                    <span class="home-card__dot">·</span>
+                    <span>{{ _post.tags | join: ' / ' }}</span>
+                  {%- endif -%}
+                </div>
+                <h3 class="home-card__title"><a href="{{ _post_url }}">{{ _post.title }}</a></h3>
+                {%- if _post.excerpt -%}
+                  <p class="home-card__excerpt">{{ _post.excerpt | strip_html | strip | truncate: 170 }}</p>
+                {%- endif -%}
+              </article>
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
+      </div>
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- if _show_intro and _home.experiments.slugs -%}
+  <section class="home-section home-experiments">
+    <div class="main">
+      <div class="home-section__header">
+        <h2 class="home-section__title"><span class="home-section__index">02</span>{{ _home.experiments.title }}</h2>
+        {%- assign _data_url = _home.experiments.link_url -%}
+        {%- include snippets/get-nav-url.html path=_data_url -%}
+        <a class="home-section__link" href="{{ __return }}">{{ _home.experiments.link_text }}</a>
+      </div>
+      <div class="home-experiments__grid">
+        {%- for _slug in _home.experiments.slugs -%}
+          {%- for _post in site.posts -%}
+            {%- assign _slug_match = _slug | prepend: '-' | append: '.' -%}
+            {%- if _post.path contains _slug_match -%}
+              {%- include snippets/prepend-baseurl.html path=_post.url -%}
+              {%- assign _post_url = __return -%}
+              <article class="home-experiment" data-reveal data-reveal-delay="{{ forloop.parentloop.index0 | times: 60 }}">
+                <span class="home-experiment__index">{{ forloop.parentloop.index | prepend: '0' | slice: -2, 2 }}</span>
+                <div>
+                  <h3 class="home-experiment__title"><a href="{{ _post_url }}">{{ _post.title }}</a></h3>
+                  <div class="home-card__meta">
+                    <span>{{ _post.date | date: _date_format }}</span>
+                    {%- if _post.tags and _post.tags.size > 0 -%}
+                      <span class="home-card__dot">·</span>
+                      <span>{{ _post.tags | join: ' / ' }}</span>
+                    {%- endif -%}
+                  </div>
+                </div>
+              </article>
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
       </div>
     </div>
   </section>
@@ -90,34 +152,26 @@ full_width: true
     <div class="main">
       <div class="home-section__header">
         {%- if _show_intro -%}
-          <h2 class="home-section__title">Latest writing</h2>
+          <h2 class="home-section__title"><span class="home-section__index">03</span>Latest writing</h2>
         {%- else -%}
           <h2 class="home-section__title">Writing archive</h2>
         {%- endif -%}
         <a class="home-section__link" href="{{ _archive_url }}">Full archive</a>
       </div>
-      <div class="home-feed__grid">
+      <div class="home-list">
         {%- for _post in _posts -%}
           {%- include snippets/prepend-baseurl.html path=_post.url -%}
           {%- assign _post_url = __return -%}
-          <article class="home-card" data-reveal data-reveal-delay="{{ forloop.index0 | times: 60 }}">
-            <div class="home-card__meta">
-              <span>{{ _post.date | date: _date_format }}</span>
-              {%- if _post.categories and _post.categories.size > 0 -%}
-                <span class="home-card__dot">.</span>
-                <span>{{ _post.categories | first }}</span>
+          <article class="home-row" data-reveal data-reveal-delay="{{ forloop.index0 | times: 40 }}">
+            <span class="home-row__date">{{ _post.date | date: '%Y-%m-%d' }}</span>
+            <div class="home-row__main">
+              <h3 class="home-row__title"><a href="{{ _post_url }}">{{ _post.title }}</a></h3>
+              {%- if _post.excerpt -%}
+                <p class="home-row__excerpt">{{ _post.excerpt | strip_html | strip | truncate: 150 }}</p>
               {%- endif -%}
             </div>
-            <h3 class="home-card__title"><a href="{{ _post_url }}">{{ _post.title }}</a></h3>
-            {%- if _post.excerpt -%}
-              <p class="home-card__excerpt">{{ _post.excerpt | strip_html | strip | truncate: 180 }}</p>
-            {%- endif -%}
-            {%- if _post.categories and _post.categories.size > 1 -%}
-            <ul class="home-card__tags">
-              {%- for _cat in _post.categories limit: 2 -%}
-                <li>{{ _cat }}</li>
-              {%- endfor -%}
-            </ul>
+            {%- if _post.tags and _post.tags.size > 0 -%}
+            <span class="home-row__tags">{{ _post.tags | join: ' / ' }}</span>
             {%- endif -%}
           </article>
         {%- endfor -%}
@@ -134,8 +188,8 @@ full_width: true
   <section class="home-section home-books">
     <div class="main">
       <div class="home-section__header">
-        <h2 class="home-section__title">Bookshelf</h2>
-        <a class="home-section__link" href="{{ _books_url }}">Book notes</a>
+        <h2 class="home-section__title"><span class="home-section__index">04</span>Bookshelf</h2>
+        <a class="home-section__link" href="{{ _books_url }}">All book notes</a>
       </div>
       <div class="home-books__grid">
         {%- for _post in _book_posts limit: 3 -%}
