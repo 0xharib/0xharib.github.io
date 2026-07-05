@@ -38,7 +38,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : Hari Balaji
   url       :
-  avatar    : /assets/android-chrome-512x512.png
+  avatar    : /assets/images/hari.jpg
   bio       : Building AI systems for the enterprise. Ex-derivatives. Reads everything.
   goodreads : 0xharib
   email     :

@@ -26,6 +26,8 @@ titles:
 key: page-about
 ---
 
+<img class="about-portrait" src="{{ site.baseurl }}/assets/images/hari.jpg" alt="Portrait of Hari Balaji" width="400" height="400">
+
 Hello. I'm Hari.
 
 By day I design and build AI systems for enterprises: agentic workflows, LLM stacks, and the plumbing underneath that decides whether any of it can be trusted. Before this I spent a decade structuring financial derivatives, which turns out to be useful training for working with confident models that are sometimes wrong.

@@ -641,6 +641,13 @@ a:focus-visible {
   margin: 2.5rem 0;
 }
 
+.article__content img.about-portrait {
+  width: min(220px, 55%);
+  height: auto;
+  border-radius: var(--radius-md);
+  margin-bottom: 0.5rem;
+}
+
 .article__content .image-caption {
   font-family: var(--font-mono);
   font-size: 0.75rem;
