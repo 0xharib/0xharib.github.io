@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-<img class="about-portrait" src="{{ site.baseurl }}/assets/images/hari.jpg" alt="Portrait of Hari Balaji" width="400" height="400">
+<img class="about-portrait" src="{{ site.baseurl }}/assets/images/hari.jpg" alt="Portrait of Hari Balaji" width="800" height="800">
 
 Hello. I'm Hari.
 
