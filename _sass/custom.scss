@@ -656,6 +656,139 @@ a:focus-visible {
   margin-top: 0.35rem;
 }
 
+/* longform essay furniture */
+.article__content figcaption {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  line-height: 1.7;
+  margin-top: 0.6rem;
+}
+
+.article__content .essay-kicker {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.article__content .essay-dek {
+  font-size: 1.35rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: var(--muted);
+  margin-bottom: 2rem;
+}
+
+.article__content .drop-cap::first-letter {
+  float: left;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 3.3em;
+  line-height: 0.82;
+  padding: 0.06em 0.12em 0 0;
+  color: var(--accent);
+}
+
+.article__content .pull-quote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.45rem;
+  line-height: 1.45;
+  text-align: center;
+  max-width: 28rem;
+  margin: 2.75rem auto;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.article__content .pull-quote::before {
+  content: "";
+  display: block;
+  width: 2.25rem;
+  margin: 0 auto 1.1rem;
+  border-top: 3px solid var(--accent);
+}
+
+.article__content h2 {
+  padding-top: 0.5rem;
+}
+
+.article__content h2::before {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  border-top: 3px solid var(--accent);
+  margin-bottom: 1rem;
+}
+
+.article__content .scorecard {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: 0.9rem 1.25rem;
+  margin: 2rem 0;
+}
+
+.article__content .scorecard p {
+  margin: 0.15rem 0;
+}
+
+.article__content .scorecard__label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 0.45rem;
+}
+
+.article__content .scorecard__result {
+  margin-top: 0.5rem;
+  color: var(--muted);
+}
+
+.article__content p.success,
+.article__content p.info,
+.article__content p.warning,
+.article__content p.error {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-left-width: 3px;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: 0.85rem 1.15rem;
+  font-size: 0.98em;
+}
+
+.article__content p.success {
+  border-left-color: #5a8a4a;
+}
+
+.article__content p.info {
+  border-left-color: #3a6ea5;
+}
+
+.article__content p.warning {
+  border-left-color: #c98a2d;
+}
+
+.article__content p.error {
+  border-left-color: #b3402e;
+}
+
+.article__content .essay-sources {
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
 .layout--archive .site-tags .tag-button {
   font-family: var(--font-mono);
   font-size: 0.8rem;
